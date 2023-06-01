@@ -1,0 +1,1 @@
+Def :: 0.4  `O`: The result of applying the `M` to `I`, an abstraction or a list of `abstractions`
