@@ -21,7 +21,7 @@ One can select a problem they would like to solve, or a question they would like
 #### Hypothesis
 0. [prop] The subject is isomorphic to a process as defined in [Def 0] of [[Typed Process Calculus Axioms]] where `I` and `O` are isomorphic to the subject's representation of reality, and `M` is isomorphic to the thought of the model by which the subject resolves uncertainty or increases entropy.
 1. [prop] The subject may formulate a hypothesis as a conditional statement of the form `p -> q`  where `p` is a statement and `q` is a state of affairs.
-3. [prop] We may use a [[holistically defined hypothesis]] or a [[reductively defined hypothesis]]
+3. [prop] We may use a [[Hypothesis-H]] or a [[Hypothesis-R]]
 4. [prop] In the context of magic, a hypothesis would be a proposition or a set of propositions meant to be accepted by a subject with the expectation that evidence will be generated that is consistent with the propositions.
 5. [Def] *Evidation*: The evidation of a proposition is generation of information, which is interpreted as evidence supporting the truth of the proposition.
 6. [Prop] A hypothesis in science places emphasis on the interpretation of evidence

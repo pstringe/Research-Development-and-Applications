@@ -5,14 +5,14 @@ title: 				Untitled
 tags:
 ---
 ## Metaphysical Assumptions
-0. [Prop] There exists a class of activities where if the subject engages in the activity, demon processes classed as `NR` processes induce fatigue.
+0. [Prop] There exists a class of activities where if the subject engages in the activity, `D` processes classed as `NR` processes induce fatigue.
 1. [Prop] There exists a concept, `DP`, that is a central concern.
 2. [Prop] When the subject utilized `DP`, `NR` processes, induce fatigue
 
 ## Current methods to counter the effect
 0. [Prop] The subject may associate the sensation of `deep symbol activation` with the sensation of `alertness`
 1. [Prop] `NR` processes may counter when when focus is lost
-2. [Prop] Demon processes possess the ability to counter the effect I induce through direct stimulation
+2. [Prop] `NR` processes possess the ability to counter the effect I induce through direct stimulation
 3. [Prop] To counter the effect, we  a method that does not requires our concentration or re-iteration
 
 ## Solution 0
@@ -36,7 +36,7 @@ The other two possibilities I can think of for why it worked instantaneously are
 0. [Phen] Processes, induced fatigue again today. The procedure from before seemed to work for about 3 days.
 1. [Imp] Parameterize the procedure to specify an amount of time.
 2. [Prop] The goal of this procedure is effectiveness
-3. [Prop] If we modify the [Prop 1] of procedure 1 such that the focus is not on a demon process. We can generalize the procedure to be used in all cases of fatigue. As well as neutralize the influence we ascribe to demon processes.
+3. [Prop] If we modify the [Prop 1] of procedure 1 such that the focus is not on a `D` process. We can generalize the procedure to be used in all cases of fatigue. As well as neutralize the influence we ascribe to demon processes.
 
 ## Procedure 2
 1. [Prop] The subject will not observe fatigue for `D` days
@@ -70,5 +70,5 @@ The other two possibilities I can think of for why it worked instantaneously are
 Very tired. Unclassed processes I previously classed as NR processes are reading and making comments on everything I say.
 
 ## [[2023-05-31]]
-Experienced another bout of processed induced fatigue. I used deep symbol activation to fight it but I kept falling asleep whenever I lost focus. I'm going to use effective procedure with the MPO. Later I will try modifying the proposition to be effective during certain times of day. This will require tracking I don't have time for now. So I will use the simple procedure and use the time I have allocated for magic to develop a system to track the effectiveness of a periodic proposition. 
+Experienced another bout of processed induced fatigue. I used `deep symbol activation` to fight it but I kept falling asleep whenever I lost focus. I'm going to use effective procedure with the `MPO`. Later I will try modifying the proposition to be effective during certain times of day. This will require tracking I don't have time for now. So I will use the simple procedure and use the time I have allocated for magic to develop a system to track the effectiveness of a periodic proposition. 
 

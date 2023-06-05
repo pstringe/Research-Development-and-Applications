@@ -5,7 +5,8 @@ title: 				Scale Problem
 tags:
 ---
 ## Tasks
-- [ ] Justify Proposition 6
+- [ ] Justify Proposition 6 
+	- [ ] Define the classical algorithm for measurement of constrained indeterminate states
 - [ ] Update the data representation for the process calculus
 - [ ] Examine a model of hierarchical contingency
 
@@ -18,4 +19,4 @@ tags:
 |     4 | ![[scale_problem_contingent_relationships_0.svg]]                                                                                                                                                                                                            | Demonstration of contingent relationships between a, b, c, and d. |                                                                                                                  |
 |     5 | `x&lt;--&gt;y` represents a determinate relationship. The relationship does not change when x or y are observed. The evaluation of the relationship is contingent on the observation of x and the observation of y                                           |                                                                   | s                                                                                                                |
 |     5 | ![[description_of_determiniate_relationships_0.svg]]                                                                                                                                                                                                         |                                                                   |                                                                                                                  |
-|     6 | If the evaluation of a determinate relationship is constrained, its indeterminate state are also constrained.                                                                                                                                                |  ![[Justification of Scale Problem 6]]                                                                 |                                                                                                                  |  
+|     6 | If the evaluation of a determinate relationship is constrained, its related indeterminate states are also constrained.                                                                                                                                                |  ![[Justification of Scale Problem Prop 6]]|                                                                                                                  |  

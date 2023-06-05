@@ -13,7 +13,7 @@ tags:
 	- [x] Set up service ✅ 2023-05-28
 	- [x] Set up Postgres DB ✅ 2023-05-28
 	- [ ] Set up repository resource for Dialectic
-		- [ ] research
+		- [x] research ✅ 2023-06-02
 		- [x] Make sure dialectic entity is imported in app module ✅ 2023-05-29
 		- [x] Make sure we are referencing typeOrm in Dialectic module imports ✅ 2023-05-29
 		- [x] Inject the repository into the dialectic service ✅ 2023-05-29
@@ -31,7 +31,6 @@ tags:
 		- [x] Implement Dialogue component ✅ 2023-05-29
 		- [x] Add Textfield for title ✅ 2023-05-29
 		- [x] Connect Textfield to internal state ✅ 2023-05-29
-	
 	- [ ] Implement propositions repository
 	- [ ] Implement propositions service methods 
 		- [ ] implement post
