@@ -9,7 +9,7 @@ https://github.com/pstringe/propositional_analysis_backend.git
 https://github.com/pstringe/propositional_analysis_frontend
 
 ## Context
-A platform to facilitate the analysis of propositions using indeterminate logic. 
+A platform to facilitate the analysis of propositions using indeterminate logic. And generate evidence for the metaphysics that allows humans to program processes. 
 
 ### Problem
 * We need to clarify the metaphysics which are currently, inconsistent.
@@ -50,4 +50,4 @@ The scope of the software project is data collection. We will collect data store
 ### Propositions Interface
 ![[propositions interface.svg]]
 
-### 
+## Tasks

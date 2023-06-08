@@ -4,6 +4,7 @@ modification date:	2023-05-24 16:05
 title: 				Process Calculus Axioms
 tags: #metaphysics
 ---
+The process calculus is a tool for representing thought forms using a process model
 ![[Def  0.0]]
 ![[Def  0.1 Interface]]
 ![[Def  0.2 `I` Is an interface consisting of an `abstraction` or list of `abstractions`]]

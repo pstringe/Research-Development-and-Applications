@@ -32,9 +32,11 @@ tags:
 		- [x] Add Textfield for title ✅ 2023-05-29
 		- [x] Connect Textfield to internal state ✅ 2023-05-29
 	- [ ] Implement propositions repository
+		- [ ] Observe and generate tasks
 	- [ ] Implement propositions service methods 
 		- [ ] implement post
 		- [ ] implement findById
+	- [ ] 
 
 ## Objective
 When a dialectic post request is submitted, a corresponding record is added to the database.
