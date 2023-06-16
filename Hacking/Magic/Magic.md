@@ -14,16 +14,16 @@ Given our definition of magic, a method analogous to the scientific method can b
 One can select a problem they would like to solve, or a question they would like to resolve uncertainty about, based on discriminatory observations. Including empirical and phenomenological data
 
 #### Assumptions
-![[Typed Process Calculus Axioms]]
+![[Process Calculus]]
 
 ![[On the relationship between thought and being]]
 
 #### Hypothesis
-0. [prop] The subject is isomorphic to a process as defined in [Def 0] of [[Typed Process Calculus Axioms]] where `I` and `O` are isomorphic to the subject's representation of reality, and `M` is isomorphic to the thought of the model by which the subject resolves uncertainty or increases entropy.
+0. [prop] The subject is isomorphic to a process as defined in [Def 0] of [[Process Calculus]] where `I` and `O` are isomorphic to the subject's representation of reality, and `M` is isomorphic to the thought of the model by which the subject resolves uncertainty or increases entropy.
 1. [prop] The subject may formulate a hypothesis as a conditional statement of the form `p -> q`  where `p` is a statement and `q` is a state of affairs.
 3. [prop] We may use a [[Hypothesis-H]] or a [[Hypothesis-R]]
 4. [prop] In the context of magic, a hypothesis would be a proposition or a set of propositions meant to be accepted by a subject with the expectation that evidence will be generated that is consistent with the propositions.
-5. [Def] *Evidation*: The evidation of a proposition is generation of information, which is interpreted as evidence supporting the truth of the proposition.
+5.![[Def-EM-5-Evidation]]
 6. [Prop] A hypothesis in science places emphasis on the interpretation of evidence
 7. [Prop] A hypothesis in magic places emphasis on the generation of evidence
 

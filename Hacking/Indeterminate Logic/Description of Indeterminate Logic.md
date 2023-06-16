@@ -1,9 +1,14 @@
 ---
-creation date:		2023-06-02 16:18
-modification date:	2023-06-02 16:18
-title: 				Untitled
-tags:
+creation date:		2023-06-10 14:25
+modification date:	2023-06-10 14:27
+title: 				Proposition
+type:     
+topic:
+index:
+name:
+tags: 
 ---
+
 ## Values
 0. [Def] For any given proposition `P`, may be represented by a tuple `(c, f)` where `c` is a value representing `P`'s relationship to the current state, and `f` is a value representing `P`'s relationship to a future state.
 1. [Def] `c` may be any of the following values: `T F U C`
@@ -12,10 +17,12 @@ tags:
 4. [Def] `c==F` if `~(c==T)`
 5. [Def] `c==U` if `~(c==T) ^ ~(c==F)`
 6. [Def] `c==C` if the value of c depends on an indeterminate value
-7. [Def] `f==A` if `P` is an isomorphic representation of a future state. (evidation of `P`)
-8. [Def] `f==R` if `~(f==A)`
-9. [Def] `f==U` if `~(f==A) ^ ~(f==R)`
-10. [Def] `f==C` if the future state of `P` depends on an indeterminate value
+8. [Def] `f==A` if `P` is an isomorphic representation of a future state. (evidation of `P`)
+9. [Def] `f==R` if `~(f==A)`
+10. [Def] `f==U` if `~(f==A) ^ ~(f==R)`
+11. [Def] `f==C` if the future state of `P` depends on an indeterminate value
+12. [Def] `f==S` if the subject evidates `P` is isomorphic a past state 
+13. [Def] `f==E` if the subject evidates `P` is not isomorphic to a past state
 
 ## Operators
 ### Equality Operators
@@ -35,26 +42,12 @@ tags:
 2. *contingent*: `cR()`
 
 ### Logic Definition
-1. [Def]
+Def : NLA : 0.0 : Indeterminate Logic Values
 ```
-type Value = T | A | R | F | C
-```
-
-2. [Def]
-```ts
-Abstraction {
-	abstraction: Abstraction | EP
-	expression: Abstraction[]
-	value: (x: Abstracti[]) => y: Value
-}
+type Value = T | A | R | F | C | S | E
 ```
 
-3. [Def]
-```
-Proposition extends Symbol {
-	expressions: Expression[]
-}
-```
+![[Def-NLA-1.0-Abstraction]]
 
 
 ### Logical Operators

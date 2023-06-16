@@ -4,6 +4,7 @@ modification date:	2023-05-27 06:31
 title: 				Procedure For Encoding Propositions In Metaphysical Objects
 tags:
 ---
+
 #### Params: P T X
 0. [Param] `P` : [Prop]
 1. [Param] `T` : [Unit]  [Number] duration
