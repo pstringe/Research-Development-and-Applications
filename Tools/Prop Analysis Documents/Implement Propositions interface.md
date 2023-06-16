@@ -15,7 +15,7 @@ tags:
 		- [x] Import tokenization module into propositions module ✅ 2023-06-02
 		- [x] Import tokenization service into propositions service ✅ 2023-06-02
 	- [x] Update interface user flows based on for propositions interface based on updated objectives ✅ 2023-06-04
-	- [ ] Update sequence of events 📅  today
+
 	
 ## Objective
 Develop an interface to express each symbol(token) by associating it with other tokens. The expression will become it's definition. 
@@ -26,3 +26,9 @@ Develop an interface to express each symbol(token) by associating it with other 
 * On click, the user may express the token by defining it in terms of other tokens, such that the definition could be substituted for the token 
 
 ![[Natural Language Application of Indeterminate Logic]]
+
+## Tasks
+- [ ] Migrate to typescript ![[Migrate to typescript]]
+- [ ] Plan state management
+- [ ] Plan API routes
+- [ ] Plan the component hierarchy based on skeleton

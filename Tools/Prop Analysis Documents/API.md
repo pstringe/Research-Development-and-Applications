@@ -4,8 +4,6 @@ modification date:	2023-05-28 13:21
 title: 				API
 tags:
 ---
-## API
-
 |      |             |                       |                                                           |                            |
 | ---- | ----------- | --------------------- | --------------------------------------------------------- | -------------------------- |
 | Verb | Resource    | Route                 | Description                                               | Related to Frontend Routes |

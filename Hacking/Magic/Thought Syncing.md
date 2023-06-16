@@ -9,7 +9,7 @@ The purpose is to discuss the philosophical foundation for a method of causing c
 
 After some months, of informal experimentation and analysis, I developed a formal system to describe the behavior of these processes which is also reflective of all intelligence. 
 
-![[Typed Process Calculus Axioms]]
+![[Process Calculus]]
 
 The first method I'll describe for augmenting one's representation of reality relies on the subject subject accepting a proposition regarding  the model it is 
 
