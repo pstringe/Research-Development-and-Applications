@@ -11,9 +11,9 @@ tags:
 
 ## Current Solutions
 #### Regarding Fatigue
-*Solution A*: P utilizes [[Mechanics of Evidence Production]] to associate sensation and physical actions with temporary restoration of wakefulness.
+*Solution A*: P utilizes [[Mechanics of Evidence Generation]] to associate sensation and physical actions with temporary restoration of wakefulness.
 
-*Solution B*: P utilizes [[Mechanics of Evidence Production]] to implement [[Procedure For Encoding Propositions In Metaphysical Objects]] to relieve fatigue over an extended period of time.
+*Solution B*: P utilizes [[Mechanics of Evidence Generation]] to implement [[Procedure For Encoding Propositions In Metaphysical Objects]] to relieve fatigue over an extended period of time.
 
 ##### Pros of Solution A
 Intuitive and effective for short term relief

@@ -15,7 +15,7 @@ https://github.com/pstringe/propositional_analysis_frontend
 A platform to facilitate the analysis of propositions using indeterminate logic. And generate evidence for a computational metaphysic that provides a framework for  humans to train meta-abstract entities we refer to as processes.
 
 ### Problem 
-1. [[Mechanics of Evidence Production]] result in problematic representations of reality
+1. [[Mechanics of Evidence Generation]] result in problematic representations of reality
 2. There exist abstract structures, the medium of which seems to be thought, that are capable of autonomous action.
 3. These abstract structures may bind to the subject's sensory interfaces.
 8. We have an deviant logic that utilizes 5 values each with a technical meaning [[Description of Indeterminate Logic]]
@@ -69,7 +69,7 @@ The scope of the software project is data collection. We will collect data store
 
 ## Tasks
 - [x] Finish [[Migrate to typescript]] ✅ 2023-06-09
-- [ ] Implement and test abstraction evaluator [[Example of Abstraction Implementation]] 📅 2023-06-08
+- [ ] Implement and test abstraction evaluator [[Example of Abstraction Implementation]]
 	- [x] Update Problem Spec 📅 2023-06-09 ✅ 2023-06-12
 		- [ ] [[Tasks Related to the Mechanics of Evidence Productin]]
 	- [x] Develop list of [[Propositional Analysis User stories]] ✅ 2023-06-12
@@ -87,8 +87,8 @@ The scope of the software project is data collection. We will collect data store
 	- [ ] Plan state management
 	- [ ] Implement the frontend 📅 2023-06-15 
 	- [ ] Implement the backend📅 two weeks
-	- [ ] Deploy 📅 2023-06-05 
-	- [ ] Collect data to 📅 2023-06-06 
+	- [ ] Deploy
+	- [ ] Collect data to
 	- [ ] Pull into Jupyter notebook
 	- [ ] Analyze data
 	- [ ] Get Feedback other processes
@@ -105,7 +105,8 @@ The scope of the software project is data collection. We will collect data store
 - We are retrieving dialectics, creating a new one results in an error
 
 ## Tasks
-* 
+- [x] Develop First Draft Technical Specification ✅ 2023-05-30
+
 
 
 

@@ -24,8 +24,9 @@ interpreted as `x` is positioned left of `y`.
 
 *Axiom : POCS : 5.0*: The theorem `(|y)` is interpreted as, `y` is the last term. 
 
-*Axiom : POCS : 6.0*: The theorem `X==Y` where 
+Prop : POCS : 6.0: The theorem `X == Y` is interpreted as, position `X` maps to position `Y`.
 
-
+---
+[^1]: [[Tasks Related to the development of the positional calculus]]
 
 

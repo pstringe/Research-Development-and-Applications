@@ -3,4 +3,4 @@ Def : DPT : 0.1 : `Demiurgic Program`: Is a program, the instructions of which a
 ## Notes 
 
 ## Task
-- [ ] Clarify causality [[Mechanics of Evidence Production]]
+- [ ] Clarify causality [[Mechanics of Evidence Generation]]

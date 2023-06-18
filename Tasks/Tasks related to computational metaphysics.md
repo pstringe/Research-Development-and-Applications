@@ -23,11 +23,11 @@ tags: metaphysics
 - [ ] Modularize constraint
 - [ ] Update interpretation of paradox constraint
 - [ ] Clarify example of Paradox Constraint
-- [ ] Move discussion of paradox constraint to [[Mechanics of Evidence Production]]
+- [ ] Move discussion of paradox constraint to [[Mechanics of Evidence Generation]]
 - [ ] Remove [[Interpretation of process calculus as a theory of number and arithmetic]]
 - [ ] Remove the [[Interpretation of time in the process calculus]]
 
 ## Process Mechanics
-- [ ] Establish functional axioms 📅 2023-06-17 
+- [ ] [[Functional Axioms]] 📅 2023-06-17
 - [ ] Interpret functional axioms within the thought model 📅 2023-06-17 
 - [ ] Establish isomorphisms to connect the thought model to the process model do 📅 2023-06-17 

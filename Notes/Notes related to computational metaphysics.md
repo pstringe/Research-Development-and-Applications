@@ -13,7 +13,7 @@ tags: metaphysics
 * Delete [[Process Interactions]] these propositions are replaced by [[Process Mechanics]].
 * We don't really need the [[Formal Calculus for Describing Typographical Processes]] anymore, we will review it and [[Interpretation of Typographical Process Representation]] to see if any the language is useful in [[Process Calculus]] before removing it. 
 * Remove the examples where we played with process calculus as a meta abstraction for logic, and the lambda calculus.
-* The epimenedes paradox constraint is still using model terminology. Any discussion of the paradox should be moved to [[Mechanics of Evidence Production]] where sources are discussed.
+* The epimenedes paradox constraint is still using model terminology. Any discussion of the paradox should be moved to [[Mechanics of Evidence Generation]] where sources are discussed.
 * We don't need a theory of number in the process calculus. functional abstractions are sufficient, we don't need the observation component or the succession component component of our process abstraction to describe number. We will use existing numerical abstractions.
 * The interpretation of time belongs in evidation mechanics.
 

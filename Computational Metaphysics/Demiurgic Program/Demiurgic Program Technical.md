@@ -17,7 +17,7 @@ tags:
 
 ## Tasks
 - [ ] Develop representation [[Process Representation]] so we can understand subject and object.
-- [ ] Develop formal representation of evidation in [[Mechanics of Evidence Production]]
+- [ ] Develop formal representation of evidation in [[Mechanics of Evidence Generation]]
 - [ ] Develop formal examples of demiurgic systems
 	- [ ] single
 	- [ ] dual
