@@ -8,4 +8,4 @@ index: 0.6
 name: 
 tags: metaphysics evidation
 ---
-Prop : EM : 0.6 : The subject make `generative observations` with the expectation of affecting the `state`
+Prop : EM : 0.6 : The subject make $generative$ $observations$ with the expectation of affecting the $state$

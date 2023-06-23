@@ -1,1 +1,0 @@
-Def : PC : 0.4 : *Evaluation*  `O`: The result of applying the `M` to `I`, an abstraction or a list of `abstractions`

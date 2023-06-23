@@ -9,11 +9,4 @@ name: Proccess
 tags: metaphysics
 ---
 
-Def : TPC : 0.0 : Process : We define a `proccess` as an abstraction of the form, `I ) M ) O`, where each term is an `abstraction`. 
-```
-Proccess {
-	I: Abstraction | Abstraction[]
-	O: Abstraction | Abstraction[]
-	M: Proccess | Abstraction
-}
-```
+Def : TPC : 0.0 : Process : We define a $proccess$ as an abstraction of the form, $x\ )\ f\ )\ y$, where each term is an $abstraction$.

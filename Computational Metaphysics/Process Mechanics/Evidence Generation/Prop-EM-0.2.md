@@ -8,4 +8,4 @@ index: 0.2
 name: 
 tags: 
 ---
-Prop : EM : 0.2 : Given [[Prop-EM-0.1-Interpretation_of_Observable Process]], the `input` and `output` terms of an `observable process` are abstractions of information.
+Prop : EM : 0.2 : Given [[Prop-EM-0.1-Interpretation_of_Observable Process]], the $input$ and $output$ terms of an $observable$ process are abstractions of information.

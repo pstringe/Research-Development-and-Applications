@@ -8,4 +8,4 @@ index: 0.5
 name: 
 tags: metaphysics evidation
 ---
-Prop : EM : 0.5 : The subject makes `discriminatory observaions` without the expectation of affecting the `state`
+Prop : EM : 0.5 : The $person$ makes $discriminatory$  $observaions$ without the expectation of affecting the $state$

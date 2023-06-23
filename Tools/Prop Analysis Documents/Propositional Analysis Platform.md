@@ -71,7 +71,7 @@ The scope of the software project is data collection. We will collect data store
 - [x] Finish [[Migrate to typescript]] ✅ 2023-06-09
 - [ ] Implement and test abstraction evaluator [[Example of Abstraction Implementation]]
 	- [x] Update Problem Spec 📅 2023-06-09 ✅ 2023-06-12
-		- [ ] [[Tasks Related to the Mechanics of Evidence Productin]]
+		- [ ] [[Tasks Related to the Mechanics of Evidence Generation]]
 	- [x] Develop list of [[Propositional Analysis User stories]] ✅ 2023-06-12
 	- [ ] Break down stories into flows 
 	- [ ] Plan out logic
@@ -83,7 +83,7 @@ The scope of the software project is data collection. We will collect data store
 			- service
 			- repository
 			- db
-	- [ ] Revise the API definitions 📅 2023-06-11 
+	- [ ] Revise the API definitions
 	- [ ] Plan state management
 	- [ ] Implement the frontend 📅 2023-06-15 
 	- [ ] Implement the backend📅 two weeks

@@ -5,4 +5,4 @@ title: 				Def  0.3  `M` May be a `process`, a list of processes, or an `abstrac
 tags:
 ---
 
-*Def : TPC : 0.3* : `M`: May be a `process`, a list of processes, or an `abstraction`.
+Def : TPC : 0.3 : $M$ : May be a $process$, a list of processes, or an $abstraction$.

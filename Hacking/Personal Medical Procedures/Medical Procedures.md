@@ -13,3 +13,5 @@ tags:
 | 4   | Knee Pain      |                                  |                                         |
 | 5   | Shoulder Click |                                  |                                         |
 
+---
+[1^]: [[Tasks relating to medical]]

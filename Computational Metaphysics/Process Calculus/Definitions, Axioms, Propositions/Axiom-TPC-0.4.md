@@ -9,4 +9,4 @@ index: 0.4
 name: Succession
 tags:  #metaphysics 
 ---
-[Axiom] : [TPC] : [0.4] : *Succession*:  `evaluation`, followed by `observation`
+Axiom : TPC : 0.4 : $Succession$:  $evaluation$ followed by $observation$

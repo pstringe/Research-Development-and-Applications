@@ -45,7 +45,8 @@ Comment : NFA : 1.1 : The natural language proposition, [[Prop-NFA-1.0]], implie
 
 ![[Prop-NFA-1.2]]
 
-
+## Notes
+* Our [[Axioms of the Thought Calculus]] do not make obvious the relationship between thought and sensory information in time. This is clarified in the process calculus.
 
  
 ---

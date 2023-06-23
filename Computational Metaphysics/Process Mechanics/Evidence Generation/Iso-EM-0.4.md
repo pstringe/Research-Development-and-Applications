@@ -8,4 +8,4 @@ index: 0.4
 name: 
 tags: metaphysics evidation
 ---
-Iso : EM : 0.4 : When referring to a the [[Process Representation]] of itself, we refer to `input observations` [[Axiom-PC-0.1-Observation]] as `discriminatory observations` and `output observations` as `generative observations`.
+Iso : EM : 0.4 : When referring to a the [[Process Representation]] of itself, we refer to $input$ $observations$ [[Axiom-PC-0.1-Observation]] as $discriminatory$  $observations$ and $output$ $observations$ as $generative$ $observations$.

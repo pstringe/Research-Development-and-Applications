@@ -8,4 +8,4 @@ index: 0.0
 name:
 tags: metaphysics proccess_calculus
 ---
-Prop : PC : 0.0 : Given [[Axiom-PC-0.1-Observation]] The `input observation`  can be interpreted as discriminatory, the `output observation` can be interpreted as generative.
+Prop : PC : 0.0 : Given [[Axiom-PC-0.1-Observation]] The $input\ observation$  can be interpreted as discriminatory, the $output\ observation$ can be interpreted as generative.

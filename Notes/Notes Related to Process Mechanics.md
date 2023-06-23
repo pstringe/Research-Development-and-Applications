@@ -12,7 +12,7 @@ tags: #metaphysics
 * In the case of the untyped process calculus, the bindings of a compound edge relate the expressed abstractions of  a process' output abstraction to the expressed abstractions a process' input abstraction
 * In the case of the typed process calculus, the form of the expression of input and output abstractions are declared as an interface
 
-### Notes on [[Def-TCP-0.1.2-abstraction]]
+### Notes on [[Def-TC-0.1.2-abstraction]]
 * Here we use the term symbol. We've already associated the term `symbol` with the idea of a symbol from semiotics, consisting of a sign and signified, it can be argued this also meets our definition of abstraction. 
 * We don't need to crowd our method with terminology
 * We know that our representation is infinitely recursive, though we want to represent what we are talking about.
@@ -22,4 +22,5 @@ tags: #metaphysics
 * right now, using object like type definitions is somewhat confusing
 * We can switch to a functional abstraction since we are trying to represent a concept we originally thought of functional. 
 * We can use object like syntax for interpretation of functional abstractions.
-
+---
+[^1]: : [[Tasks Related to Process Mechanics]]

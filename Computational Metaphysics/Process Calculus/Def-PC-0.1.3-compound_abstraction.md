@@ -8,4 +8,5 @@ index:              0.1.3
 name:               
 tags:               metaphysics
 ---
-Def : TCP : 0.1.3 : `compound abstraction`: an `abstraction`, the `expression` of which involves more than one abstraction.
+
+Def : PC : 0.1.3 : compound abstraction: an $abstraction$, the $expression$ of which involves more than one $abstraction$.
