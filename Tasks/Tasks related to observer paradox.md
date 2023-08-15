@@ -6,4 +6,5 @@ tags: [metaphysics]
 ---
 ## Tasks
 - [x] Clarify definition of existence [[Def-TC-0.0-Existence]] ✅ 2023-06-20
+- [ ] Analyze/Develop criteria for justification of [[Prop-Op-0.4]] 
 - [ ] Introduce process abstraction, to represent thoughts in time. #metaphysics 

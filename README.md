@@ -16,7 +16,7 @@ tags:
 	- [x] Define formal calculus and ep constraint ✅ 2023-05-22
 	- [x] Update description of the untyped process calculus 📅 2023-06-10 ✅ 2023-06-16
 	- [x] Implement the epimenedes constraint in the untyped calculus 📅 2023-05-31 ✅ 2023-06-12
-	- [ ] Re-examine the propositions of BOE pg 33 using the process calculus 📅 2023-06-23
+	- [ ] Re-examine the propositions of BOE pg 33 using the process calculus 📅 2023-07-22
 	- [ ] Derive the logic from the process calculus
 	- [ ] Examine interpretations of memory and time using process calculus
 	- [ ] Simulate the resolution of uncertainty using process calculus

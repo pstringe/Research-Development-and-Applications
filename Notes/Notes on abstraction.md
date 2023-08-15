@@ -5,8 +5,7 @@ title: 				Notes on abstraction
 tags:
 ---
  Currently we have two definitions of abstraction
- ![[Def-TC-0.1.2-abstraction]]
- and
+ ![[Def-TC-0.1.2-abstraction]]and
  ![[Def-NLA-1.0-Abstraction]]
 The first definition was formulated while developing the Typed Process Calculus, which is now, just the process calculus. The first definition was intended to be formal, the second, a technical definition which defines an evaluator for a natural language abstraction. 
 
@@ -26,7 +25,7 @@ The concept we want to get though is the inaccessibility of $things$ and the ide
 
 A thing is ==exactly== what you think it is thought is always encoded as information.
 
-We will define what we mean by, ==exactly==, since this is important in our evidation mechanics when referring to the resolution of uncertainty.
+We will define what we mean by, ==exactly==, since this is important in our [[Mechanics of Evidence Generation]] when referring to the resolution of uncertainty.
 
 
 

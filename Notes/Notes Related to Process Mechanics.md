@@ -22,5 +22,18 @@ tags: #metaphysics
 * right now, using object like type definitions is somewhat confusing
 * We can switch to a functional abstraction since we are trying to represent a concept we originally thought of functional. 
 * We can use object like syntax for interpretation of functional abstractions.
+
+[[2023-07-06]]
+We need to finish up the mechanics of evidence generation before we can describe a process mechanical system. When we describe a process mechanical system, we will represent processes as expressed abstractions of the observations of a generation.
+
+We will utilize a simple data representation for the expression of the observations of each process
+
+[[2023-07-06]]
+We have an intuitive model of reticulation/ingratiation. It would be inappropriate to consider it further in this context before we've simulated some process mechanical systems. We should clarify evidence generation in menial and liminal space, then we may be able to formalize ingratiation/reticulation. 
+
+Regarding the simulation of process mechanical systems, we should finish our examples of of simple things in the [[Abstract Representative Calculus|Abstract Representative Calculus]].
+
+
+
 ---
 [^1]: : [[Tasks Related to Process Mechanics]]
