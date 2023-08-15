@@ -16,10 +16,10 @@ tags:
 	- [x] Define formal calculus and ep constraint ✅ 2023-05-22
 	- [x] Update description of the untyped process calculus 📅 2023-06-10 ✅ 2023-06-16
 	- [x] Implement the epimenedes constraint in the untyped calculus 📅 2023-05-31 ✅ 2023-06-12
-	- [ ] Re-examine the propositions of BOE pg 33 using the process calculus 📅 2023-06-12
-	- [ ] Derive the logic from the process calculus 📅 2023-06-05
+	- [ ] Re-examine the propositions of BOE pg 33 using the process calculus 📅 2023-07-22
+	- [ ] Derive the logic from the process calculus
 	- [ ] Examine interpretations of memory and time using process calculus
-	- [ ] Simulate the resolution of uncertainty using process calculus 📅 2023-06-06 
+	- [ ] Simulate the resolution of uncertainty using process calculus
 	- [ ] Use the process calculus to describe evidation
 	- [ ] Formalize the description of causality (standard and retro-active)
 	- [ ] Use the process calculus/logic to describe how to hack conditional logic
@@ -36,9 +36,9 @@ tags:
 	- [x] Develop Technical Specification ✅ 2023-05-30
 	- [x] Implement the frontend 📅 2023-05-31 ✅ 2023-06-12
 		- [x] Implement Dialectic and Propositions Skeletons ✅ 2023-06-01
-	- [ ] Implement the backend 📅 2023-06-04 
-	- [ ] Deploy 📅 2023-06-05 
-	- [ ] Collect data to 📅 2023-06-06 
+	- [ ] Implement the backend
+	- [ ] Deploy
+	- [ ] Collect data to
 	- [ ] Pull into Jupyter notebook
 	- [ ] Analyze data
 		- [ ] Build interface to examine DSN

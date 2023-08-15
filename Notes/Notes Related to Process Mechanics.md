@@ -12,7 +12,7 @@ tags: #metaphysics
 * In the case of the untyped process calculus, the bindings of a compound edge relate the expressed abstractions of  a process' output abstraction to the expressed abstractions a process' input abstraction
 * In the case of the typed process calculus, the form of the expression of input and output abstractions are declared as an interface
 
-### Notes on [[Def-TCP-0.1.2-abstraction]]
+### Notes on [[Def-TC-0.1.2-abstraction]]
 * Here we use the term symbol. We've already associated the term `symbol` with the idea of a symbol from semiotics, consisting of a sign and signified, it can be argued this also meets our definition of abstraction. 
 * We don't need to crowd our method with terminology
 * We know that our representation is infinitely recursive, though we want to represent what we are talking about.
@@ -23,3 +23,17 @@ tags: #metaphysics
 * We can switch to a functional abstraction since we are trying to represent a concept we originally thought of functional. 
 * We can use object like syntax for interpretation of functional abstractions.
 
+[[2023-07-06]]
+We need to finish up the mechanics of evidence generation before we can describe a process mechanical system. When we describe a process mechanical system, we will represent processes as expressed abstractions of the observations of a generation.
+
+We will utilize a simple data representation for the expression of the observations of each process
+
+[[2023-07-06]]
+We have an intuitive model of reticulation/ingratiation. It would be inappropriate to consider it further in this context before we've simulated some process mechanical systems. We should clarify evidence generation in menial and liminal space, then we may be able to formalize ingratiation/reticulation. 
+
+Regarding the simulation of process mechanical systems, we should finish our examples of of simple things in the [[Abstract Representative Calculus|Abstract Representative Calculus]].
+
+
+
+---
+[^1]: : [[Tasks Related to Process Mechanics]]
