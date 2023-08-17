@@ -11,10 +11,12 @@ tags:
 **Types**
 0. [Def] : Definition
 1. [Axiom] : Axiom
-2. [Phen Obs] : Phenomenological Observation
-3. [Emp Obs] : Empirical Observation
-4. [Prop] : Proposition
-5. [Just] : Justification
+2. [OBSD] : Discriminatory Observation
+3. [OBSG] : Generative Observation 
+4. [Phen Obs] : Phenomenological Observation
+5. [Emp Obs] : Empirical Observation
+6. [Prop] : Proposition
+7. [Just] : Justification
 
 **Topics**
 *TPC*: [[Process Calculus]]

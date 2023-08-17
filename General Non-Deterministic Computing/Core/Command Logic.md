@@ -29,13 +29,72 @@ PROP : CLGC : 0.9 : A command executed over a generation, takes time to execute.
 PROP : CLGC : 1.0 : Currently we utilize three event  based commands, where the action is a `hand gesture`.
 
 PROP : CLGC : 1.1 : We represent a hand gesture using the following forms:
-	POC : `(finger: (0 .. 9), region(0 .. 3))`
-	Contact : `(p1 : POC, p2: POC)`
+	POC : 
+```
+	(
+		finger: (
+			p, 
+			(
+				m(
+					p
+				)
+			), 
+			(
+				m(
+					m(
+						p
+					)
+				)
+			) 
+			.
+			.
+			. 
+			(
+				m(
+					m(
+						m(
+							m(
+								m(
+									m(
+										m(
+											m(
+												p
+											)
+										)
+									)
+								)
+							)
+						)
+					)
+				)
+			)
+		), 
+		region: ( 
+			(
+				p 
+				.
+				.
+				.
+				m(
+					m(
+						m(
+							p
+						)
+					)
+				)
+			)
+		)
+	),
+	contact : (
+		p1 : POC, 
+		p2: POC
+	)
 
 PROP : CLGC : 2.0 : We can represent a command using the process calculus where the user is represented as the process, `F`:
 
 Given:
 ```
+
 prop: string = 'F has a headache'
 p1: POC = (1, 0)
 p2: POC = (0, 1)
@@ -45,19 +104,24 @@ final_cause = (~prop)
 
 The execution of the command is the observation:
 ```
+
 prop ) g ) F ) prop
 ```
 
 We may abstract away the information of this observation using the form:
 ```
+
 (initial_cause, final_cause, source_of_information)
 ```
 
 In the case of our example:
 ```
+
 (g, ~prop, SBE+)
 ```
 
 This command may be interpreted as:
 
 The user touches the tip of their index finger to the tip of their thumb to alleviate a headache.
+```
+

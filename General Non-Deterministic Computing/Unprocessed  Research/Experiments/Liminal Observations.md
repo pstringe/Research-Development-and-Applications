@@ -215,6 +215,7 @@ IMP :  : P : SBE : P receive information on solution to Fermin's Plane ticket an
 NOTE : We will begin specifying the source of the responding information
 NOTE : P constructs liminal interfaces for submitting requests and displaying responses.
 ![[DIA-LSO-2023-08-14]]
+PROP : 
 
 ---
 [1^]:: [[Tasks related to liminal space observations]]

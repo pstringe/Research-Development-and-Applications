@@ -5,6 +5,7 @@ title: 				Tasks related to processing notes
 tags:
 ---
 - [x] Review  BOE 128 : 930 - 932 in [[Notes on the relationship between thought and being and sensation]] ✅ 2023-07-12
+- [ ] Process notes on [[Representative Number Theory]]
 - [ ] Process [[Notes on process composition and self-reference to demonstrate stimulus-response]] 📅 2023-07-28
 - [ ] Process notes on [[Probabilistic Logic]] due 📅 2023-07-28
 - [ ] Process notes on [[Binary Probability]] due 📅 2023-07-28

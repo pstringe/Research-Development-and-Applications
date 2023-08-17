@@ -13,4 +13,3 @@ Given an array of abstractions representing propositions, enumerate the combinat
 
 ****
 [1^]::: [[Tasks related to algorithm to enumerate possibility space]]
-2^:: []
