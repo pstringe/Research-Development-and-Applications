@@ -9,4 +9,4 @@ name: Proccess
 tags: metaphysics
 ---
 
-Def : PC : 0.0 : $Process$ : A temporal representation of a $thing$ ([[Def-TC-0.0-thing]]). We represent a $proccess$ as an $compound\  abstraction$ ([[Def-PC-0.1.3-compound_abstraction]]) of the form $F$,where  $o_n\ )\ F\ )\ o_{n+1}$, where each term is an $abstraction$ of $information$.
+Def : PC : 0.0 : $Process$ : A temporal representation of a $thing$ ([[Def-TC-0.0-representative_abstraction]]). We represent a $proccess$ as an $compound\  abstraction$ ([[Def-PC-0.1.3-compound_abstraction]]) of the form $F$,where  $o_n\ )\ F\ )\ o_{n+1}$, where each term is an $abstraction$ of $information$.

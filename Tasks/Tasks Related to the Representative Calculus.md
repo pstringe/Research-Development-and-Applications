@@ -4,6 +4,7 @@ modification date:	2023-08-01 20:12
 title: 				Tasks Related to the Representative Calculus
 tags:
 ---
+- [ ] Develop syntax for observation.
 - [ ] Over-operate the thing as a class of abstraction
 - [ ] Over-operate thought as a class of representation
 - [ ] Over-operate information in terms of the fidelity of a representation

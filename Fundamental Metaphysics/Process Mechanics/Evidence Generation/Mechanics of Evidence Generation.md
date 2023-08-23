@@ -13,14 +13,15 @@ tags:
 ![[Def-EM-0.0-Succession]]
 ![[Def-EM-0.3-Generation (reductive)]]
 ![[Def-EM-0.1-Initial_Cause]]
-![[Def-EM-0.2-Final_Cause]]
-![[Def-EM-0.4-Evidence_Generation]]
+![[Def-EM-0.2-Final_Cause]]![[Def-EM-0.4-Evidence_Generation]]
 ![[Prop-EM-0.3]]
+
 ![[Prop-EM-0.1-Person]]
-![[Iso-EM-0.4]]
+
+![[Iso-EM-0.4]
 ![[Prop-EM-0.5]]
 ![[Prop-EM-0.6]]
-![[]]
+
 
 ---
 [1^]:: [[Notes related to the mechanics of evidence generation]]

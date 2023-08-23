@@ -5,7 +5,9 @@ title: 				simulation of indeterminacy in using the thought calculus
 tags:
 ---
 
-DEF : NDC : 0.0 : $possibility\ space$ : Given a set of [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition), the $possibility\ space$ is the enumeration of the combinations of possible values of the [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition). We may consider each combination, itself to be a [proposition](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition).
+DEF : NDC : 0.0 : $possibility\ space$ : Given a plurality of [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition), the $possibility\ space$ is the enumeration of the combinations of possible values of the [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition). We may consider each combination, itself to be a [proposition](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition).
+
+DEF : NDC : 0.0.1 : A possibility space may be represented by a hallucinatory number
 
 DEF : NDC : 0.1 : $constrain$ : $C()$: A $possibility\ space$ is constrained upon the observation of an abstraction, the meta-representation of which is a [proposition](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition) of the $possibility\ space$.
 

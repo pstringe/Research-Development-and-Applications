@@ -7,66 +7,14 @@ tags:
 ![[Formal Command Syntax]]
 ![[Command Logic]]
 
-PROP : CLGC : 2.1 : We establish the following gestures:
-```
-p1: POC = (1, 0)
-p2: POC = (0, 1)
-lit: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (2, 0)
-p2: POC = (0, 1)
-lmt: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (3, 0)
-p2: POC = (0, 1)
-lrt: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (4, 0)
-p2: POC = (0, 1)
-lpt: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (5, 0)
-p2: POC = (9, 1)
-rit: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (6, 0)
-p2: POC = (9, 1)
-rmt: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (7, 0)
-p2: POC = (9, 1)
-rrt: Contact = (p1 : POC, p2: POC)
-
-p1: POC = (8, 0)
-p2: POC = (9, 1)
-rpt: Contact = (p1 : POC, p2: POC)
-```
-
+![[PROP-CLGC-2.1_Hand_Gestures]]
 PROP : CLGC : 2.2 : We use these gestures in the following commands:
-```
-action: Contact = lit
-expectation: general (user's choice)
-source: SBE+
-efficient: instantaneous
-
-(lit, reticulate general ingratiation, SBE+, instantaneous)
-```
-
-```
-action: Contact = ll
-expectation: general (user's choice)
-source: SBE+
-efficient: instantaneous
-
-(lit, reticulate general reticulation, SBE-, instantaneous)
-```
 
 ```
 action: Contact = lit
 expectation: general (user's choice)
 source: SBE+
 efficient: instantaneous
-
 (lit, reticulate general ingratiation, SBE+, instantaneous)
 ```
 
@@ -144,6 +92,8 @@ PROP : CLGC : 3.6 : The command, `toggle`, de-constructs the command it takes as
 PROP : CLGC : 3.7 : Given the command, 
 
 PROP : CLGC : 3.8 : When the `toggle` command is submitted, global state is toggled. with another command as input, the state is toggled. 
+
+![[Temperature Control Interface]]
 
 ---
 [1^]:: [[Tasks related to the development of core commands]]

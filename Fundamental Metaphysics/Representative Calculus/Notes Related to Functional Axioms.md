@@ -45,6 +45,11 @@ Comment : NFA : 1.1 : The natural language proposition, [[Prop-NFA-1.0]], implie
 
 Comment : NFA : 1.2 : Our [[Axioms of the abstract Calculus]] do not make obvious the relationship between thought and sensory information in time. This is clarified in the process calculus. [[Notes on the relationship between thought and being and sensation]].
 
+[[2023-08-18]]
+We are moving away from thought/thing to abstraction/representative-abstractions. The formalization of which is compatible with a thought/thing technical interpretation. We are revising via over-operation. To account for the fact that thoughts and things are not the only form of representation. And while a classical idealist or a neo-platonic philosopher may subsume matter into thought, not all minds will agree with this distinction. 
+
+A representative calculus may be interpreted so as to elucidate  meta-representations compatible with particular process meta-representations. 
+
 ---
 [1^]:: [[Tasks related to functional axioms]]
 [2^]:: [[functional axioms]]

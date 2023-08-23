@@ -33,12 +33,7 @@ PROP : CLGC : 1.1 : We represent a hand gesture using the following forms:
 ```
 	(
 		finger: (
-			p, 
-			(
-				m(
-					p
-				)
-			), 
+			p, a, 
 			(
 				m(
 					m(

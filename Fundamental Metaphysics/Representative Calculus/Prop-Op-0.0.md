@@ -9,4 +9,4 @@ name:
 tags: metaphsysics 
 ---
 Prop-Op-0.0
-Prop : Op : 0.0 : $f$, is a thing [[Def-TC-0.0.1-f]]
+Prop : Op : 0.0 : $f$, is a thing [[Axiom-TC-0.0.1-representation]]

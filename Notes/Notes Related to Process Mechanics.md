@@ -34,6 +34,22 @@ We have an intuitive model of reticulation/ingratiation. It would be inappropria
 Regarding the simulation of process mechanical systems, we should finish our examples of of simple things in the [[Abstract Representative Calculus|Abstract Representative Calculus]].
 
 
+[[2023-08-18]]
+Working in our computation notebook, we intend to use our [[Representative Number Theory]], specifically our hallucinatory variant of representative number theory to demonstrate the mapping between liminal-spaces and processes expressed in menial space.
+
+For this we can look back at our observe's paradox derivation.
+
+We can start with a 2 process system. First we want to start with the expression of mutually dependent representative abstractions.
+
+We can then assert the isomorphism between our representative abstractions and mono-directional causal processes. 
+
+Once the isompormphism is established, we can represent their mutual recursive dependency in the process calculus.
+
+We can carefully establish a hierarchical order of evaluation.
+
+It may be easier to represent the computation using the hyper-temporal graph abstraction described in paper notes and establish an isomorphism between that and the process-calculus representation. 
+
+
 
 ---
 [^1]: : [[Tasks Related to Process Mechanics]]
