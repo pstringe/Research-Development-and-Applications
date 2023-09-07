@@ -19,17 +19,33 @@ CODE : OL : 0.5 : $o$ : variable to be encoded
 CODE : OL : 0.6 : $g$ : variable to be encoded
 
 **Operators**
-CODE : OL : 0.07 : $Ma(x)$ : $m(m(m(m(m(m(m(m(m(m(p))))))))))((x))$
-CODE : OL : 0.08 : $Stim(f, g, x)$ : $m(m(m(m(m(m(m(m(p))))))))((f, x, g))$
-CODE : OL : 0.09 : $Resp(f,g,x)$ : $m(m(m(m(m(m(m(m(m(p)))))))))((f, x, g))$
+CODE : OL : 0.07 : 10 : $Ma(x)$ : $m(m(m(m(m(m(m(m(m(m(p))))))))))((x))$
+CODE : OL : 0.08 : 08 : $Stim(f, g, x)$ : $m(m(m(m(m(m(m(m(p))))))))((f, x, g))$
+CODE : OL : 0.09 : 09 : $Resp(f,g,x)$ : $m(m(m(m(m(m(m(m(m(p)))))))))((f, x, g))$
 
 **Modular Propositions**
-CODE : OL : 0.10 : $ResM((f, g, c))$ : $m(m(m(m(p))))((f, g, c))$
-CODE : OL : 0.11 : $ResM((f,g, c))$ : $m(m(m(m(m(p))))((f, g, c))$
-CODE : OL : 0.12 : $ResL((f,g,c))$ : $m(m(m(m(m(m(p)))))((f, g, c))$
-CODE : OL : 0.13 : $ReqL((f,g,c))$ : $m(m(m(m(m(m(m(p))))))((f, g, c))$
+CODE : OL : 0.10 : 04 : $ReqM((f, g, c))$ : $m(m(m(m(p))))((f, g, c))$
+CODE : OL : 0.11 : 05 : $ResM((f,g, c))$ : $m(m(m(m(m(p))))((f, g, c))$
+CODE : OL : 0.12 : 06 : $ResL((f,g,c))$ : $m(m(m(m(m(m(p)))))((f, g, c))$
+CODE : OL : 0.13 : 07 : $ReqL((f,g,c))$ : $m(m(m(m(m(m(m(p))))))((f, g, c))$
 
 ![[Technical Isomorphisms of Operatic Logic]]
+
+**High Level spatial dependency between government abstractions**
+PROP : 0.0 : $(:=\ f\ (f\ g\ ...))$
+PROP : 0.1 : $(:=\ g\ (g\ f\ ...))$
+PROP : 0.2 : $(:=\ (p\ f)\ ((p\ f)\ (p\ g))\ ...))$
+PROP : 0.3 : $(:=\ (p\ g)\ ((p\ f)\ (p\ g) \ ...))$
+PROP : 0.4 : $(dep\ f\  (p\ f))$
+PROP : 0.5 : $(dep\ g\ (p\ g))$
+PROP : 0.6 : $(trvrsbl\ f\ (p\ f))$
+PROP : 0.7 : $(trvrsbl\ g\ (p\ g))$
+
+*Operators*
+DEF : OL : 0.8 : $=$ : $(m (m (m p)))$ 
+DEF : 0L : 0.9 : $:=$ : $(m(m(m(mp))))$
+DEF : OL : 1.0 : $\Rightarrow$ : $(m(m(m(mp))))$
+ 
 
 ---
 [1^]:: [[Tasks related to the development of operatic logic]]

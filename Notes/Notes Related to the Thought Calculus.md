@@ -33,3 +33,6 @@ Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [[Axiom
 * At pelican we differentiated between imaginary and real observations
 * It is possible to generate imaginary and real stimuli simultaneously
 * We need to differentiate between s
+
+[[2023-08-26]]
+* 

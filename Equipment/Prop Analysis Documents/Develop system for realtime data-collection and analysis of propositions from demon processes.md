@@ -21,10 +21,10 @@ tags:
 ![[!API]]
 
 ## Work Journals
-[[Operations/Un-Integrated Plans/Past/2023-05-23]]
-[[Operations/Un-Integrated Plans/Past/2023-05-25]]
-[[Operations/Un-Integrated Plans/Past/2023-05-27]]
+[[Opera/Un-Integrated Plans/Past/2023-05-23]]
+[[Opera/Un-Integrated Plans/Past/2023-05-25]]
+[[Opera/Un-Integrated Plans/Past/2023-05-27]]
 [[2023-05-31]]
-[[Operations/Un-Integrated Plans/Past/2023-06-03]]
+[[Opera/Un-Integrated Plans/Past/2023-06-03]]
 
-![[Operations/Un-Integrated Plans/Past/2023-06-04]]
+![[Opera/Un-Integrated Plans/Past/2023-06-04]]

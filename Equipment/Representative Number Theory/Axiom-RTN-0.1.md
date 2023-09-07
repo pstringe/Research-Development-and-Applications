@@ -10,4 +10,4 @@ tags:
 ---
 
 Axiom-RTN-0.1 
-AXIOM : RNT : 0.1 : $m(.)$ is the meta-representation of $.$
+AXIOM : RNT : 0.1 : $(m\ .)$ is the meta-representation of $.$

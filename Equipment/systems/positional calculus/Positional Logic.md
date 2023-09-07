@@ -35,7 +35,7 @@ Axiom : POSC : 0.3 : $X |$
 Axiom : POSC : 0.4 : $V(| X)  \land V(Y) \rightarrow ~V(X | Y)$  : terminating elements are not extended
 Axiom : POSC : 0.5 : $V(X |) \land V(Y) \rightarrow ~V(Y | X)$ : terminating elements are not extended
 Axiom : POSC : 0.6 : $V(X) \rightarrow V((X))$ : 'parenthesation'
-Axiom : POSC : 0.7 :  $V(Y) \land V(Y) \rightarrow V(X | Y)$ : 'adjacency'
+Axiom : POSC : 0.7 : $V(Y) \land V(Y) \rightarrow V(X | Y)$ : 'adjacency'
 Axiom : POSC : 0.8 : $V(Y) | V(Y) \rightarrow V(X |-| Y)$ : 'relative positioning'
 Axiom : POSC : 0.9 : $V(X | Y) \rightarrow V(Y) \land V(X)$ : 'extraction'
 Axiom : POSC : 1.0 : $\{\{A, B, C ... Z\}\}$ = $\{A, B, C ... Z\}$  

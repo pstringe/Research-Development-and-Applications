@@ -4,7 +4,7 @@ modification date:	2023-06-28 15:09
 title: 				2 Process System (Graph Abstraction)
 tags: metaphysics
 ---
-Def : PM : 0.0 : $compound edge$ : Given a [graph](https://en.wikipedia.org/wiki/Graph_theory), we consider the edges of the graph to be a [compound abstraction](Def-PC-0.1.3-compound_abstraction.md).
+Def : PM : 0.0 : $compound\ edge$ : Given a [graph](https://en.wikipedia.org/wiki/Graph_theory), we consider the edges of the graph to be a [compound abstraction](Def-PC-0.1.3-compound_abstraction.md).
 
 Def : PM : 0.1 : $binding$ : Given a $compound\ edge$, we refer to the expressed $abstractions$ as $bindings$. Each $binding$ relates 2 $abstractions$ 
 

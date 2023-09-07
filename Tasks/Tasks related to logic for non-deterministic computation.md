@@ -8,6 +8,9 @@ tags:
 - [x] Clarify [[Possibility Spaces and Constraints]] ✅ 2023-07-10
 - [x] Recover definition of logic from BOE ✅ 2023-07-25
 - [x] Recover the definition of proposition from notes ✅ 2023-07-25
+- [ ] Implement, automatic unanimous over-operation
+- [ ] Logically define structure equiv to hash-table
+- [ ] Implement hash-table in our [[Lisp for encoding meta-representations]]
 - [ ] Review propositions, and definitions and add links
 	- [ggg] [proposition](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition)
 	- [ ] [abstraction](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Calculus%2FDefinitions%2C%20Axioms%2C%20Propositions%2FDef-TC-0.1.2-abstraction)

@@ -21,12 +21,30 @@ OBJ : given a string input, tokenize and encode using representative number theo
 	* We will display observations of a generation using hierarchical indentation.
 
 **Currently**
-0. Given a prima representation read in as a string, and a number indicating a number of successions, we may output a number reflecting that number of determinate successions. (currently there is a segfault)
+0. Given a prima representation read in as a string, and a number indicating a number of successions, we may output a number representing the determinate successions of the prima representation. (currently there is a segfault)
 
 ---
 My job is that I know exactly how we operate. And every adverse action I'd be willing to take is someone else would be as well.
 
+---
+[[2023-08-24]]
+INPUT:  10 f prefix 
+Output: ((f)
+Expected: (m(m(m(m(m(m(m(m(m(m f)))))))))))
+- [x] prima should be f ✅ 2023-08-24
+- [x] successions should be 10 ✅ 2023-08-24
+- [x] notation should be prefix ✅ 2023-08-24
+- [x] base should be 10 ✅ 2023-08-24
+- [x] num + i == '1' ✅ 2023-08-24
+- [x] digit should == 1 ✅ 2023-08-24
+- [x] meta should be f ✅ 2023-08-24
+- [x] tmp should be f ✅ 2023-08-24
 
+PROP : X : Next session, quick menu.
+
+The basic number is printing. Now for a given, value-space, possibility space, and  meta-representation, we want to substitute the hallucination.
+
+After that, we want a way to simulate the elucidation. 
 
 ---
 [1^]:: [[Representative Number Theory]]

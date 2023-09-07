@@ -7,9 +7,11 @@ tags:
 
 ![[Axioms of the abstract Calculus]]
 
-![[Possibility Spaces and Constraints]]
+![[Representative Number Theory]]
 
-![[Thought Representation]]
+![[Isomorphisms between abstract representative calculus and Representative Number Theory]]
+![[Possibility Spaces and Constraints]]
+![[Technical Implementation of DSL for Representative Logic]]
 
 ---
 [1^]:: [[Notes Related to the Thought Calculus]]

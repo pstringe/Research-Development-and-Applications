@@ -5,4 +5,4 @@ title: 				Def-TC-0.0.1-f
 tags: metaphysics
 ---
 
-Def : TC : 0.0 : $representation$ : Given an abstraction $x$, $f(x)$ represents, $f$ represents $x$. 
+Def : TC : 0.0 : $representation$ : Given an abstraction $x$, $f(x)$ is interpreted as, $f$ represents $x$. 

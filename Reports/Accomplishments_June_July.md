@@ -38,7 +38,7 @@ Regarding development of the ethics:
 	* Income Inequality
 	* ect ...
 
-[[Operations/Strategic Objectives/OBJ-MS-0.2_Implement_Evidence_Generation_Methodology]]
+[[OBJ-MS-0.2_Implement_Evidence_Generation_Methodology]]
 * Our evidence generation methodology is a meta-scientific methodology largely dependent on our development of [process mechanics](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FProcess%20Mechanics) and [mechanics of evidence generation](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FEvidence%20Generation%2FMechanics%20of%20Evidence%20Generation)
 
 * The first objective our evidence generation methodology is to increase the reliability, consistency, and reproducibility of procedures for precisely augmenting the [process representation](Process Representation) of the observer's paradox. This has applications in every domain. 

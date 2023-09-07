@@ -8,4 +8,4 @@ index: 0.0
 name:
 tags: metaphysics
 ---
-Axiom : TC : 0.1 : GD :  $f = f(f)$ , $f$ is the representation of $f$
+Axiom : TC : 0.1 : GD :  $f = f(f)$ , $f$ is $f$'s representation of $f$

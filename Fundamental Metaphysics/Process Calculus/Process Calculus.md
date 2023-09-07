@@ -5,7 +5,7 @@ title: 				Process Calculus Axioms
 tags: #metaphysics
 ---
 
-The process calculus is a tool for representing the evolution of an $abstraction$ capable of representing information. In time, we refer to this as a process. The process abstraction is used to demonstrate the [[Temporal Solution to Observer's Paradox]]
+The process calculus is a tool for representing the evolution of an $abstraction$ capable of representing information. In time, we refer to this as a process. The process abstraction is used to demonstrate the [[Temporal Solution to Representative Paradox]]
 
 ![[Def-TC-0.1.2-abstraction]]
 ![[Def-PC-0.1.3-compound_abstraction]]
@@ -18,10 +18,9 @@ The process calculus is a tool for representing the evolution of an $abstraction
 ![[ISO-PC-0.3.1]]
 ![[Axiom-PC-0.4]]
 ![[Prop-PC-0.0]]
----
-```
 
-```
+---
+
 ---
 [^1]:: [[Tasks Related to the development of the Process Calculus]]
 [^2]:: [[Notes Related to the development of the Process Calculus]] 

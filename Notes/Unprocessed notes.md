@@ -116,7 +116,7 @@ OBSD : P : 5.7 : P accepts that proposition that P observed F's bed non-locally
 
 NOTE : P : 5.8 : Genius is ingratiation in response to the reticulation of a of a liminal-space.
 
-[[2023-07-11]] (625 grand alle)
+[[Opera/OperaX Logs/2023-07-11]] (625 grand alle)
 OBSD : P : 5.9 : At Deganham, you figured out how to operated your own ingratiation. 
 
 [[2023-07-15]]

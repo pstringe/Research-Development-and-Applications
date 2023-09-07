@@ -72,5 +72,7 @@ tags:
 #Examples
 
 (res_l (m p) (m (m p)) (m (m (m p))))
+
+
 ```
 
