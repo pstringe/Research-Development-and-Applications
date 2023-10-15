@@ -4,7 +4,7 @@ modification date:	2023-08-17 18:08
 title: 				Abstract mappings
 tags:
 ---
-**Abstract mappings**
+****Abstract mappings**
 **Boolean**
 ``m(p) : ((T, (m(p))), (F, (p)))``
 

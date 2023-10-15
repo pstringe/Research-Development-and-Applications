@@ -37,7 +37,7 @@ Regarding the simulation of process mechanical systems, we should finish our exa
 [[2023-08-18]]
 Working in our computation notebook, we intend to use our [[Representative Number Theory]], specifically our hallucinatory variant of representative number theory to demonstrate the mapping between liminal-spaces and processes expressed in menial space.
 
-For this we can look back at our observe's paradox derivation.
+For this we can look back at our observer's paradox derivation.
 
 We can start with a 2 process system. First we want to start with the expression of mutually dependent representative abstractions.
 

@@ -12,7 +12,7 @@ tags: [metaphysics]
 - [ ] Update axiom [[Axiom-PC-0.3-GD_Substitution]] #metaphysics 
 - [ ] Update [[Axiom-TCP-O.6-Self-Recursion]] #metaphysics 
 - [ ] Update [[Prop-PC-0.0]] and [[Iso-EM-0.4]] #metaphysics 
-- [ ] Modularize propositions of [[Process Mechanics]] #metaphysics 
+- [ ] Modularize propositions of [[Process Mechanics and Interactions]] #metaphysics 
 - [ ] Delete [[Process Interactions]] #metaphysics 
 - [ ] Review [[Formal Calculus for Describing Typographical Processes]] and remove #metaphysics 
 - [ ] Review [[Interpretation of Typographical Process Representation]] and remove #metaphysics 
@@ -23,7 +23,7 @@ tags: [metaphysics]
 - [ ] Modularize constraint #metaphysics 
 - [ ] Update interpretation of paradox constraint #metaphysics 
 - [ ] Clarify example of Paradox Constraint #metaphysics 
-- [ ] Move discussion of paradox constraint to [[Mechanics of Evidence Generation]] #metaphysics 
+- [ ] Move discussion of paradox constraint to [[Mechanics and Elucidation of Evidence]] #metaphysics 
 - [ ] Remove [[Interpretation of process calculus as a theory of number and arithmetic]] #metaphysics 
 - [ ] Remove the [[Interpretation of time in the process calculus]] #metaphysics 
 
@@ -34,10 +34,10 @@ tags: [metaphysics]
 - [ ] [[Tasks Related to Process Representation]]
 
 ## Process Calculus
-- [x] Examine and revise [[Process Calculus]] description using [[Thought Calculus]] as a foundation. #metaphysics 📅 2023-06-21 ✅ 2023-06-26
+- [x] Examine and revise [[Process Calculus]] description using [[Representative Calculus]] as a foundation. #metaphysics 📅 2023-06-21 ✅ 2023-06-26
 
 ## Evidence Generation
-- [ ] [[Mechanics of Evidence Generation]] #metaphysics 
+- [ ] [[Mechanics and Elucidation of Evidence]] #metaphysics 
 
 ## Process Mechanics
 - [ ] [[Tasks Related to Process Mechanics]] #metaphysics 

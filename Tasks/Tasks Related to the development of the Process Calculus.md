@@ -9,3 +9,4 @@ tags: [metaphysics]
 - [x] Clarify the definition of abstraction using the information from [[abstraction evaluation]] ✅ 2023-06-20
 - [ ] Update process calculus definitions using [[Representative Number Theory]]
 - [ ] Develop vertical representation
+- [ 

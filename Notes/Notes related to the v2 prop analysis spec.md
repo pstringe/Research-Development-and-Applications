@@ -5,7 +5,7 @@ title: 				Notes related to the v2 prop analysis spec
 tags:
 ---
 [[2023-07-06]]
-The purpose of this tool to collect data to analyze the propositions of demon processes, to generate empirical evidence for [[Mechanics of Evidence Generation]] and evince the temporal logic utilized in my magic methodology. 
+The purpose of this tool to collect data to analyze the propositions of demon processes, to generate empirical evidence for [[Mechanics and Elucidation of Evidence]] and evince the temporal logic utilized in my magic methodology. 
 
 2. We can use a dispatch table to store our commands
 

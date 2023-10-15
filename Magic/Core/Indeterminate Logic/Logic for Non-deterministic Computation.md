@@ -31,29 +31,28 @@ ISO : stimulation : x ingratiates : `f ->- x`
 
 ![[Temporal]]
 
-Equality Operators
+**Equality Operators**
 ![[Def-IL-1.0]]
 
 Def : IL : 1.1 : `(E x y)`  : `x == y`, the evaluation of x is isomorphic to the evaluation of y in form and content
 
 Def : IL : 1.2 : `(S x y)` :  `x ) S ) y` : `x := y`, x is an abstraction of y. (y may replace x)
 
-Def : IL : 1.3 : `(O x y)` : : `x::=Y`, x may be any one of the values in the set y.
-Prop : 1.4 : For a given `x` and `y` more than one of these operators may apply
+Def : IL : 1.3 : `(O x y)` :  : `x::=Y`, x may be any one of the values in the set y.
 
-**
+Prop : 1.4 : For a given `x` and `y` more than one of these operators may apply.
 
-Abstract Operators
+**Abstract Operators**
 Def : IL : 1.0 : `mE(x, A)` : `x::=A`  Where `A:={a, b, c ... n}`, assign to x, one of the values of `A`, to produce `y` 
 Stimulation and response operators.
 ![[Def-IL-2.1-eX]]
 
-Relationships
+**Relationships**
 0. *indeterminate*: `uR()`
 1. *determinate*: `dR()`
 2. *contingent*: `cR()`
 
-*Indeterminate Temporal Logic System*
+**Indeterminate Temporal Logic System**
 Def : NLA : 0.0 : Indeterminate Logic Values
 
 ```
@@ -62,12 +61,11 @@ type Value = T | A | R | F | C | S | E
 
 ![[Def-NLA-1.0-Abstraction]]
 
-*Logical Operators*
-0. 
-1. `tG((T | F) | (A | R))`: toggle a measured state
-2. `m?(A)`: measure an indeterminate state
-3. `t(x) => g()`
-4. `d(x)`
+**Logical Operators**
+0. `tG((T | F) | (A | R))`: toggle a measured state
+1. `m?(A)`: measure an indeterminate state
+2. `t(x) => g()` 
+3. `d(x)`:
 
 ---
 [1^]:: [[Tasks related to logic for non-deterministic computation]]

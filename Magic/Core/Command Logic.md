@@ -4,11 +4,13 @@ modification date:	2023-07-29 17:38
 title: 				command logic used for gesture commands
 tags: magic
 ---
-PROP : CLGC : 0.0 : Each command is a conditional of the form, `x -> y`, if x is the case, y is the case.
+PROP : CLGC : 0.0 : Each command is an implication of the form, `x -> y`, if x is the case, y is the case.
 
 PROP : CLGC : 0.1 : A command can be modeled in the process calculus as a succession [[Def-EM-0.0-Succession]] or a generation [[Def-EM-0.3-Generation (reductive)]].
 
-PROP : CLGC : 0.2 : We refer to `x` as the `action` isomorphic to the [[Def-EM-0.1-Initial_Cause]], and `y` as the `expectation`, isomorphic to the [[Def-EM-0.2-Final_Cause]], when modeled as a generation. 
+PROP : CLGC : 0.2 : We refer to `x`, the condition of the implication, as the `action` isomorphic to the [[Def-EM-0.1-Initial_Cause]], and `y`, the implication of the implication, as the `expectation`, isomorphic to the [[Def-EM-0.2-Final_Cause]], when modeled as a generation. 
+
+(the observation of the condition of the implication is the initial cause of the implication of the implication)
 
 PROP : CLGC : 0.3 : When modeled as a succession, the `action` is isomorphic to the input [[Axiom-PC-0.1-Observation]] while the `expectation` is isomorphic to the [[Def-PC-0.4-Evaluation]].
 

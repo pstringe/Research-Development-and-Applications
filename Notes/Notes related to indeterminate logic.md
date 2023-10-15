@@ -7,4 +7,4 @@ tags:
 
 
 ---
-[1^]:: [[Logic for Nondeterministic Computation]]
+[1^]:: [[Logic for Non-deterministic Computation]]

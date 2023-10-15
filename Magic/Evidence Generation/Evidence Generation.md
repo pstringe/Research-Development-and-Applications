@@ -8,5 +8,5 @@ tags:
 ---
 [1^]:: [[Notes related to evidence generation]]
 [2^]:: [[Tasks related to evidence generation]]
-[3^]:: [[Mechanics of Evidence Generation]]
+[3^]:: [[Mechanics and Elucidation of Evidence]]
 [3^]:: [[OBJ-MS-0.2_Implement_Evidence_Generation_Methodology]]

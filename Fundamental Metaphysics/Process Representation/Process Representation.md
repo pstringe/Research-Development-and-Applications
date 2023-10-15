@@ -23,8 +23,8 @@ PROP : PR : 0.0 : Process calculus can be used to manipulate any of abstraction 
 [1^]: [[Tasks Related to Process Representation]]
 [2^]: [[Notes on Process Representation]]
 [3^]: [[Notes on the relationship between thought and sensation]]
-[3^]:: [[Mechanics of Evidence Generation]]
-[4^]:: [[Process Mechanics]]
+[3^]:: [[Mechanics and Elucidation of Evidence]]
+[4^]:: [[Process Mechanics and Interactions]]
 [5^]:: [[Axioms of the abstract Calculus]]
 
 

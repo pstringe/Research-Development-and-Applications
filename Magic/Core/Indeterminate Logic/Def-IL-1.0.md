@@ -9,4 +9,4 @@ name:
 tags: 
 ---
 Def-IL-1.0
-Def : IL : 1.0 : `(C x, y)` : `x === y` ,x is isomorphic to y in form.
+Def : IL : 1.0 : `(=== x, y)` : `x === y`, The value of `x` is `y`.

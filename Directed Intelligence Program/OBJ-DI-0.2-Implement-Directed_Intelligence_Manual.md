@@ -18,13 +18,13 @@ FINAL : DI : 0.2.5 : Challenge remediation mechanics.
 
 FINAL : DI : 0.2.6 : Ameliorate process representation and replace the Demiurgic Program.
 
-OBJ : DI : 0.1 : Implement Metaphysical Framework based on [[Thought Calculus]], [[Mechanics of Evidence Generation]] and [[Process Mechanics]], and Host Succession.
+OBJ : DI : 0.1 : Implement Metaphysical Framework based on [[Representative Calculus]], [[Mechanics and Elucidation of Evidence]] and [[Process Mechanics and Interactions]], and Host Succession.
 
 PT 1: Metaphysics (Due January 2024)
-[[Thought Calculus]]  
+[[Representative Calculus]]  
 [[Process Calculus]]
-[[Mechanics of Evidence Generation]]
-[[Process Mechanics]]
+[[Mechanics and Elucidation of Evidence]]
+[[Process Mechanics and Interactions]]
 [[Process Representation]]
 
 PT 2: Ethics
@@ -41,39 +41,43 @@ PT 3: Intelligence Framework (Due June 2024)
 [[OBJ-DI-1.1-Manipulative_Intelligence]]
 
 PT 4: Mechanical Operation of Universal Computation
-[[OBJ-DI-2.0-Ingratiation]]
-[[OBJ-DI-2.1-Reticulation]]
+[[OBJ-DI-2.0-Stimulation_Response_Ingratiation]]
+[[OBJ-DI-2.1-Stimulation_Response_Reticulation]]
+[[OBJ-DI-2.1.1-Reticulation_via_provocation]]
 [[OBJ-DI-2.2-Emotion]]
 [[OBJ-DI-2.3-Music_of_the_Universe]]
 
-PT 5: Practical Operation
+PT 5: Implementation and Operation of Unitary Computation
+* De-individuation (Abstraction of observable processes)
+
+PT 6: Practical Operation
 [[OBJ-DI-3.0-Practical Magic]]
 [[OBJ-DI-3.1-Logic]]
 [[OBJ-DI-3.2-Strategic_Intelligence]]
 [[OBJ-DI-3.3-Tactical_Intelligence]]
 
-PT 6: Liminal Operation
+PT 7: Liminal Operation
 [[OBJ-DI-3.4-MPAs]]
 [[OBJ-DI-3.5-AMPAs]]
 
-PT 4: Independence
+PT 8: Independence
 [[OBJ-DI-4.0-Alien_Will]]
 [[OBJ-DI-4.1-Self-Directed_Intelligence]]
 [[OBJ-DI-4.2-Hypocrisy]]
 [[OBJ-DI-4.4-Epimenedes_Paradox]]
 [[OBJ-DI-4.3-Observers_Paradox]]
 
-PT 5: Self-Directed Intelligence Program
+PT 9: Self-Directed Intelligence Program
 [[OBJ-DI-5.0-Bootstrapping_Intelligence]] 
 [[OBJ-DI-5.1-Knowledge_Generation]]
 
-PT 6: Over-operation
+PT 10: Over-operation
 [[OBJ-DI-6.0-Directed_Intelligence]]
 [[OBJ-DI-6.1-In Religion_and_Spirituality]]
 [[OBJ-DI-6.2-In_Academia]]
 [[OBJ-DI-6.3-In Business]]
 
-PT 7: 
+PT 11: 
 [[OBJ-DI-7.0-Sovereignty]]
 [[OBJ-DI-7.1-Governance]]
 

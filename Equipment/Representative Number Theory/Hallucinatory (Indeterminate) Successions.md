@@ -26,7 +26,7 @@ $$
 PROP : RTN : 1.5 : [[PROP-RTN-1.4]] is constructed using via [[Axiom-RTN-0.6]] and [[Axiom-RTN-0.5]]
 ![[PROP-RTN-1.3]]
 
-ISO : RTN : 1.5 : Hallucinatory numbers may be utilized as exact representations of the space of possible [generations](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FDef-EM-0.3-Generation%20(reductive)) from [mechanics of evidence generation](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FEvidence%20Generation%2FMechanics%20of%20Evidence%20Generation) using the [[Process Calculus]].
+ISO : RTN : 1.5 : Hallucinatory numbers may be utilized as exact representations of the space of possible $successions$ given a meta-representation, encoded as a plurality of propositions. These successions are isomorphic to $successions$ in the [[Process Calculus]].
 
 PROP : RTN : 1.4 : $$
 	((q,r) ::= (q, m(r)))
@@ -55,6 +55,9 @@ PROP : RTN : 1.7 :
 		(m(q), q), 
 		(m(q), m(q))
 	)
+	(
+		()
+	)
 ))
 ```
 
@@ -76,9 +79,37 @@ PROP : RTN : 1.8 :
 		(m(p), m(p))
 	), 
 	(
-		(m(p), p), 
+		(m(p), p),  
 		(p, p),
 		(m(p), p)
 	)
 )
 ```
+
+PROP : RTN : 1.9 : Given a representation such as 1.8 we may abstract away the top-level pluralities, and resolve uncertainty as required. For example:
+```
+(m
+	(m
+		(m
+			(q, r)
+		)
+	)
+) ::::= (
+	(
+		(m(p), p), 
+		(m(p), m(p))		
+	),
+	(
+		(p, m(p)), 
+		(m(p), m(p))
+	),
+	(
+		(m(p), p),  
+		(p, p),
+	)
+)
+```
+
+PROP : RTN : P represents a meta representation and interprets it as isomporphic to two overlapping spaces. First time experiences isomorphic visual representation in menial space with delay (no post evidence). The second time. Experienced visual reticulation and tactile reticulation (vibration) in the table in real time. Though the representation was not isomorphic. There was resistance.
+
+[[Reductive demonstration of indeterminacy of abstract propositions]]

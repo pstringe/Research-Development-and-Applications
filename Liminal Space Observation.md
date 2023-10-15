@@ -13,7 +13,7 @@ There seems to be t least 2 modes by which I traverse liminal space.
 0. [[Resolve uncertainty about a process location]]
 
 ## Metaphysics
-[[Process Mechanics]]
+[[Process Mechanics and Interactions]]
 [[Process Representation]]
 
 [[Liminal Observations]]

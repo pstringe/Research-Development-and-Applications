@@ -4,7 +4,10 @@ modification date:	2023-05-18 11:58
 title: 				Propositional Analysis
 tags:
 ---
+[[V2 Prop Analysis Spec for C implementation]]
+[[V3 Prop Analysis]]
 
+---
 ![[Prop Analysis Introduction]]
 ![[SPEC-PA-General_Requirements]]
 ![[SPEC-PA-Data_Collection_Requirements]]

@@ -4,7 +4,7 @@ modification date:	2023-06-02 13:55
 title: 				Justification of Scale Problem 6
 tags:
 ---
-![[Logic for Nondeterministic Computation]]
+![[Logic for Non-deterministic Computation]]
 
 
 | Index    | Proposition                                                   | Justification        | Comments |

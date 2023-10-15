@@ -97,6 +97,7 @@ Express `(m p)` as a delusion of p:
 	)
 )
 ```
+
 ---
 [1^]:: [[Tasks related to the development of representative number theory]]
 [2^]:: [[Abstract mappings for encoding abstractions using RNT]]

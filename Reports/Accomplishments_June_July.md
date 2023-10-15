@@ -10,7 +10,7 @@ Regarding implementation of the metaphysics, I've made progress in the following
 * Formal description of the observer's paradox using the [abstract calculus](Abstract Calculus|Abstract Calculus) in, [temporal solution to observer's paradox](Temporal Solution to Observer's Paradox)
 * Two drafts enumerating the axioms [process calculus](Process Calculus) as a formal meta-representation of the *observer's paradox* in time using the abstraction of an [observable process](Def-4.0-Observable_Process)
 * Develop and initial testing of [logic for nondeterministic computation](obsidian://open?vault=Master&file=Research%20and%20Development%2FEquipment%2FIndeterminate%20Logic%2FLogic%20for%20Nondetermisitic%20Computation) to augment the behavior of observable processes.
-* Partial Draft of [[Mechanics of Evidence Generation]]
+* Partial Draft of [[Mechanics and Elucidation of Evidence]]
 * Progress modeling mutually dependent observable processes (Still need to process notes). 
 * Conceptualization of [hyperpoint](Def-PR-0.0-hyper-point.md) abstraction to describe [process representation](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Representation%2FProcess%20Representation) (Still processing notes).
 * Development and initial testing of technique for predictable traversal of *liminal spaces* as the are elucidated in [[Process Representation]] (Notes with-held for privacy concerns)

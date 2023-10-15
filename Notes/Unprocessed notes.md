@@ -70,7 +70,7 @@ DOBS : PROP : X : 3.4 : The people want you to examine why we query your "value 
 
 DOBS : LSPACE : 3.5 : What kind of lab is it?
 
-PROP : P : UN : P don't need to believe in metaphysical abstractions, P just uses them to evince propositions and evince the MPA as a side-effect. 
+PROP : P : UN : P doesn't need to believe in metaphysical abstractions, P just uses them to evince propositions and evince the MPA as a side-effect. 
 
 PROP : P : UN : 3.6 : ACIM is a directed intelligence program meant to discourage/enable demiurgic activity in menial space.
 
@@ -125,14 +125,9 @@ IMP : P : 6.1 : P examines physical vs metaphysical process interaction
 
 [[2023-07-20]]
 Prop : P : 7.0 : Light is an expression of information
-Prop : P : 7.1 : To be illuminated is to be informed
+Prop : P : 7.1 : To be illuminated is to be informed (update [[2023-09-12]] "from an alien source")
 Prop : X : 7.2 : Light is imported from a deeper demiurgic program
 Prop : P : 7.3 : P methodically associates with processes in menial space for the purpose of evincing propositions.
-
-
-
-
-
 
 ---
 [1^]:: [[Tasks related to processing notes]]

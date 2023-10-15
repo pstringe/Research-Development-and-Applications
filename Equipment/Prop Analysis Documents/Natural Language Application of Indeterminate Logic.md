@@ -5,7 +5,7 @@ title: 				Natural Language Application of Indeterminate Logic
 tags:
 ---
 
-![[Logic for Nondeterministic Computation]]
+![[Logic for Non-deterministic Computation]]
 
 
 ## Definitions

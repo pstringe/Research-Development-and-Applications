@@ -16,8 +16,10 @@ tags:
 - [x] IMP : 4.0 : P : SBE : P describes the procedure for compiling debuggable executables ✅ 2023-08-23
 - [x] Add -v to linker command to see invocation ✅ 2023-08-23
 - [x] Clean the foundation library file ✅ 2023-08-23
-- [ ] Record debugging observations
-- [ ] 
+- [ ] Menu
+	- [ ] Implement display function
+	- [ ] Implement [[Tasks related to implementation of gnl]] 
+	- [ ] read input and return option as integer
 
 
 

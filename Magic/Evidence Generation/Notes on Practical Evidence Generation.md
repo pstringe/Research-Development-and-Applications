@@ -26,7 +26,7 @@ We have a metaphysical operation to run. We will become more rigorous and specif
 
 In addition to that we want to continue with and increase the rigor of our medical research as well as return to "matter manipulation". 
 
-- [ ] [[Mechanics of Evidence Generation]]
+- [ ] [[Mechanics and Elucidation of Evidence]]
 
 *Practical*
 - [ ] Enumerate past methods [[Chronology of Past Operations]]

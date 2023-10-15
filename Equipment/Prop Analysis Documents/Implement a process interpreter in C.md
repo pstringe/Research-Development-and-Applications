@@ -13,5 +13,7 @@ tags:
 - [ ] Implement Parser in C
 - [ ] Develop composable non-deterministic evaluator as an implementation of [[Axiom-TC-0.1-GD]]
 
+[[2023-09-17]]
+
 ---
 [1^]:: [[Notes related to implementation of process interpreter]]

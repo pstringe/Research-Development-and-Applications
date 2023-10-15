@@ -45,7 +45,7 @@ tags:
 	- [ ] Establish recursive isomorphisms in the case of:
 		- [ ] deluded observable processes
 		- [ ] and illusory observable processes
-	- [ ] Update [[Logic for Nondeterministic Computation]] with rules for declaring possible expressions
+	- [ ] Update [[Logic for Non-deterministic Computation]] with rules for declaring possible expressions
 	- [ ] Develop [[Core Propositions]]
 		- [ ] Tactical interpretations of core propositions
 		- [ ] Strategic interpretations of  core propositions

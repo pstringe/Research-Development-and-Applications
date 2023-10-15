@@ -5,10 +5,9 @@ title: 				Tasks Related to the Representative Calculus
 tags:
 ---
 - [ ] Develop syntax for observation.
-- [ ] Over-operate the thing as a class of abstraction
-- [ ] Over-operate thought as a class of representation
-- [ ] Over-operate information in terms of the fidelity of a representation
-- [ ] Enumerate classes of human representation
+- [ ] Over-operate the thing as a class of abstraction.
+- [ ] Over-operate thought as a class of representation.
+- [ ] Enumerate classes of human representation.
 
 ---
 [1^]:: [[Abstract Representative Calculus]]

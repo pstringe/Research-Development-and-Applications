@@ -34,5 +34,13 @@ Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [[Axiom
 * It is possible to generate imaginary and real stimuli simultaneously
 * We need to differentiate between s
 
-[[2023-08-26]]
-* 
+[[2023-09-18]]
+JUDGE : 0.0 : [[Axiom-TC-0.1-GD]] , [[Axiom-TC-0.2-EP]], express the abstraction of equality some concepts that can be clarified
+	* equality of form
+	* equality of value
+	* equality of reference
+	* evaluation (mono-directional a-temporal reference equality)
+	* classification
+
+---
+[1^]:: [[Tasks Related to the Representative Calculus]]

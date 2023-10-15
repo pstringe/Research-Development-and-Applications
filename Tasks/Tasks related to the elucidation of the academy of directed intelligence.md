@@ -5,10 +5,9 @@ title: 				Tasks related to the ulicidation of the school of directed intelligen
 tags:
 ---
 - [x] Compile accomplishments ✅ 2023-07-26
-- [ ] Compile methods 📅 2023-08-12 
-- [ ] Compile milestones due 📅 2023-08-12
+- [x] Draft Topics for the curiculum 📅 2023-09-10 ✅ 2023-09-10
 - [ ] Draft Objectives of the curriculum based on [[OBJ-DI-6.0-Directed_Intelligence]] 📅 2023-08-12
-
+- [ ] Compile methods 📅 2023-09-10 
 ### Practical
 - [ ] Open source foundation library specs
 - [ ] Start project for Algo-Trainer 

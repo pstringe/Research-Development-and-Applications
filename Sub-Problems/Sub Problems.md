@@ -9,6 +9,6 @@ tags:
 - [x] Develop develop [[Formal approximation of Circumference using binary Partitions]] 🔁 every day 🛫 2023-06-26 📅 2023-06-30 ✅ 2023-06-30
 - [ ] Implement approximation of pi using code
 - [ ] Develop algorithm to approximate square root due
-- [ ] Implement square root approximation using code 📅 2023-07-22
+- [ ] Implement square root approximation using code 📅 2023-09-25
 
 ---

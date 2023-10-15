@@ -8,6 +8,7 @@ tags:
 - [x] Define response ✅ 2023-08-23
 - [x] Define reticulation ✅ 2023-08-23
 - [x] Define ingratiation ✅ 2023-08-23
+- [ ] Update definition of $response$, provide examples.
 - [ ] Update definition to enforce first person perspective.
 - [ ] Define representative abstraction in [[Abstract Representative Calculus]] and link
 

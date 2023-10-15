@@ -5,18 +5,13 @@ title: 				Notes related to the implementation of host succession
 tags:
 ---
 0. There is at least one observable process P (T)
-
 1. Process P generates evidence to support the existence of other observable processes (T)
-
-2. Process P represents a list of observable processes, [A, B, C]. Equiv notation: P:[A, B, C]
-
-3. A: [D, E]
-
-4. B: [C, A, D]
-
-5. C: [B]
-
-6. Succession of P's representation
+	(omit in represative description)
+3. Process P represents a list of observable processes, [A, B, C]. Equiv notation: P:[A, B, C]
+4. A: [D, E]
+5. B: [C, A, D]
+6. C: [B]
+7. Succession of P's representation
 
 ```mermaid
 stateDiagram-v2
@@ -78,4 +73,4 @@ B --> C
 
 ---
 [1^]: : [[OBJ-ODS-0.1.1_implement_host succession]]
-[2^]: : [[Task related them implementation of host succession]]
+[2^]: : [[Tasks related them implementation of host succession]]

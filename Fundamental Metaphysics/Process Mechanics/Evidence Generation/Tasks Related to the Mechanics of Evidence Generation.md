@@ -9,7 +9,7 @@ tags:
 - [x] Interpret a theorem in the process calculus using paradox mechanics ✅ 2023-06-11
 - [x] Review and update the concepts of abstraction and expression from [[abstraction evaluation]]. ✅ 2023-06-13
 - [x] Use the information from the previous step to define recursive indeterminate abstractions to update definitions in the process calculus. ✅ 2023-06-13
-- [x] Finish updating definitions for [[Mechanics of Evidence Generation]] using propositions from pg 112 BOE ✅ 2023-07-03
+- [x] Finish updating definitions for [[Mechanics and Elucidation of Evidence]] using propositions from pg 112 BOE ✅ 2023-07-03
 	- [x] Update the technical term evidation to generation ✅ 2023-06-30
 	- [x] add definition for initial cause ✅ 2023-06-30
 	- [x] add definition for final cause ✅ 2023-06-30
@@ -18,45 +18,42 @@ tags:
 	- [x] Formally define generation using process calculus ✅ 2023-06-30
 	- [x] Update definition of evidation ✅ 2023-06-30
 	- [x] Update propositions involving the generation of propositions to the generation of observations ✅ 2023-06-30
-	- [x] Update and modularize indeterminate logic definitions [[Logic for Nondeterministic Computation]] ✅ 2023-07-03
+	- [x] Update and modularize indeterminate logic definitions [[Logic for Non-deterministic Computation]] ✅ 2023-07-03
 	- [x] add link to definition of expression in [[Def-EM-0.4-Evidence_Generation]] ✅ 2023-07-03
 	- [x] Add link to the definition of acceptance in evidence generation [[Def-EM-0.4-Evidence_Generation]] ✅ 2023-07-03
-- [x] Define proposition in [[Logic for Nondeterministic Computation]] due 📅 2023-07-25 ✅ 2023-08-01
+- [x] Define proposition in [[Logic for Non-deterministic Computation]] due 📅 2023-07-25 ✅ 2023-08-01
 - [x] Compare abstract and reductive interpretations of causality ✅ 2023-08-30
 	- [x] Review the propositions BOE 112 ✅ 2023-08-30
 - [x] Add abstract definition of generation, as the expression of a succession ✅ 2023-08-30
 
 It is extremely tempting to over-operate the propositional calculus by demonstrating the elucidation of a meta-representation and logic then using the elucidated logic to describe the elucidation. 
 
-For the sake of producing a usable human metaphysic to support our magic methodology, metaphysical engineering and directed intelligence program, I choose to use the propositional calculus as a foundation and over-operate it using the described method when our foundation is complete.
+For the sake of producing a usable human metaphysic to support our magic methodology, general representative engineering and directed intelligence program, I choose to use the propositional calculus as a foundation and over-operate it using the described method when our foundation is complete.
 
 *Revision 0*
-- [ ] Review notes on processing methods from BOE 📅 2023-08-30 
-- [ ] Revise representation def 📅 2023-08-30 
-- [ ] Revise meta-representation def 📅 2023-08-30 
-- [ ] Revise prima-representation def 📅 2023-08-30 
-- [ ] Revise information def 📅 2023-08-30 
-- [ ] Revise abstraction def 📅 2023-08-30 
-- [ ] Revise math def 📅 2023-08-31 
-- [ ] Revise logic def 📅 2023-08-30 
+- [x] Review notes on processing methods from BOE 📅 2023-08-30 (outdated) ✅ 2023-09-28
+- [x] Revise representation def 📅 2023-08-30 ✅ 2023-09-28
+- [x] Revise meta-representation def 📅 2023-08-30 ✅ 2023-09-28
+- [x] Revise prima-representation def 📅 2023-08-30 ✅ 2023-09-28
+- [x] Revise information def 📅 2023-08-30 ✅ 2023-09-28
+- [x] Revise abstraction def 📅 2023-08-30 ✅ 2023-09-28
+- [x] Revise logic def 📅 2023-08-30 ✅ 2023-09-28
 
-- [ ] Review axioms of representative calc 📅 
+- [x] Review axioms of representative calc 📅 ✅ 2023-09-28
 - [ ] Note adjustments due 📅 2023-08-30 
 - [ ] Execute adjustments 📅 2023-08-30 
 
 - [ ] Update logics file 📅 2023-08-30 
 - [ ] Demonstrate logics of representative calc using representative calc abstractions
 - [ ] Use representative calc to derive representative number theory
-- [ ] RTN
+
+- [ ] [[Representative Number Theory]]
 	- [ ] Develop combinatorial logic to describe the deterministic representation of the operation of hallucinatory successions.
 - [ ] Over-operate representative calc using RTN
 
 - [ ] Derive representative paradox
 - [ ] Introduce observable process as temporal solution to representative paradox
-
 - [ ] Revise [[Process Calculus]] 
-- [ ] Formalize every technical definition of [[Mechanics of Evidence Generation]]
-
 
 ---
 - [ ] Develop syntax for expressing an observation as a succession of observations (reductive / abstract)
@@ -66,7 +63,7 @@ For the sake of producing a usable human metaphysic to support our magic methodo
 - [ ] Model [[Notes on the Dependency of Observations]] #metaphysics
 - [ ] Examine the concept of energy in terms similarity of abstractions of information in a generation.
 - [ ] Examine manipulative generations vs adaptive generations
-- [ ] Consider moving [[Prop-EM-0.1-Person]] from [[Mechanics of Evidence Generation]] to a section on ethical considerations.
+- [ ] Consider moving [[Prop-EM-0.1-Person]] from [[Mechanics and Elucidation of Evidence]] to a section on ethical considerations.
 - [ ] Develop an example of evidence generation to for [[Def-EM-0.4-Evidence_Generation]]
 - [ ] Add section on expectation
 - [ ] Demonstrate how the resolution of uncertainty evinces a proposition using the [[Generalization of Epimenedes Paradox]]

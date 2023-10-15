@@ -4,9 +4,9 @@ modification date:	2023-06-28 13:06
 title: 				notes on the relationship between thought and sensation
 tags:
 ---
-Prop : NRTS : 0.0 : To understand the relationship between thought and sensation, we will start by representing information in [[Thought Calculus]]
+Prop : NRTS : 0.0 : To understand the relationship between thought and sensation, we will start by representing information in [[Representative Calculus]]
 
-Prop : NRTS : 0.1 : After representing information in the thought calculus, we will represent information in the [[Process Mechanics]] and [[Process Representation]]
+Prop : NRTS : 0.1 : After representing information in the thought calculus, we will represent information in the [[Process Mechanics and Interactions]] and [[Process Representation]]
 
 Prop : NRST : 0.2 : All thoughts are encoded using sensory information.
 

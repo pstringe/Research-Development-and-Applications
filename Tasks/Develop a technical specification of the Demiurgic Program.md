@@ -5,7 +5,7 @@ title: 				Develop a technical specification of the Demiurgic Program
 tags: [metaphysics]
 ---
 - [x] Preliminary definition ✅ 2023-06-18[[Demiurgic Program Technical]]
-	- [ ] Complete [[Mechanics of Evidence Generation]] #metaphysics 📅 2023-07-22
+	- [ ] Complete [[Mechanics and Elucidation of Evidence]] #metaphysics 📅 2023-10-12
 	- [ ] how `responsibility` relates to `causality` and bi-directional  abstraction #metaphysics 📅 2023-07-22
 	- [ ] grandfather paradox #metaphysics 📅 2023-07-22
 	- [ ] memory model and production of demiurgic programs #metaphysics 📅 2023-07-22

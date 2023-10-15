@@ -5,12 +5,12 @@ title: 				Metaphysics
 tags: metaphysics 
 ---
 ![[Axioms of the abstract Calculus]]
-![[Temporal Solution to Representative Paradox]]
+![[Temporal Solution to Representative Paradox (Observer's Paradox)]]
 
 We introduce a new abstraction to describe the evolution of a thoughts/things over time, a $process$. The process calculus is a system for how a process manipulates itself over time.
 
 ![[Process Calculus]]
-![[Process Mechanics]]
+![[Process Mechanics and Interactions]]
 
 Process Interactions ![[Process Interactions]]
 ![[Formal Calculus for Describing Typographical Processes]]

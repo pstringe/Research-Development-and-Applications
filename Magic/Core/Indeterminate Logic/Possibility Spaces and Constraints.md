@@ -4,8 +4,7 @@ modification date:	2023-07-08 15:01
 title: 				simulation of indeterminacy in using the thought calculus
 tags:
 ---
-
-DEF : NDC : 0.0 : $possibility\ space$ : Given a plurality of [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition), the $possibility\ space$ is the enumeration of the combinations of possible values of the [propositions](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition). We may consider each combination, itself to be a [proposition](obsidian://open?vault=Master&file=DEF-NDC-0.0_proposition).
+![[DEF-NDC-0.0_possibility-space]]
 
 DEF : NDC : 0.0.1 : A possibility space may be represented by a hallucinatory number
 
@@ -34,7 +33,6 @@ PROP : SNDC : 0.2 : The space of possibilities, $S$, given P can be represented 
 ``` 
 
 FIG :
-
 | p   | q   |
 | --- | --- |
 | T   | T   |
@@ -59,7 +57,7 @@ C((
 ))
 ```
 
-which evaluates to:
+Which evaluates to:
 ```
 (
 	(T, T),

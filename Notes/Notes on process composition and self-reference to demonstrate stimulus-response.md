@@ -1,20 +1,29 @@
 ---
-creation date:		2023-07-28 11:27
-modification date:	2023-07-28 11:27
-title: 				Notes on process composition and self-reference to demonstrate stimulus-response
+creation date: 2023-07-28 11:27
+modification date: 2023-07-28 11:27
+title: Notes on process composition and self-reference to demonstrate stimulus-response
 tags:
 ---
+![[Def-PCSR-0.0.1]]
+
 DEF : PCSR : 0.0.1 : $Stimulus$ : Given two representative abstractions, $f$ and $g$ where $((O\ f)=g)$, a change in $f$ is the stimulation of $g$.
 
 DEF : PCSR : 0.0.2 : $Response$ : Given two representative abstractions, $f$ and $g$ where $((O\ f)=g)$ and $(f ((m\ g) \neq g))$,$((f\ ((m\ g) \neq g))\ is\ the\ response\ of\ g)$ $\iff$ $(f\ ((m\ g)\ =\ g)\ =\ (C_f\ ((m\ f)\ \neq f)))$.
 
-DEF : PCSR : 0.0.3 : $Reticulation$ : Given two representative abstractions, $f$ and $g$ where $((O\ f)=g)$, $(f\ ((m\ f)\ \neq\ f))$, $(f\ ((m\ f)\ \neq\ f)) \Rightarrow (f\ ((m\ g)\ \neq\ g)) = A)$, $(f\ ((m\ g) \neq g))$ is the reticulation of $g$. `(=> f g)`
+COMMENT : The change in process f is the final cause of the change in g.
+
+![[DEF_PCSR_0.0.3_reticulation]]
+
+COMMENT : $f$ first forms a causal association between a change in it's representation and change in g's representation. And elucidates a change in $g$ by changing itself.
 
 DEF : PCSR : 0.0.4 : $Ingratiation$ : Given two representative abstractions, $f$ and $g$ where
-$((O\ f) = g)$ and $(f\ ((m\ g) \neq g))$ as the reticulation of $g$, $(f\ ( (m\ g) \neq g))$ where, $(f\ ((m\ f)\ \neq\ f)) \Rightarrow (f\ ((m\ g)\ \neq\ g)) = A)$, is the ingratiation of f's reticulation, $(f\ ((m\ g) \neq g))$, of g. : `(<+ f g)`
+$((O\ f) = g)$ and $(f\ ((m\ g) \neq g))$ as the final cause of f's reticulation of $g$, $(f\ ( (m\ g) \neq g))$ where, $(f\ ((m\ f)\ \neq\ f)) \Rightarrow (f\ ((m\ g)\ \neq\ g)) = A)$, is the ingratiation of f's reticulation, $(f\ ((m\ g) \neq g))$, of g, `(<+ f g)`. 
+
+COMMENT : The response of $g$ is an ingratiation, if and only if $g$ has not made a causal association prior to the response. 
 
 PROP : PCSR : 0.0.5 : $Observer\ dependency$ : $((f x) \leftarrow ((O f)\ (f x)))$
-INTERP: PCSR-0.0 : f's representation of x is dependent on the observer of f's representation of f representing x.
+
+INTERP: PCSR-0.0 : $f$'s representation of $x$ is dependent on the observer of $f$'s representation of $f$ representing x.
 
 *Self Evaluation In Process Calculus*
 PROP : PCSR : 0.1 : $((f_0 f_0) \Rightarrow f_1)$

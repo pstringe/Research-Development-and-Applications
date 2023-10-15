@@ -24,6 +24,7 @@ tags:
 
 *Economic Tasks*
 ![[Tasks related to economic operations]]
+- [ ] classify any policies that have nothing to do with politics.
 
 ---
 [1^]:: [[Main Strategic Specification]]

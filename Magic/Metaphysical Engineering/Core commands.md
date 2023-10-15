@@ -10,56 +10,8 @@ tags:
 ![[Command Logic]]
 
 ![[PROP-CLGC-2.1_Hand_Gestures]]
-PROP : CLGC : 2.2 : We use these gestures in the following commands:
 
-```
-action: Contact = lit
-expectation: general (user's choice)
-source: SBE+
-efficient: instantaneous
-(lit, reticulate general ingratiation, SBE+, instantaneous)
-```
-
-```
-action: Contact = lmt
-expectation: 'headache relief and aleartness'
-source: SBE-
-efficient: instantaneous
-```
-
-```
-action: Contact = rit
-expectation: 'gastro-ingratiation'
-source: SBE-
-efficient: instantaneous
-```
-
-PROP : CLGC : 2.3 : We shall establish the following commands for sexual ingratiation and reticulation:
-
-```
-action: Contact = rpt
-expectation: sexual-reticulation
-source: SBE+
-efficient: instantaneous
-```
-
-```
-action: Contact = lpt
-expectation: sexual-ingratiation
-	source: SBE-
-efficient: instantaneous
-```
-
-PROP : CLGC : 2.4 : We implement the following command for gastro-reticulation:
-```
-action: Contact = lrt
-expectation: gastro-reticulation
-source: SBE
-efficient: instantaneous
-```
-
-It is important to keep in mind these commands are completely arbitrary. The user evinces the causal relationship via the mechanism described in [[Mechanics of Evidence Generation]].
-
+![[Basic Gesture Commands]]
 **Duration**
 Given:
 ![[PROP-CLGC-0.6]]
@@ -95,7 +47,7 @@ PROP : CLGC : 3.7 : Given the command,
 
 PROP : CLGC : 3.8 : When the `toggle` command is submitted, global state is toggled. with another command as input, the state is toggled. 
 
-![[Temperature Control Interface]]
+![[Temperature Control (Capitulation) Interface]]
 
 ---
 [1^]:: [[Tasks related to the development of core commands]]

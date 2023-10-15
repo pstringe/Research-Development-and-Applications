@@ -5,6 +5,7 @@ title: 				Methods of developing algorithms
 tags:
 ---
 *Iterate Meta-Abstraction*
+DEF : 0.0 : Methods of developing algorithm
 1. Articulate the constraints of the problem.
 2. Represent proportions isomorphic to the described abstractions.
 3. Develop an example input and its corresponding output.

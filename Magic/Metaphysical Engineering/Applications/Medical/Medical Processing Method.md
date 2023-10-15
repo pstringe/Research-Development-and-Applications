@@ -12,7 +12,7 @@ PROP : MPM : 0.1 : High-level expressible abstractions of animal bodies are enum
 
 ![[PROP-MPM-0.2]] 
 
-PROP : MPM : 0.3 : Utilizing propositions formulated in [[Mechanics of Evidence Generation]], we may utilize logics such as those eluded to in [[PROP-MPM-0.2]], to affect changes in an animal body.
+PROP : MPM : 0.3 : Utilizing propositions formulated in [[Mechanics and Elucidation of Evidence]], we may utilize logics such as those eluded to in [[PROP-MPM-0.2]], to affect changes in an animal body.
 
 NOTE : MPM : 0.4 : A rudimentary implementation of this capability is demonstrated in [[Core commands]].
 
@@ -22,7 +22,7 @@ NOTE : MPM : 0.5 : It may be wise to utilize a human methodology for the sake of
 
 NOTE : MPM : 0.6 : Another advantage of using existing methodologies, is that there is already a reductive system of abstractions in place for targeted effect. 
 
-NOTE : MPM : 0.7 : I think the approach I want to take, is to study anatomy at the relevant level of abstraction for the problem I'd like to address, over-operate the anatomical abstractions with an elegant formal/computational abstraction, and utilize [[Mechanics of Evidence Generation]] to address the problem. Having developed and executed a successful operation, save it as a re-producible metaphysical procedure.
+NOTE : MPM : 0.7 : I think the approach I want to take, is to study anatomy at the relevant level of abstraction for the problem I'd like to address, over-operate the anatomical abstractions with an elegant formal/computational abstraction, and utilize [[Mechanics and Elucidation of Evidence]] to address the problem. Having developed and executed a successful operation, save it as a re-producible metaphysical procedure.
 
 
 

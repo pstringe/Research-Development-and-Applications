@@ -10,7 +10,6 @@ AXIOM : OL : 0.0 : REQM : $(StimM((f, o, g)) := ((Stim(f,\ g,\ o)))$
 AXIOM : OL : 0.1 : RESM : $(RespM((f,o,g)) := ((Resp(f,\ g,\ o)))$
 AXIOM : OL : 0.2 : REQM : $(StimL((f, o, g)) := ((Stim(f,\ Ma(g),\ o)))$
 AXIOM : OL : 0.3 : RESM : $(RespL(f,g,o)) := ((Resp(f,\ Ma(g),\ o)))$  
-
 The following logic encodes the axioms of of CNB:11.0.3-11.0.5 using [[Representative Number Theory]].
 
 **Bound Abstractions of the Prima-Representation**
@@ -45,7 +44,6 @@ PROP : 0.7 : $(trvrsbl\ g\ (p\ g))$
 DEF : OL : 0.8 : $=$ : $(m (m (m p)))$ 
 DEF : 0L : 0.9 : $:=$ : $(m(m(m(mp))))$
 DEF : OL : 1.0 : $\Rightarrow$ : $(m(m(m(mp))))$
- 
 
 ---
 [1^]:: [[Tasks related to the development of operatic logic]]

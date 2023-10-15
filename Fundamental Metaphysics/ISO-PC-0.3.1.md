@@ -5,4 +5,4 @@ title: 				ISO-PC-0.3.1
 tags:
 ---
 
-ISO : PC : 0.3.1 : [[Axiom-PC-0.3-GD_Substitution]] is isomorphic to [[Prop-Op-0.1]] in from [[Temporal Solution to Representative Paradox]] described using [[Abstract Representative Calculus|Abstract Representative Calculus]].
+ISO : PC : 0.3.1 : [[Axiom-PC-0.3-GD_Substitution]] is isomorphic to [[Prop-Op-0.1]] in from [[Temporal Solution to Representative Paradox (Observer's Paradox)]] described using [[Abstract Representative Calculus|Abstract Representative Calculus]].

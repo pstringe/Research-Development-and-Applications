@@ -16,7 +16,7 @@ tags:
 	- [ ] [abstraction](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Calculus%2FDefinitions%2C%20Axioms%2C%20Propositions%2FDef-TC-0.1.2-abstraction)
 - [ ] Update [[Prop-SNDC-0.5]] using a process calculus example
 - [ ] Change any mention of sets to plurality
-- [ ] Divide [[Logic for Nondeterministic Computation]] into sections on boolean, indeterminate, temporal #metaphysics
+- [ ] Divide [[Logic for Non-deterministic Computation]] into sections on boolean, indeterminate, temporal #metaphysics
 	- [ ] Re-index definitions and propositions
 	- [ ] For each section, record tasks and notes for amelioration
 	- [ ] Execute tasks
@@ -26,5 +26,5 @@ tags:
 
 
 ---
-[1^]:: [[Logic for Nondeterministic Computation]]
+[1^]:: [[Logic for Non-deterministic Computation]]
 [2^]:: [[Notes related to indeterminate logic]]

@@ -4,7 +4,8 @@ modification date:	2023-07-04 11:42
 title: 				Task related them implementation of host succession
 tags:
 ---
-- [ ] Transcribe notes on recursive hierarchical succession 📅 2023-07-22
+- [x] Transcribe notes on recursive hierarchical succession 📅 2023-07-22 ✅ 2023-09-25
+- [ ] [[Individual Succession Of the Representative Abstraction]]
 - [ ] Implement reductive processes mechanical simulation
 
 ---

@@ -60,17 +60,13 @@ PROP : SOPS : 0.2.4 : U : src
 (p p)(p p)
 ```
 
-PROP : SOPS : 0.2.5 :
-```
-
-```
 
 PROP : SOPS : 0.2.3 : U : 
 ```
 (P p)()
 ```
 ---
-[1^]:: [[Logic for Nondeterministic Computation]]
+[1^]:: [[Logic for Non-deterministic Computation]]
 [2^]:: [[Tasks related to over-operation solutions]]
 [3^]:: [[]]
 
