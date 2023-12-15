@@ -8,7 +8,7 @@ tags:
 The subject experiences hunger
 
 ## Procedure Template
-![[Procedure For Encoding Propositions In Metaphysical Objects]]
+![Procedure For Encoding Propositions In Metaphysical Objects](Procedure%20For%20Encoding%20Propositions%20In%20Metaphysical%20Objects.md)
 
 ## Procedure to Counter Hunger (PCH)
 0. [Param] `T`: H 2
@@ -21,7 +21,7 @@ The subject experiences hunger
 8. [Imp] Accept the proposition via deep symbol activation
 9. [Imp] Encode the proposition in BOE
 
-## [[2023-05-28]]
+## [2023-05-28](2023-05-28.md)
 0. [Phen] The subject experienced an immediate changed in gastric sensation.
 1. [Phen] The desire to eat food, though not accompanied by the same physical sensation, still remains.
 2. [Imp] Develop a procedure to produce simulated food.

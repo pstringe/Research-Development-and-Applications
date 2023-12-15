@@ -4,7 +4,7 @@ modification date:	2023-06-13 11:06
 title: 				Generalize our definition of abstraction
 tags:
 ---
-![[Def-NLA-1.0-Abstraction]]
+![Def-NLA-1.0-Abstraction](Def-NLA-1.0-Abstraction.md)
 
 ## Notes 
 * Currently the definition of abstraction doesn't carry explicit meaning for connectives. 

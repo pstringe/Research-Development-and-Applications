@@ -10,4 +10,4 @@ tags:
 - [ ] Generate propositions
 
 ---
-[1^]:: [[Syncing Liminal Observations with Menial Observations (Thought Syncing)]]
+[1^]:: [Syncing Liminal Observations with Menial Observations (Thought Syncing)](Syncing%20Liminal%20Observations%20with%20Menial%20Observations%20(Thought%20Syncing).md)

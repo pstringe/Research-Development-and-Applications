@@ -16,4 +16,4 @@ tags:
 * Token resource is implemented
 
 
-![[propositions interface.svg]]
+![propositions interface](propositions%20interface.svg)

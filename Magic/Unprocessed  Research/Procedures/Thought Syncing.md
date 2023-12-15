@@ -9,8 +9,8 @@ The purpose is to discuss the philosophical foundation for a method of causing c
 
 After some months, of informal experimentation and analysis, I developed a formal system to describe the behavior of these processes which is also reflective of all intelligence. 
 
-![[Process Calculus]]
+![Process Calculus](Process%20Calculus.md)
 
 The first method I'll describe for augmenting one's representation of reality relies on the subject subject accepting a proposition regarding  the model it is 
 
-![[On the relationship between thought and being]]
+![On the relationship between thought and being](On%20the%20relationship%20between%20thought%20and%20being.md)

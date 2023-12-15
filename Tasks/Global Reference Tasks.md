@@ -11,4 +11,4 @@ tags: [metaphysics]
 * The table property from the query language has access to every property on the yaml file
 
 ---
-[1^]: [[Data View, Global Reference]]
+[1^]: [Data View, Global Reference](Data%20View,%20Global%20Reference.md)

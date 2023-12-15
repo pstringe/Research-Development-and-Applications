@@ -27,5 +27,5 @@ Prop : PI : 1 : Process  interactions can be represented with via composition or
 2. How will we represent the information?
 4. How will we represent a 
 
-### Develop ![[Research and Development/Magic/Unprocessed  Research/Develop a binding /Untitled Diagram.svg]] 
+### Develop ![Untitled Diagram](Research%20and%20Development/Magic/Unprocessed%20%20Research/Develop%20a%20binding%20/Untitled%20Diagram.svg) 
 ### Task

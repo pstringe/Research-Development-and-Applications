@@ -4,25 +4,25 @@ modification date:	2023-05-18 11:58
 title: 				Propositional Analysis
 tags:
 ---
-[[V2 Prop Analysis Spec for C implementation]]
-[[V3 Prop Analysis]]
+[V2 Prop Analysis Spec for C implementation](V2%20Prop%20Analysis%20Spec%20for%20C%20implementation.md)
+[V3 Prop Analysis](V3%20Prop%20Analysis.md)
 
 ---
-![[Prop Analysis Introduction]]
-![[SPEC-PA-General_Requirements]]
-![[SPEC-PA-Data_Collection_Requirements]]
-![[PA-DSN_Analysis_Requirements]]
-![[PA-Logical_Analysis_Requirements]]
-![[PA-Temporal_Analysis_Requirements]]
-![[PA-User_Stories]]
-![[SPEC-PA-Data_Model|SPEC-PA-Data_Model]]
+![Prop Analysis Introduction](Prop%20Analysis%20Introduction.md)
+![SPEC-PA-General_Requirements](SPEC-PA-General_Requirements.md)
+![SPEC-PA-Data_Collection_Requirements](SPEC-PA-Data_Collection_Requirements.md)
+![PA-DSN_Analysis_Requirements](PA-DSN_Analysis_Requirements.md)
+![PA-Logical_Analysis_Requirements](PA-Logical_Analysis_Requirements.md)
+![PA-Temporal_Analysis_Requirements](PA-Temporal_Analysis_Requirements.md)
+![PA-User_Stories](PA-User_Stories.md)
+![SPEC-PA-Data_Model](SPEC-PA-Data_Model.md)
 
 ### Interfaces
-![[SPEC-PA-API]]
+![SPEC-PA-API](SPEC-PA-API.md)
 
-![[SPEC-PA-UI_Features]]
-![[V2 Prop Analysis Spec for C implementation]]
-![[Propositional Analysis ERD]]
+![SPEC-PA-UI_Features](SPEC-PA-UI_Features.md)
+![V2 Prop Analysis Spec for C implementation](V2%20Prop%20Analysis%20Spec%20for%20C%20implementation.md)
+![Propositional Analysis ERD](Propositional%20Analysis%20ERD.md)
 
 **API Module**
 ```C
@@ -68,6 +68,6 @@ typedef struct s_resource  {
 ```
 
 ---
-[1^]:: [[Notes related to propositional analysis specificaton]]
-[2^]:: [[Tasks related to propositional analysis specification]]
-[3^]:: [[V2 Prop Analysis Spec for C implementation]]
+[1^]:: [Notes related to propositional analysis specificaton](Notes%20related%20to%20propositional%20analysis%20specificaton.md)
+[2^]:: [Tasks related to Propositional Analysis Specification](Tasks%20related%20to%20propositional%20analysis%20specification.md)
+[3^]:: [V2 Prop Analysis Spec for C implementation](V2%20Prop%20Analysis%20Spec%20for%20C%20implementation.md)

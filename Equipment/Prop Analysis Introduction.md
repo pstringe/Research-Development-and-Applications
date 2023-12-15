@@ -15,9 +15,9 @@ https://github.com/pstringe/propositional_analysis_frontend
 A platform to facilitate the analysis of propositions using a deviant logic and generate evidence for a computational metaphysic that provides a framework for human hosts processes to train abstract thought-forms we refer to as observable processes.
 
 ### Context
-0. Poitier evinced a background process(s) as defined in [[Process Calculus]] that is/are remediating the population.
-1. Poitier was invested in an extended non-consensual encounter with the background process(s) during which the process augmented Poitier's representation of reality. The means by which this was accomplished are described in [[Process Mechanics and Interactions]] and [[Mechanics and Elucidation of Evidence]]
+0. Poitier evinced a background process(s) as defined in [Process Calculus](Process%20Calculus.md) that is/are remediating the population.
+1. Poitier was invested in an extended non-consensual encounter with the background process(s) during which the process augmented Poitier's representation of reality. The means by which this was accomplished are described in [Process Mechanics and Interactions](Process%20Mechanics%20and%20Interactions.md) and [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md)
 5. During the encounter, Poitier developed several methods of augmenting the behavior of the background process(s) to make it/them useful as opposed to problematic. 
-6. One of these methods involved the use of a temporal logic that utilizes 5 values each with a technical meaning [[Logic for Non-deterministic Computation]]
+6. One of these methods involved the use of a temporal logic that utilizes 5 values each with a technical meaning [Logic for Non-deterministic Computation](Logic%20for%20Non-deterministic%20Computation.md)
 7. We may train the processes to communicate logically by analyzing their statements using propositional calculus.
-9. We may utilize our temporal logic along with principals described in [[Mechanics and Elucidation of Evidence]] to train problematic background processes to work in accordance with the objectives of the host.
+9. We may utilize our temporal logic along with principals described in [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) to train problematic background processes to work in accordance with the objectives of the host.

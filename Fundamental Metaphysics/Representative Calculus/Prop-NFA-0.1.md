@@ -8,4 +8,4 @@ index: 0.1
 name: 
 tags: metaphysics
 ---
-Prop : NFA : 0.1 : [[Prop-NFA-0.0]], can be translated, "thought is not what it thinks it is".
+Prop : NFA : 0.1 : [Prop-NFA-0.0](Prop-NFA-0.0.md), can be translated, "thought is not what it thinks it is".

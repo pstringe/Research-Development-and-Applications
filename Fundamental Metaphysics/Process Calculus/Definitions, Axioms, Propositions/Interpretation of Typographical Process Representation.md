@@ -14,4 +14,4 @@ Def : 3.0 : **Generative Observation** : The last term in observation as describ
 
 
 
-![[Def-4.0-Observable_Process]]
+![Def-4.0-Observable_Process](Def-4.0-Observable_Process.md)

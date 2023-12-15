@@ -11,4 +11,4 @@ tags:
 		- [x] Simplify the mermaid diagram to start with the first succession ✅ 2023-07-26
 		- [ ] Use diagram.io instead 📅 2023-07-26 
 ---
-[1^]:: [[]]
+[1^]:: [Tasks related to the development of probabalistic logic](.md)

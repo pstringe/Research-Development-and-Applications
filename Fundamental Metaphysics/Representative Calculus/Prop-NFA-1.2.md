@@ -9,4 +9,4 @@ name:
 tags: metaphysics
 ---
 Prop-NFA-1.2
-Prop : NFA: 1.2 : If [[Prop-NFA-1.0]] is true, `f(f) != f` does not necessarily contradict `f(f(f)) != f`.
+Prop : NFA: 1.2 : If [Prop-NFA-1.0](Prop-NFA-1.0.md) is true, `f(f) != f` does not necessarily contradict `f(f(f)) != f`.

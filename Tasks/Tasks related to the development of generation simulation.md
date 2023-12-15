@@ -8,4 +8,4 @@ tags:
 - [ ] Write a procedure for testing the generation simulator on the test process 
 
 ---
-[1^]:: [[templates/tasks|tasks]]
+[1^]:: [tasks](templates/tasks.md)

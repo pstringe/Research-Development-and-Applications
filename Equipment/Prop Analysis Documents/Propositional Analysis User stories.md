@@ -18,7 +18,7 @@ tags:
 1. formatted like a `Feed` of cards
 2. A user may click on a proposition to open it's `NLAInterface` (natural language abstraction interface)
 3. When the component loads, available abstractions are fetched and loaded into a trie
-4. A user may express and assign values to `abstractions` within `expressions` of the `proposition`. Using the rules defined in [[Natural Language Application of Indeterminate Logic]]
+4. A user may express and assign values to `abstractions` within `expressions` of the `proposition`. Using the rules defined in [Natural Language Application of Indeterminate Logic](Natural%20Language%20Application%20of%20Indeterminate%20Logic.md)
 5. When a user chooses to express a value, they are presented with an interface that allows them to select from existing abstractions that match the token currently being typed as a prefix in the trie.
 6. The user may press enter to select the first presented abstraction
 7. If the user has finished typing their token and the corresponding abstraction does not exist, the user may press enter to add the add the abstraction to the trie.

@@ -9,4 +9,4 @@ OBJ : DI : 0.2 : Intellection
 
 
 ----
-[1^]:: [[Notes Related to Intellection]]
+[1^]:: [Notes Related to Intellection](Notes%20Related%20to%20Intellection.md)

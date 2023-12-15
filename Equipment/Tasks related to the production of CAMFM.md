@@ -14,7 +14,7 @@ tags:
 	- [ ] parameterized propositions
 	- [ ] recursive propositions
 	
-- [ ] Use representative logic to over-operate specification for [[Representative Number Theory]].
+- [ ] Use representative logic to over-operate specification for [Representative Number Theory](Representative%20Number%20Theory.md).
 - [ ] Translate notes from computational notebook using representative logic.
 - [ ] Iterrate 📅 2023-09-15
 	- [ ] Read
@@ -23,5 +23,5 @@ tags:
 	- [ ] execute
 
 ---
-[1^]:: [[Main Equipment Specification]]
-[2^]:: [[OBJ-MS-0.0_Implement_development_construction_and_manipulation_of_formal_meta-representations]]
+[1^]:: [Main Equipment Specification](Main%20Equipment%20Specification.md)
+[2^]:: [OBJ-MS-0.0_Implement_development_construction_and_manipulation_of_formal_meta-representations](OBJ-MS-0.0_Implement_development_construction_and_manipulation_of_formal_meta-representations.md)

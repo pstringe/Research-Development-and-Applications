@@ -10,7 +10,7 @@ tags:
 ---
 Lisp for writing operatic programs
 
-I started writing a DSL for the purpose of transcribing some formal propositions in my hand-written notes into my computer. I started with a traditional functional syntax, and while contemplating parsing and relating it to another project I was building to calculate using my [[Representative Number Theory]], I realized it would be more efficient to switch to prefix notation.
+I started writing a DSL for the purpose of transcribing some formal propositions in my hand-written notes into my computer. I started with a traditional functional syntax, and while contemplating parsing and relating it to another project I was building to calculate using my [Representative Number Theory](Representative%20Number%20Theory.md), I realized it would be more efficient to switch to prefix notation.
 I have an abstraction I use, a $plurality$, which is really similar to a list and identical syntactically so the DSL pretty much turned into a lisp. At least syntactically.
 
 COND
@@ -48,5 +48,5 @@ NOT
 ```
 
 ---
-[1^]:: [[Notes on representative lisp]]
-[2^]:: [[Tasks related to representative lisp]]
+[1^]:: [Notes on representative lisp](Notes%20on%20representative%20lisp)
+[2^]:: [Tasks related to representative lisp](Tasks%20related%20to%20representative%20lisp.md)

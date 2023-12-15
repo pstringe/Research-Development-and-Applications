@@ -5,7 +5,7 @@ title: 				Notes Related to the Thought Calculus
 tags:
 ---
 
-Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [[Axiom-TC-0.1-GD]] and [[Axiom-TC-0.2-EP]].
+Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md) and [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md).
 
 * one way to address the conflict is to elaborate on the meaning of $=$.
 * currently we use = to mean 3 things:
@@ -26,7 +26,7 @@ Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [[Axiom
 * where S is the space of possibilities
 * f(f) => x where ~(x = f)
 
-[[2023-07-24]]
+[2023-07-24](2023-07-24.md)
 * Originally we interpret the f(x) as f thinks of x
 * We need to think about how liminal observations are related to menial observations
 * We want to see if we can represent this in the abstract calculus
@@ -34,8 +34,8 @@ Prop : NRTC : 0.0 : Time is a resolution to the seeming contradiction of [[Axiom
 * It is possible to generate imaginary and real stimuli simultaneously
 * We need to differentiate between s
 
-[[2023-09-18]]
-JUDGE : 0.0 : [[Axiom-TC-0.1-GD]] , [[Axiom-TC-0.2-EP]], express the abstraction of equality some concepts that can be clarified
+[2023-09-18](2023-09-18.md)
+JUDGE : 0.0 : [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md) , [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md), express the abstraction of equality some concepts that can be clarified
 	* equality of form
 	* equality of value
 	* equality of reference
@@ -43,4 +43,4 @@ JUDGE : 0.0 : [[Axiom-TC-0.1-GD]] , [[Axiom-TC-0.2-EP]], express the abstraction
 	* classification
 
 ---
-[1^]:: [[Tasks Related to the Representative Calculus]]
+[1^]:: [Tasks Related to the Representative Calculus](Tasks%20Related%20to%20the%20Representative%20Calculus.md)

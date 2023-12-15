@@ -11,5 +11,5 @@ Relative relationships do not require number to describe and seem to be the doma
 I desire a method to describe indeterminate spatial constructs that have determinate relationships relative to one-another.
 
 ---
-[1^]:: [[Spatial Relation Construction System]]
+[1^]:: [Spatial Relation Construction System](Spatial%20Relation%20Construction%20System.md)
 

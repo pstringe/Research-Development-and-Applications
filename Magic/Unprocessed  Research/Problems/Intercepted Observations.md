@@ -11,9 +11,9 @@ tags:
 
 ## Current Solutions
 #### Regarding Fatigue
-*Solution A*: P utilizes [[Mechanics and Elucidation of Evidence]] to associate sensation and physical actions with temporary restoration of wakefulness.
+*Solution A*: P utilizes [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) to associate sensation and physical actions with temporary restoration of wakefulness.
 
-*Solution B*: P utilizes [[Mechanics and Elucidation of Evidence]] to implement [[Procedure For Encoding Propositions In Metaphysical Objects]] to relieve fatigue over an extended period of time.
+*Solution B*: P utilizes [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) to implement [Procedure For Encoding Propositions In Metaphysical Objects](Procedure%20For%20Encoding%20Propositions%20In%20Metaphysical%20Objects.md) to relieve fatigue over an extended period of time.
 
 ##### Pros of Solution A
 Intuitive and effective for short term relief
@@ -25,7 +25,7 @@ Process X can still toggle wakefulness after process P toggles it.
 We have yet to implement a solution
 
 ## Metaphysical Assumptions
-![[Process Mechanics and Interactions]]
-* Process P and Process X are a [[Def-DPT-0.0-demiurgic_system]]
+![Process Mechanics and Interactions](Process%20Mechanics%20and%20Interactions.md)
+* Process P and Process X are a [Def-DPT-0.0-demiurgic_system](Def-DPT-0.0-demiurgic_system.md)
 
 ## Proposed Solution

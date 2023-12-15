@@ -24,7 +24,7 @@ p2: POC = (p, m(p))
 lit1: Contact = (p1 : POC, p2: POC)
 ```
 
-![[METENG-UI_HG_LIT2]]
+![METENG-UI_HG_LIT2](METENG-UI_HG_LIT2.md)
 METENG-UI_HG_LMT
 ```
 p1: POC = (m(m(p)), p)
@@ -39,7 +39,7 @@ p2: POC = (p, m(p))
 lmt1: Contact = (p1 : POC, p2: POC)
 ```
 
-![[METENG-UI_HG_LMT2]]
+![METENG-UI_HG_LMT2](METENG-UI_HG_LMT2.md)
 
 METENG-UI_HG_LRT
 ```

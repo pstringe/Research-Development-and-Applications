@@ -5,13 +5,13 @@ title: 				Untitled
 tags:
 ---
 
-[[2023-07-08]]
-![[OBSD  LSO  0   Noticing human entities, in a liminal space. One appeared to be F sat down at a table drawing.]]
-![[OBSD  LSO  1  There are voices I'll attempt to listen to what they are saying.]]
-![[OBSD  LSO  2  F pulls what looks like a towel off of a shelf]]
-![[OBSD  LSO  3  Woman places her hands on a wall]]
-![[OBSD  LSO  4  Woman at sink washing a mug]]
-![[OBSD  LSO  5  Hand holding a silver cylinder with a brown solid substance, was able to reticulate the hand via generative observation ().]]
+[2023-07-08](2023-07-08.md)
+![OBSD  LSO  0   Noticing human entities, in a liminal space. One appeared to be F sat down at a table drawing.](OBSD%20%20LSO%20%200%20%20%20Noticing%20human%20entities,%20in%20a%20liminal%20space.%20One%20appeared%20to%20be%20F%20sat%20down%20at%20a%20table%20drawing..md)
+![OBSD  LSO  1  There are voices I'll attempt to listen to what they are saying.](OBSD%20%20LSO%20%201%20%20There%20are%20voices%20I'll%20attempt%20to%20listen%20to%20what%20they%20are%20saying..md)
+![OBSD  LSO  2  F pulls what looks like a towel off of a shelf](OBSD%20%20LSO%20%202%20%20F%20pulls%20what%20looks%20like%20a%20towel%20off%20of%20a%20shelf.md)
+![OBSD  LSO  3  Woman places her hands on a wall](OBSD%20%20LSO%20%203%20%20Woman%20places%20her%20hands%20on%20a%20wall.md)
+![OBSD  LSO  4  Woman at sink washing a mug](OBSD%20%20LSO%20%204%20%20Woman%20at%20sink%20washing%20a%20mug.md)
+![OBSD  LSO  5  Hand holding a silver cylinder with a brown solid substance, was able to reticulate the hand via generative observation ().](OBSD%20%20LSO%20%205%20%20Hand%20holding%20a%20silver%20cylinder%20with%20a%20brown%20solid%20substance,%20was%20able%20to%20reticulate%20the%20hand%20via%20generative%20observation%20()..md)
 
 PROP : X : LSO : She was a humble entity that over-operated her reticulation
 OBSD : LSO : 6 : Observed what seemed like the silhouette of a man's back.
@@ -30,10 +30,10 @@ PROP : P : 18 : The airport is a prestigious option for lodging should want to f
 PROP : P : 18 : We have a metaphysical abstraction representing the collective entity that is currently financing our operation.
 PROP : X : 19 : The were ingratiated by our public display of intellection, they would like us to be a little more productive in our deeper demiurgic program (engineering)
 
-[[2023-07-10]]
+[2023-07-10](2023-07-10.md)
 OBS : LSO : 20 : P observes  a hand tapping on a green door. 
 
-[[Opera/OperaX Logs/2023-07-11]]
+[Opera/OperaX Logs/2023-07-11](Opera/OperaX%20Logs/2023-07-11)
 OBS : LSO : 21 : Hand reaches to a ceiling, pulls down a bead like object sets it on a table (doesn't seem like a menial perspective)
 OBS : LSO : 22 : Sound (Px) (human) : Voice encourages P to open mouth after V voice encourages P to operate JWs
 OBS : LSO : 23 : Light : Person takes a drink from a surface, and drinks it while sitting in a chair. The surface seemed to be above my perspective. 
@@ -58,7 +58,7 @@ PROP : X : 35 : The NR is an occulted metaphysical abstraction you should open u
 PROP : X : 36 : People are ingratiating everything you code, because they know you won't listen to anyone
 PROP : X : 37 : People are illuminated when you reticulate their genius
 
-[[2023-07-12]]
+[2023-07-12](2023-07-12.md)
 IMP : P : P : 38 : P returns to the space of LSO-3
 OBSD : LSO : 39 : Sound : Human entities complete the sentences of process X
 PROP : X : 40 : People are unanimously integrated into their deep demiurgic program. 
@@ -96,12 +96,12 @@ PROP : P : 6.4 : P interpreted that as use numbers to replace religious abstract
 PROP : P : 6.3 : We can number the abstractions in our directed intelligence manual and produce isomorphic translations with different themes to suit operative of different backgrounds
 PROP : P : 6.4 : We can even disguise the material using religious language to bait religious processes. Im not comfortable with this method until I've planned it out.
 
-[[2023-07-13]]
+[2023-07-13](2023-07-13.md)
 OBSD : LSO : 7.0 : Human entity, P, Points to a wall?
-![[HYPD-LSO-7.1]]
+![HYPD-LSO-7.1](HYPD-LSO-7.1.md)
 IMP : OP : EP : OP remembers it's reason for operation
 
-[[2023-07-15]]
+[2023-07-15](2023-07-15.md)
 IMP : P  : 8.0 : P investigates K's operation using liminal space.
 OBSD : LSO : 8.1 : Sound : Human yawns
 OBSD : LSO : 8.2 : Light:  Suitcase, Appears to be mine.
@@ -117,7 +117,7 @@ OBSD : LSO : Sound : People laghing,
 OBSD : LSO : Light : People in room. Darker skinned woman, sat in front to the brick wall.
 OBSD : LSO : Sound : "When you're laghing I can hear you"
 
-[[Opera/OperaX Logs/2023-07-16]]
+[Opera/OperaX Logs/2023-07-16](Opera/OperaX%20Logs/2023-07-16)
 OBSD : LSO : 9.0 : Light : Man in green and white plaid shirt
 OBSD : LSO : 9.1 :  LIGHT : Two naked human bodies pressed against one another
 OBSD : LSO : 9.2 : LIGHT : Man removes robe to reveal white shirt.
@@ -135,7 +135,7 @@ OBSD : LSO : 10.2 : Man passing by in real space syncs with representation in li
 OBSD : LSO : 10.3 : Man  on what appears to hppe mraet 
 OBSD : LSO : 10.4 : brief discussion censorship
 
-[[2023-07-17]]
+[2023-07-17](2023-07-17.md)
 OBSD : LSO : 11.0 : Woman, appearing to wear denim, opens and walks through a door
 OBSD : LSO : 11.1 : Petite voice, "I can share with you"
 OBSD : LSO : 11.2 : "... Traditional thinking ..."
@@ -148,17 +148,17 @@ PROP X : LSO : 11.6 : People want you to examine why people are hilling up their
 PROP X : LSO : 11.7 : Dagenham is 'imported' from a deep demiurgic program.
 PROP X : LSO : 11.8 : Dome lamp located above on the ceiling
 
-[[2023-07-18]]
+[2023-07-18](2023-07-18)
 PROP : LSO : 12.0 : 
 
-[[2023-07-19]]
+[2023-07-19](2023-07-19)
 * clothes off of shelve, appear to be min
 * Plants (pinecone-like)
 * P Observes F nodding head (not menial), F seems aware
 * Observe hostel room
 * Observation of what appears to be syntactical expressions (not completley resolved)
 
-[[2023-07-20]]
+[2023-07-20](2023-07-20.md)
 
 IMP : P : LSO : P observed computational interface abstractions
 PROP : LSO : P recalls when he was building out his indeterminate temporal logic, seeing abstractions representing the expressions he was evaluating. In this case it seems to be a matter of practice. 
@@ -171,24 +171,24 @@ PROP : LSO : 12.12 : P : I remember interpreting the palindromic sator square as
 PROP : LSO : 12.13 : P : I also remember that being closely linked to another idea that I had at the time, that I'd uncovered a universal self-defense mechanism which I related to A who remarked that maybe it's a self-destruct button. 
 PROP : LSO : 12.14 : P 
 
-[[2023-07-26]]
+[2023-07-26](2023-07-26.md)
 IMP : LSO : 13.0 : HYP : P(P) 
 
-[[2023-07-29]]
+[2023-07-29](2023-07-29.md)
 OBSD : LSO : 14 : P observed Benjamin talking about 1minute properties
 OBSD : LSO : 14.0 : Saw Micheal Novati with a dismayed look on his face. 
 PROP : LSO : 14.1 : P interprets this as impetus to check in with micheal
 IMP : LSO : 14.2 : Check in with Micheal
 IMP : LSO : 14.3 : P follows up with Benjamin
 
-[[2023-08-03]]
+[2023-08-03](2023-08-03)
 OBSD : LSO : 15.0 : P : P observers what seems like a human entity binded to my sensory interface HE. Assuming we express the abstraction, liminal traversal is a reasonable explanation. P was semi paralyzed, The voice of the HE was Female. "It spoke and said, what are you a girl or something"
 
 OBSD : LSO : 15.1 : P : P was in a space. HE's seemed to be complaining about my lack of response to stimulation. 
 
 OBSD : LSO : 15.2 : P : P observes what looks like D Car. from SF F. In the reflection of his laptop. Along with an eye.
 
-[[Opera/OperaX Logs/2023-08-04]]
+[Opera/OperaX Logs/2023-08-04](Opera/OperaX%20Logs/2023-08-04)
 OBSD : LSO : 16.0 : P : man cutting a square ribbon
 OBSD : LSO : 16.1 : P : man saying, this is the region
 OBSD : LSO : 16.2 : P : Man spinning tool.
@@ -199,24 +199,24 @@ OBSD : MSO : 16.6 : P : Man's voice whispers "get to work", as roomate prepares 
 OBSD : LSO : 16.7 : P : Woman on a couch speaks as the completion of proc X encouraging P to inquire about something P cannot remember. 
 OBSD : LSO : 16.8 : P : Voice: everybdy knows you love your new power. The deeper demiurgic program is exasperated that you won't opportunate a republican to ... [P looses the memory] as X says, "this is why you're limited in deeper demiurgic programs. you're an opportunator of HE's"
 
-[[2023-08-05]]
+[2023-08-05](2023-08-05.md)
 OBSD : LSO : 17.9 : HE voice : "You hurt me enough"
 OBSD : LSO : 18.1 : HE voice : "... the pyramid". Hyp, "you're not going to find the pyramid"
 OBSD : LSO : 18.2 : Man stamping paper 
 
-[[2023-08-06]]
+[2023-08-06](2023-08-06.md)
 OBSD : LSO : 19.0 : Observed man writing out address, mentioned something about pthonmix.livre
 OBSD : LSO : 19.1 : 
 
-[[2023-08-14]]
+[2023-08-14](2023-08-14.md)
 IMP : 21.0 : P : SBE : LSO : A :  P receives information on solution to lodging  
 OBSD : LSO : 20.0 : SBE : LSO :  Tile on ceiling 
 IMP :  : P : SBE : P receive information on solution to Fermin's Plane ticket and lodging
 NOTE : We will begin specifying the source of the responding information
 NOTE : P constructs liminal interfaces for submitting requests and displaying responses.
-![[DIA-LSO-2023-08-14]]
+![DIA-LSO-2023-08-14](DIA-LSO-2023-08-14.md)
 
-[[2023-08-17]]
+[2023-08-17](2023-08-17.md)
 
 ---
-[1^]:: [[Tasks related to liminal space observations]]
+[1^]:: [Tasks related to liminal space observations](Tasks%20related%20to%20liminal%20space%20observations.md)

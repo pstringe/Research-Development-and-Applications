@@ -6,4 +6,4 @@
 * In the case of the typed process calculus, the form of the expression of input and output abstractions are declared as an interface
 
 ---
-[1^]: [[Tasks related to 2 process System]]
+[1^]: [Tasks related to 2 process System](Tasks%20related%20to%202%20process%20System.md)

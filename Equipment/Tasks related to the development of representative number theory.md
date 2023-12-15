@@ -12,4 +12,4 @@ tags:
 - [ ] Define illusory numbers
 - [ ] Define elucidated numbers
 - [ ] Develop abstraction for hallucination given a v_space (numeral)
-- [ ] Elucidation of numerical abstraction, related to [[Positional Logic]] and [[Indeterminate Geometry as a meta-representation to describe the cause of XOR via observation and justify the propositional calculus]], [[meta-representation of expressions of related abstractions]] 
+- [ ] Elucidation of numerical abstraction, related to [Positional Logic](Positional%20Logic.md) and [Indeterminate Geometry as a meta-representation to describe the cause of XOR via observation and justify the propositional calculus](Indeterminate%20Geometry%20as%20a%20meta-representation%20to%20describe%20the%20cause%20of%20XOR%20via%20observation%20and%20justify%20the%20propositional%20calculus.md), [meta-representation of expressions of related abstractions](meta-representation%20of%20expressions%20of%20related%20abstractions) 

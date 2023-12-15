@@ -11,5 +11,5 @@ tags:
 OBJ : DI : 4.2 : Hypocrisy
 
 ---
-[2^]:: [[Tasks related to OBJ-DI-4.2-Hypocrisy]]
-[3^]:: [[Note related ]]
+[2^]:: [Tasks related to OBJ-DI-4.2-Hypocrisy](Tasks%20related%20to%20OBJ-DI-4.2-Hypocrisy)
+[3^]:: [Note related ](Note%20related%20)

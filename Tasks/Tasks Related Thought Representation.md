@@ -16,6 +16,6 @@ tags:
 - [ ] Examine alien instantiation vs self-instantiation.
 - [ ] Examine logic.
 ---
-[1^]:: [[Thought Representation]]
-[2^]:: [[Tasks Related Thought Representation]]
-[3^]:: [[Notes Related to Thought Representation]]
+[1^]:: [Thought Representation](Thought%20Representation.md)
+[2^]:: [Tasks Related Thought Representation](Tasks%20Related%20Thought%20Representation.md)
+[3^]:: [Notes Related to Thought Representation](Notes%20Related%20to%20Thought%20Representation.md)

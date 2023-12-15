@@ -4,7 +4,7 @@ modification date: 2023-07-28 11:27
 title: Notes on process composition and self-reference to demonstrate stimulus-response
 tags:
 ---
-![[Def-PCSR-0.0.1]]
+![Def-PCSR-0.0.1](Def-PCSR-0.0.1.md)
 
 DEF : PCSR : 0.0.1 : $Stimulus$ : Given two representative abstractions, $f$ and $g$ where $((O\ f)=g)$, a change in $f$ is the stimulation of $g$.
 
@@ -12,7 +12,7 @@ DEF : PCSR : 0.0.2 : $Response$ : Given two representative abstractions, $f$ and
 
 COMMENT : The change in process f is the final cause of the change in g.
 
-![[DEF_PCSR_0.0.3_reticulation]]
+![DEF_PCSR_0.0.3_reticulation](DEF_PCSR_0.0.3_reticulation.md)
 
 COMMENT : $f$ first forms a causal association between a change in it's representation and change in g's representation. And elucidates a change in $g$ by changing itself.
 
@@ -89,4 +89,4 @@ PROP : PCSR : 0.4 : Where `(F = O(F))`
 ```
 
 ---
-[1^]:: [[Tasks related to processing notes on process composition, self-ref and stimulus-response]]
+[1^]:: [Tasks related to processing notes on process composition, self-ref and stimulus-response](Tasks%20related%20to%20processing%20notes%20on%20process%20composition,%20self-ref%20and%20stimulus-response.md)

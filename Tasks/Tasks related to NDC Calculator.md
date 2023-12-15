@@ -21,7 +21,7 @@ tags:
 	- [x] Develop foundation library template with re-usable makefile 📅 2023-08-10 ✅ 2023-08-10
 		- [x] debug `ld: library not found for -lfoundation clang: error: linker command failed with exit code 1 (use -v to see invocation) make: *** [main] Error 1` ✅ 2023-08-10
 	- [ ] Import updated foundation library
-	- [ ] Implement a GNL for foundation library as dependency for read function. [[Tasks related to implementation of gnl]]  📅 2023-08-10
+	- [ ] Implement a GNL for foundation library as dependency for read function. [Tasks related to implementation of gnl](Tasks%20related%20to%20implementation%20of%20gnl.md)  📅 2023-08-10
 	- [ ] Write the repl.it 
 		- [ ] read step
 		- [ ] parse step
@@ -32,7 +32,7 @@ tags:
 - [ ] Execute test
 
 ---
-[1^]:: [[Notes related to NDC Calculator]]
+[1^]:: [Notes related to NDC Calculator](Notes%20related%20to%20NDC%20Calculator.md)
 
 ---
-[1^]:: [[NDC Calculator Sim]]
+[1^]:: [NDC Calculator Sim](NDC%20Calculator%20Sim.md)

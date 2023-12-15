@@ -7,4 +7,4 @@ tags:
 Def : TC : 0.1.2 : $abstraction$ : An $abstraction$ of $information$ that may be $expressed$ as one or more $abstractions$.
 
 ---
-[^1]: : [[Notes on abstraction]]
+[^1]: : [Notes on abstraction](Notes%20on%20abstraction.md)

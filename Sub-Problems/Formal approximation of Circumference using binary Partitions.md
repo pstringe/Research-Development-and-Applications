@@ -5,7 +5,7 @@ title: 				formal approximation of pi
 tags:               
 ---
 
-The purpose of this sub-problem is to develop a functional representation of pi to utilize in our [[Process Representation]] using a base 2 system.
+The purpose of this sub-problem is to develop a functional representation of pi to utilize in our [Process Representation](Process%20Representation.md) using a base 2 system.
 
 - [x] Build a construction to demonstrate the relationship between the size of a partition in relation to circumference and the accuracy of its approximation ✅ 2023-06-28
 	- [x] establish two dimensions using an isomorphism between a [dimension](Def-POSC-0.2-dimension.md) in positional calculus and a [set](https://en.wikipedia.org/wiki/Set_theory) of  numbers to signify positions. ✅ 2023-06-28
@@ -21,4 +21,4 @@ The purpose of this sub-problem is to develop a functional representation of pi 
 - [ ] let 
 
 ---
-[1^]: [[dependencies for formal approximation of pi]]
+[1^]: [dependencies for formal approximation of pi](dependencies%20for%20formal%20approximation%20of%20pi.md)

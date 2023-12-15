@@ -11,8 +11,8 @@ tags:
 - [x] write pseudocode for each funciton ✅ 2023-07-03
 - [x] translate pseudocode into formal syntax ✅ 2023-07-06
 - [x] write a function to append an pointer to memory onto an array ✅ 2023-07-06
-- [x] write [[f_bzero]] ✅ 2023-07-03
-- [x] write [[f_memalloc]] ✅ 2023-07-03
+- [x] write [f_bzero](f_bzero) ✅ 2023-07-03
+- [x] write [f_memalloc](f_memalloc) ✅ 2023-07-03
 - [x] write f_free_array() ✅ 2023-07-05
 - [x] write f_array_resize() ✅ 2023-07-05
 - [x] write f_array_append() ✅ 2023-07-05
@@ -38,7 +38,7 @@ tags:
 * we did not skip the delimiter
 * In the conditional we should be checking the str instead of cur
 - [x] Implement change ✅ 2023-07-14
-[[2023-07-14]]
+[2023-07-14](2023-07-14.md)
 * We made some changes, no longer passing an index, just manipulating the pointer.
 * Observed a seg-fault when running the changes
 
@@ -50,5 +50,5 @@ Debugging Observations
 [[2023-08-12]
 
 ---
-[1^]:: [[Notes related to f_strsplit]]
-[2^]:: [[Tasks related to f_strsplit]]
+[1^]:: [Notes related to f_strsplit](Notes%20related%20to%20f_strsplit.md)
+[2^]:: [Tasks related to f_strsplit](Tasks%20related%20to%20f_strsplit.md)

@@ -11,4 +11,4 @@ tags:
 4. $(f(O_0) = O_1) \land (f(f)=f)$
 
 ---
-[1^]:: [[Tasks Related to the Dependency of observations]]
+[1^]:: [Tasks Related to the Dependency of observations](Tasks%20Related%20to%20the%20Dependency%20of%20observations.md)

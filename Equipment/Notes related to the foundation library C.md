@@ -4,7 +4,7 @@ modification date:	2023-07-12 11:13
 title: 				Notes related to the foundation library C
 tags:
 ---
-[[2023-07-12]]
+[2023-07-12](2023-07-12.md)
 * when running f_strsplit we get a segmentation fault
 * currently we zero out `cur` before appending it to the result array. We want append a copy before zero-ing it out
 ```C
@@ -54,5 +54,5 @@ return g(str, delim, f_strncat(cur, (str + i), (f_strchr(str, delim) - (str + i)
 * we'll recomile and see if that helps
 * 
 ---
-[1^]:: [[Develop Foundation library C]]
-[2^]:: [[Tasks related to foundation library]]
+[1^]:: [Develop Foundation library C](Develop%20Foundation%20library%20C.md)
+[2^]:: [Tasks related to foundation library](Tasks%20related%20to%20foundation%20library.md)

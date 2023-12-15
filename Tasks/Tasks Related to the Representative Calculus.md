@@ -10,4 +10,4 @@ tags:
 - [ ] Enumerate classes of human representation.
 
 ---
-[1^]:: [[Abstract Representative Calculus]]
+[1^]:: [Abstract Representative Calculus](Abstract%20Representative%20Calculus.md)

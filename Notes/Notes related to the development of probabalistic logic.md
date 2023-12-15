@@ -6,4 +6,4 @@ tags:
 ---
 
 * We've added tasks for establishing the value space and the space of propositional abstractions
-* It's probably better to do this in: [[Possibility Spaces and Constraints]]
+* It's probably better to do this in: [Possibility Spaces and Constraints](Possibility%20Spaces%20and%20Constraints.md)

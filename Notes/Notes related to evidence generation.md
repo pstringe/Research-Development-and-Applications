@@ -13,6 +13,6 @@ INTELLECTION : Intention, in the context of process mechanics, seems to be a lim
 INTELLECTION : A process may evince the proposition that abs
 
 ---
-[0^]:: [[Evidence Generation]]
-[1^]:: [[Tasks related to evidence generation]]
-[2^]:: [[]]
+[0^]:: [Evidence Generation](Evidence%20Generation.md)
+[1^]:: [Tasks related to evidence generation](Tasks%20related%20to%20evidence%20generation.md)
+[2^]:: [Notes related to evidence generation](.md)

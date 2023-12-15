@@ -27,6 +27,6 @@ interpreted as `x` is positioned left of `y`.
 Prop : POCS : 6.0: The theorem `X == Y` is interpreted as, position `X` maps to position `Y`.
 
 ---
-[^1]: [[Tasks Related to the development of the positional calculus]]
+[^1]: [Tasks related to the development of the positional calculus](Tasks%20Related%20to%20the%20development%20of%20the%20positional%20calculus.md)
 
 

@@ -17,5 +17,5 @@ Def : GS : 0.6 : intersect : $(INTP\ p)$
 
 
 ---
-[1^]:: [[Notes related to relative geometric construction system]]
-[2^]:: [[Tasks related to relative geometric construction system]]
+[1^]:: [Notes related to relative geometric construction system](Notes%20related%20to%20relative%20geometric%20construction%20system.md)
+[2^]:: [Tasks related to relative geometric construction system](Tasks%20related%20to%20relative%20geometric%20construction%20system.md)

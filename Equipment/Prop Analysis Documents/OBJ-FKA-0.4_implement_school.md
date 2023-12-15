@@ -6,5 +6,5 @@ tags:
 ---
 OBJ : FKA : 0.4 : Implement school
 
-![[OBJ-FKA-0.4.1-implement_curriculum]]
+![OBJ-FKA-0.4.1-implement_curriculum](OBJ-FKA-0.4.1-implement_curriculum.md)
 

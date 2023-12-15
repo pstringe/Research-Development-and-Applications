@@ -5,4 +5,4 @@ title: 				SPEC-PA-API
 tags: metaphysics prop_analysis
 ---
 ## SPEC-PA-API
-![[API]]
+![API](API.md)

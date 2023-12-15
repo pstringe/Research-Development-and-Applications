@@ -9,4 +9,4 @@ tags:
 	- [ ] Identify main themes and list significant accomplishments related to theme
 
 ---
-[1^]:: [[Accomplishments_June_July]]
+[1^]:: [Accomplishments_June_July](Accomplishments_June_July.md)

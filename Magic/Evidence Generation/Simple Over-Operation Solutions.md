@@ -40,7 +40,7 @@ PROP : SOPS : 0.2.2 : U :
 )
 ```
 
-![[PROP-SOPS-0.2.4]]
+![PROP-SOPS-0.2.4](PROP-SOPS-0.2.4.md)
 OBSD : SOPS : 0.2.4.5 : U : The sensation associated with the acceptance and utilization of this implication, seems similar to what I experience as will ackompanied by knowledge. 
 
 PROP : SOPS : 0.2.3 : U : 
@@ -66,8 +66,8 @@ PROP : SOPS : 0.2.3 : U :
 (P p)()
 ```
 ---
-[1^]:: [[Logic for Non-deterministic Computation]]
-[2^]:: [[Tasks related to over-operation solutions]]
-[3^]:: [[]]
+[1^]:: [Logic for Non-deterministic Computation](Logic%20for%20Non-deterministic%20Computation.md)
+[2^]:: [Tasks related to over-operation solutions](Tasks%20related%20to%20over-operation%20solutions.md)
+[3^]:: [Simple Over-Operation Solutions](.md)
 
 

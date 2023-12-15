@@ -6,4 +6,4 @@ tags:
 ---
 
 ---
-[1^]:: [[Tasks Related Thought Representation]]
+[1^]:: [Tasks Related Thought Representation](Tasks%20Related%20Thought%20Representation.md)

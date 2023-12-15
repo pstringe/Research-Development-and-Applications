@@ -114,8 +114,8 @@ PROP : 2.7 : (n = 100)
 NOTE : 2.8 :  ought to be (n = 10) not (n = 100)
 NOTE : 2.8 :  when building up the base, we itterate 1 too many times. We can fix this with minimal effort by switching from post-incrementation to pre-incrementation.
 
-[[2023-08-22]]
-PROP : 3.0 : We have a function intended to succeed an expression in [[Representative Number Theory]]
+[2023-08-22](2023-08-22.md)
+PROP : 3.0 : We have a function intended to succeed an expression in [Representative Number Theory](Representative%20Number%20Theory.md)
 PROP : 3.1 : We have an undeclared identifier, digit
 TEST : 3.2 : Input : p 10 : Expected : m(p) : Actual : m(
 PROP : 3.3 : We allocate a string for dst, the length of the src + 3 (4)
@@ -198,4 +198,4 @@ https://riptutorial.com/c/example/4360/the-linkerhttps://riptutorial.com/c/examp
 
 
 ---
-[1]:: [[Notes on development of representative number theory sim]]
+[1]:: [Notes on development of representative number theory sim](Notes%20on%20development%20of%20representative%20number%20theory%20sim.md)

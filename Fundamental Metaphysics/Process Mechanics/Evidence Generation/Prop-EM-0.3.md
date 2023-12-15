@@ -8,4 +8,4 @@ index: 0.3
 name: 
 tags: #metaphysics #evidation 
 ---
-Prop : EM : 0.3 : We interpret an $observable$ $proccess$ in the process calculus as *[[self-instantiated]]*. Where the $observed$ $term$ is an abstraction of  information describing the *[proccess](Def-PC-0.0-Process)*.
+Prop : EM : 0.3 : We interpret an $observable$ $proccess$ in the process calculus as *[self-instantiated](self-instantiated)*. Where the $observed$ $term$ is an abstraction of  information describing the *[proccess](Def-PC-0.0-Process)*.

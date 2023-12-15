@@ -6,5 +6,5 @@ tags:
 ---
 
 ---
-[1^]:: [[Research and Development/Ethics/Ethics|Ethics]]
-[2^]:: [[Tasks related to development of ethics]]
+[1^]:: [Ethics](Research%20and%20Development/Ethics/Ethics.md)
+[2^]:: [Tasks related to development of ethics](Tasks%20related%20to%20development%20of%20ethics.md)

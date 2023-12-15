@@ -17,7 +17,7 @@ tags:
 # Notes
 
 
-## [[2023-06-09]]
+## [2023-06-09](2023-06-09.md)
 ### Tasks 
 * [ ] Look up an example of using a synthetic event with textfield, record findings
 - [x] Restrict the type of refresh method ✅ 2023-06-09

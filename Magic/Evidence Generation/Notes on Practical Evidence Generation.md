@@ -26,10 +26,10 @@ We have a metaphysical operation to run. We will become more rigorous and specif
 
 In addition to that we want to continue with and increase the rigor of our medical research as well as return to "matter manipulation". 
 
-- [ ] [[Mechanics and Elucidation of Evidence]]
+- [ ] [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md)
 
 *Practical*
-- [ ] Enumerate past methods [[Chronology of Past Operations]]
+- [ ] Enumerate past methods [Chronology of Past Operations](Chronology%20of%20Past%20Operations)
 - [ ] Enumerate evidence generation methods
 - [ ] Judge flaws in methods
 - [ ] Develop/execute solutions
@@ -43,4 +43,4 @@ In addition to that we want to continue with and increase the rigor of our medic
 
 
 ---
-[1^]:: [[Tasks related to processing notes on magic]]
+[1^]:: [Tasks related to processing notes on magic](Tasks%20related%20to%20processing%20notes%20on%20magic.md)

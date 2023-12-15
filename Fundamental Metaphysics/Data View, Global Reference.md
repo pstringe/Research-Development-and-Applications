@@ -9,5 +9,5 @@ TABLE type, topic, index, name FROM #metaphysics
 ```
 
 ---
-[1^]:: [[Global Reference Tasks]]
-[2^]:: [[Metaphysics Global Reference]]
+[1^]:: [Global Reference Tasks](Global%20Reference%20Tasks.md)
+[2^]:: [Metaphysics Global Reference](Metaphysics%20Global%20Reference.md)

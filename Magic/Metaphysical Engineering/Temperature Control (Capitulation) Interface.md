@@ -4,7 +4,7 @@ modification date:	2023-08-17 16:32
 title: 				Tempurature Control Interface
 tags:
 ---
-[[Core commands]]
+[Core commands](Core%20commands.md)
 *UI*
 ```
 (P

@@ -15,4 +15,4 @@ THOUGHT : 0.2 : We can represent a symbolic network in the liminal processing
 PRELIM-DEF : 0.0 : With regard to the liminal processing model, 
 
 ---
-[1^]:: [[Notes Related to Intellection]]
+[1^]:: [Notes Related to Intellection](Notes%20Related%20to%20Intellection.md)

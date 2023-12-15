@@ -8,4 +8,4 @@ tags: metaphysics
 - [ ] Formalize Prop-LFA-07 from notes
 
 ---
-[1^]:: [[Notes on relationship between logical propositions and functional abstractions]]
+[1^]:: [Notes on relationship between logical propositions and functional abstractions](Notes%20on%20relationship%20between%20logical%20propositions%20and%20functional%20abstractions.md)

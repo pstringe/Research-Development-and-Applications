@@ -214,4 +214,4 @@ OBSG : 2.5 : Immediate rise in temp around back, more significant than before, t
 PROP : P : T : 2.6 : `(= P.temp (m (m (m P.temp))))`
 
 ---
-[1^]:: [[Core commands]]
+[1^]:: [Core commands](Core%20commands.md)

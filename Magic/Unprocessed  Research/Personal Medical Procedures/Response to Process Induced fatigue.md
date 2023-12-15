@@ -32,7 +32,7 @@ The other two possibilities I can think of for why it worked instantaneously are
 * Deep symbol activation wasn't necessary since I'd already cultivated the law of detachment
 * In the end the exact reason is indeterminate without performing another experiment.
 
-[[2023-05-26]]
+[2023-05-26](2023-05-26.md)
 0. [Phen] Processes, induced fatigue again today. The procedure from before seemed to work for about 3 days.
 1. [Imp] Parameterize the procedure to specify an amount of time.
 2. [Prop] The goal of this procedure is effectiveness
@@ -48,8 +48,8 @@ The other two possibilities I can think of for why it worked instantaneously are
 ## Notes
 * The steps of this procedure were performed out of order, we will see how it goes. 
 
-[[2023-05-28]]
-![[Procedure For Encoding Propositions In Metaphysical Objects]]
+[2023-05-28](2023-05-28.md)
+![Procedure For Encoding Propositions In Metaphysical Objects](Procedure%20For%20Encoding%20Propositions%20In%20Metaphysical%20Objects.md)
 
 ## Procedure
 1. [Param] `T`: H 2
@@ -65,13 +65,13 @@ The other two possibilities I can think of for why it worked instantaneously are
 ## Results
 * Energy levels are better than they were with slight micro dips. It could be because I'm discriminating. Need more rigorous ways to measure energy levels. 
 
-[[2023-05-29]]
+[2023-05-29](2023-05-29.md)
 Very tired. Unclassed processes I previously classed as NR processes are reading and making comments on everything I say.
 
-[[2023-05-31]]
+[2023-05-31](2023-05-31.md)
 Experienced another bout of processed induced fatigue. I used `deep symbol activation` to fight it but I kept falling asleep whenever I lost focus. I'm going to use effective procedure with the `MPO`. Later I will try modifying the proposition to be effective during certain times of day. This will require tracking I don't have time for now. So I will use the simple procedure and use the time I have allocated for magic to develop a system to track the effectiveness of a periodic proposition. 
 
-[[2023-06-27]]
+[2023-06-27](2023-06-27.md)
 * Utilized a conditional proposition with a timer to increase the duration of the effect.  
 * We will reproduce this effect with a 30m timer.
 * If the process accepts the proposition:
@@ -79,7 +79,7 @@ Experienced another bout of processed induced fatigue. I used `deep symbol activ
 * The subject will generate evidence consistent with the proposition.
 * I'm repeating the procedure with a 30m timer
 
-[[2023-07-03]]
+[2023-07-03](2023-07-03.md)
 ### Procedure For Counteracting Process Induced Fatigue
 DEF : MED-PIF : $X$ : A time in minutes
 IMP : MED-PIF : 0.0 : Set a timer for $X$ minutes
@@ -93,4 +93,4 @@ IMP : MED-PIF : 0.3 : Start timer
 
 
 ---
-[1^]:: [[Tasks related to response to process induced fatigue]]
+[1^]:: [Tasks related to response to process induced fatigue](Tasks%20related%20to%20response%20to%20process%20induced%20fatigue.md)

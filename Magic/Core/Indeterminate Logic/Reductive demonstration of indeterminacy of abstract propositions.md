@@ -84,7 +84,7 @@ COMMENT : This PROP-RDIAP-27 is related to strength of evidence.
 PROP : RDIAP : 28 : The computation required to elucidate the final cause, is non-deterministic.
 
 *Justification for non-determinism*
-JUST : RDIAP-28.1 : Given a [possibility space](DEF-NDC-0.0_possibility-space), representing itself as an [observable process](Def-4.0-Observable_Process). [[Axiom-PC-0.1-Observation]] implies $selection$. 
+JUST : RDIAP-28.1 : Given a [possibility space](DEF-NDC-0.0_possibility-space), representing itself as an [observable process](Def-4.0-Observable_Process). [Axiom-PC-0.1-Observation](Axiom-PC-0.1-Observation.md) implies $selection$. 
 
 JUST : RDIAP-28.2 : $Selection$ implies $constraint$ of the [possibility space](DEF-NDC-0.0_possibility-space).
 
@@ -108,10 +108,10 @@ JUST : RDIAP-28.5.4 : (P (=> (^ (dep [observation] [Axiom-PC-0.1-Observation] $s
 
 JUST : RDIAP-28.5.5 : (P (=> (^ RDIAP-28.5.3 RDIAP-28.5.4) [observation] [Axiom-PC-0.1-Observation]is non-deterministic)) 
 
-[[Constraint of the possibility space by observation]]
+[Constraint of the possibility space by observation](Constraint%20of%20the%20possibility%20space%20by%20observation.md)
 
 
 
 ---
-[1^]:: [[Tasks related to reductive demonstration of the indeterminacy of abstract propositions]]
-[2^]:: [[Probabilistic Logic]]
+[1^]:: [Tasks related to reductive demonstration of the indeterminacy of abstract propositions](Tasks%20related%20to%20reductive%20demonstration%20of%20the%20indeterminacy%20of%20abstract%20propositions.md)
+[2^]:: [Probabilistic Logic](Probabilistic%20Logic.md)

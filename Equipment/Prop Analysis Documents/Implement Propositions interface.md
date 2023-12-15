@@ -7,7 +7,7 @@ tags:
 ### Tasks
 - [x] Skeleton ✅ 2023-05-27
 	- [x] implement onSubmit Handler ✅ 2023-05-31
-	- [x] [[Implement Post method for propositions]] 📅 2023-05-31 ✅ 2023-05-31
+	- [x] [Implement Post method for propositions](Implement%20Post%20method%20for%20propositions.md) 📅 2023-05-31 ✅ 2023-05-31
 	- [x] Implement Tokenization Resource 📅 2023-05-31 ✅ 2023-06-02
 		- [x] Implement Token Entity ✅ 2023-06-02
 		- [x] Implement Token Service ✅ 2023-06-02
@@ -25,10 +25,10 @@ Develop an interface to express each symbol(token) by associating it with other 
 * Each token in the proportion is clickable
 * On click, the user may express the token by defining it in terms of other tokens, such that the definition could be substituted for the token 
 
-![[Natural Language Application of Indeterminate Logic]]
+![Natural Language Application of Indeterminate Logic](Natural%20Language%20Application%20of%20Indeterminate%20Logic.md)
 
 ## Tasks
-- [ ] Migrate to typescript ![[Migrate to typescript]]
+- [ ] Migrate to typescript ![Migrate to typescript](Migrate%20to%20typescript.md)
 - [ ] Plan state management
 - [ ] Plan API routes
 - [ ] Plan the component hierarchy based on skeleton

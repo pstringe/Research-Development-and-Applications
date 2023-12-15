@@ -4,7 +4,7 @@ modification date:	2023-08-25 00:54
 title: 				V3 Prop Analysis
 tags:
 ---
-FINAL : PA3 : 0.0 : Program, to represent, store, analyze and manipulate, meta-representations of observable processes [[Def-4.0-Observable_Process]].
+FINAL : PA3 : 0.0 : Program, to represent, store, analyze and manipulate, meta-representations of observable processes [Def-4.0-Observable_Process](Def-4.0-Observable_Process.md).
 
 FINAL : PA4 : 0.1 : Provide a basis for process mechanical simulation.
 
@@ -19,5 +19,5 @@ CONSTRAINTS  : PA4 : 0.2 : The process file will contain, a declaration of the v
 
 
 ---
-[1^]:: [[Tasks related to V3 prop analysis]]
-[2^]:: [[Notes related to V3 prop analysis]]
+[1^]:: [Tasks related to V3 prop analysis](Tasks%20related%20to%20V3%20prop%20analysis.md)
+[2^]:: [Notes related to V3 prop analysis](Notes%20related%20to%20V3%20prop%20analysis)

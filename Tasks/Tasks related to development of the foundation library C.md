@@ -31,4 +31,4 @@ tags:
 - [ ] recompile lib and test
 
 ----
-[2^]:: [[Notes related to the foundation library C]]
+[2^]:: [Notes related to the foundation library C](Notes%20related%20to%20the%20foundation%20library%20C.md)

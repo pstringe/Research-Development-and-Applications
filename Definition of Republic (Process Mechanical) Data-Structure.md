@@ -5,9 +5,9 @@ title: 				Definition of Republic Data-Structure
 tags:
 ---
 
-The data structure we define here may be utilized to simulate a process mechanical system to simulate government structures and intelligence mechanics. The first draft of the definition is not an exhaustive proof. The definition is reliant on isomorphisms between three formal systems [[Representative Logic]], [[Abstract Representative Calculus]], [[Process Calculus]], [[Representative Calculus]].
+The data structure we define here may be utilized to simulate a process mechanical system to simulate government structures and intelligence mechanics. The first draft of the definition is not an exhaustive proof. The definition is reliant on isomorphisms between three formal systems [Representative Logic](Representative%20Logic.md), [Abstract Representative Calculus](Abstract%20Representative%20Calculus.md), [Process Calculus](Process%20Calculus.md), [Representative Calculus](Representative%20Calculus.md).
 
-![[Representative Logic]]
+![Representative Logic](Representative%20Logic.md)
 TYPE : INDEX : ORIGIN : REP : M-REP
 
 **PT 1: Demonstration of the observer's paradox in representative and process calculus**
@@ -35,7 +35,7 @@ ISO : 0.0 : P : $((\leftarrowtail)\ ::=\ ('(is\ affected\ by)\ '(depends\ on)))$
 )
 ```
 
-PROP : 0.3 : P : $((f_{0}(f_{0}) \Rightarrow f_{1}) \supset (f_{0} \neq f_{1}))$ : :  [[Axiom-TC-0.1-GD]] [[Axiom-TC-0.2-EP]] RESOLUTION
+PROP : 0.3 : P : $((f_{0}(f_{0}) \Rightarrow f_{1}) \supset (f_{0} \neq f_{1}))$ : :  [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md) [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md) RESOLUTION
 ```
 (=>
 	(evaluates
@@ -53,7 +53,7 @@ PROP : 0.3 : P : $((f_{0}(f_{0}) \Rightarrow f_{1}) \supset (f_{0} \neq f_{1}))$
 
 NOTE : 0.3.1 : P : This is reflective of a temporal solution to the EP, but does not demonstrate the expression of the prima equality relation, of which evaluation is the temporal expression.
 
-PROP : 0.2 : P : $f := f(f)$ : : [[Axiom-TC-0.1-GD]] [[Axiom-TC-0.2-EP]] resolution.
+PROP : 0.2 : P : $f := f(f)$ : : [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md) [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md) resolution.
 ```
 (:=
 	f
@@ -61,7 +61,7 @@ PROP : 0.2 : P : $f := f(f)$ : : [[Axiom-TC-0.1-GD]] [[Axiom-TC-0.2-EP]] resolut
 )
 ```
 
-PROP : 0.4 : P : $(f_{0}(f_{0}) \Rightarrow f_{1}(f_{1}))$ : : [[Axiom-TC-0.1-GD]] [[Axiom-TC-0.2-EP]] 
+PROP : 0.4 : P : $(f_{0}(f_{0}) \Rightarrow f_{1}(f_{1}))$ : : [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md) [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md) 
 ```
 (evaluates
 	(f_0
@@ -260,7 +260,7 @@ PROP : 2.2.0 :
 PROP : 2.2 : `(:= F (G H))`
 
 ---
-[1^] :: [[Tasks related to processing republic data-structure]]
+[1^] :: [Tasks related to processing republic data-structure](Tasks%20related%20to%20processing%20republic%20data-structure.md)
 
 
 

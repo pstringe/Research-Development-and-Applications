@@ -8,7 +8,7 @@ index: 0.3
 name: 
 tags: metaphysics 
 ---
-Prop : Op : 0.3 : [[Prop-Op-0.1]] and [[Prop-Op-0.2]] are not true simultaneously
+Prop : Op : 0.3 : [Prop-Op-0.1](Prop-Op-0.1.md) and [Prop-Op-0.2](Prop-Op-0.2.md) are not true simultaneously
 ```
 (E F)(F (0.0.1 0.0.2))(
 	(^

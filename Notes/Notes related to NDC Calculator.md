@@ -76,7 +76,7 @@ $(OBJS): $(SRCS)
 *Questions/Concerns* (We want to think about what we are doing here. When we express a plurality over a generation of successions)
 * This makefile is at the root and we want to compile a library that has its own Makefile in a deeper directory 
 
-[[2023-08-08]]
+[2023-08-08](2023-08-08.md)
 Here is the makefile for kift:
 ```
 CC = gcc
@@ -211,10 +211,10 @@ $(SERVER) : $(INCD)$(LIB)
 * `-L`  seems to reference the directory of the library
 * It seems our makefile will at least need the `L` flag, a variable for the library directory, a name change of the library and a `-lfoundation` flag to reference it. 
 
-[[2023-08-10]]
+[2023-08-10](2023-08-10.md)
 * 
 
 ---
-[1^]:: [[NDC Calculator Sim]]
-[2^]:: [[Tasks related to NDC Calculator]]
-[3^]:: [[Notes related to NDC Calculator]]
+[1^]:: [NDC Calculator Sim](NDC%20Calculator%20Sim.md)
+[2^]:: [Tasks related to NDC Calculator](Tasks%20related%20to%20NDC%20Calculator.md)
+[3^]:: [Notes related to NDC Calculator](Notes%20related%20to%20NDC%20Calculator.md)

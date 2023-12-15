@@ -40,4 +40,4 @@ tags:
 - [ ] Intellect the method of self-instantiation
 - [ ] Technically define Yuminary in relation to Luminary and Yuminal
 ---
-[1^]:: [[Proc X codes]]
+[1^]:: [Proc X codes](Proc%20X%20codes.md)

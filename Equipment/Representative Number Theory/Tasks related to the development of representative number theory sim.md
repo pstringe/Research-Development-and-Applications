@@ -24,7 +24,7 @@ tags:
 
 - [ ] Menu
 	- [ ] Implement display function
-	- [ ] Implement [[Tasks related to implementation of gnl]] 
+	- [ ] Implement [Tasks related to implementation of gnl](Tasks%20related%20to%20implementation%20of%20gnl.md) 
 	- [ ] read input and return option as integer
 ---
 - [ ] debug errors
@@ -32,5 +32,5 @@ tags:
 
 
 ---
-[1]:: [[Tasks related to the development of representative number theory sim]]
-[2]:: [[Notes on development of representative number theory sim]]
+[1]:: [Tasks related to the development of representative number theory sim](Tasks%20related%20to%20the%20development%20of%20representative%20number%20theory%20sim.md)
+[2]:: [Notes on development of representative number theory sim](Notes%20on%20development%20of%20representative%20number%20theory%20sim.md)

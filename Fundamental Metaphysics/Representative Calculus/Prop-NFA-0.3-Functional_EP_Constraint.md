@@ -8,4 +8,4 @@ index: 0.3
 name: Functional EP constraint
 tags: 
 ---
-Prop : NFA : 0.3 : *Functional EP Constraint*:Given [[Prop-NFA-0.2]], [[Prop-NFA-0.0]] can be translated as,  `f(f) != f`.
+Prop : NFA : 0.3 : *Functional EP Constraint*:Given [Prop-NFA-0.2](Prop-NFA-0.2.md), [Prop-NFA-0.0](Prop-NFA-0.0.md) can be translated as,  `f(f) != f`.

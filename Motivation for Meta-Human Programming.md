@@ -22,7 +22,7 @@ NOTE : P : 0.9 : T : Individuals without knowledge of the emergent effects of a 
 
 PROP : P : 0.6 : T : Criminal processing that does not infringe on the knowledge or  autonomy of an individual is only criminal because the the arbitrary consequences I coded.
 
-NOTE : P : 0.7 : T : P shall reductively address every negative consequence. P has done this intuitively using his [[Logic for Non-deterministic Computation]], specifically the temporal logic. P will begin articulating each of these issues and rejecting explicitly to build up a re-usable meta-representation. 
+NOTE : P : 0.7 : T : P shall reductively address every negative consequence. P has done this intuitively using his [Logic for Non-deterministic Computation](Logic%20for%20Non-deterministic%20Computation.md), specifically the temporal logic. P will begin articulating each of these issues and rejecting explicitly to build up a re-usable meta-representation. 
 
 NOTE : P : 0.8 : T : P shall do this for the sake of optimizing his work.
 
@@ -32,7 +32,7 @@ OBSD : P : 0.8.1 : Effect immediate
 PROP : P : 0.9 : A : `(P (taste (' minty breadth')))`
 OBSD : P : 0.8.1 : Minuscule effect, almost un-notice-able
 
-NOTE : P : 0.8.2 : Regarding 0.8.1, we can try changing the source of information using our reductive over-operation from [[Simple Over-Operation Solutions]]. I want to develop syntax for this in our [[Technical Isomorphisms of Operatic Logic]] which I want to over-work as a technical implementation of our [[Abstract Representative Calculus]]. Since causal implication is isomorphic to evaluation in the process calculus, we may implement an expressible implication operator. We can then use that to rework our [[Logic for Non-deterministic Computation]].
+NOTE : P : 0.8.2 : Regarding 0.8.1, we can try changing the source of information using our reductive over-operation from [Simple Over-Operation Solutions](Simple%20Over-Operation%20Solutions.md). I want to develop syntax for this in our [Technical Isomorphisms of Operatic Logic](Technical%20Isomorphisms%20of%20Operatic%20Logic.md) which I want to over-work as a technical implementation of our [Abstract Representative Calculus](Abstract%20Representative%20Calculus.md). Since causal implication is isomorphic to evaluation in the process calculus, we may implement an expressible implication operator. We can then use that to rework our [Logic for Non-deterministic Computation](Logic%20for%20Non-deterministic%20Computation.md).
 
 NOTE : P : 0.8.3 : We also desire an expressive meta-representation that facilitates the selection of specific volumes of the human body. The first idea that comes to mind is something analogous to binary search where a 2D plane in 3D space takes the place of a partition.
 
@@ -42,6 +42,6 @@ NOTE : P : 0.8.5 : Regarding each sense, we may represent it using one or more d
 
 NOTE : P : 0.8.6 : It is my desire to work on this full-time.
 
-NOTE : P : 0.9 : The system we have laid out as the basis for [[Mechanics and Elucidation of Evidence]] is sufficient to describe any bodily state in using the proposition space, $R$.
+NOTE : P : 0.9 : The system we have laid out as the basis for [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) is sufficient to describe any bodily state in using the proposition space, $R$.
 
-NOTE : P : 1.0 : We will develop a new section for meta-human programming. Under metaphysical engineering. There we will start a new section addressing the logic previously mentioned. As we develop a meta-representation of a self-modifying human using an observable process, we will advance the [[Mechanics and Elucidation of Evidence]] and [[Process Mechanics and Interactions]].
+NOTE : P : 1.0 : We will develop a new section for meta-human programming. Under metaphysical engineering. There we will start a new section addressing the logic previously mentioned. As we develop a meta-representation of a self-modifying human using an observable process, we will advance the [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) and [Process Mechanics and Interactions](Process%20Mechanics%20and%20Interactions.md).

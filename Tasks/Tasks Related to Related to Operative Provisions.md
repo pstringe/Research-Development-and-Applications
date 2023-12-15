@@ -23,5 +23,5 @@ tags:
 - [ ] Update funding destination
 
 ---
-[1^]:: [[SOP-PEO-0.1-Operative_Provisions]]
-[2^]:: [[Notes related to operative provisions]]
+[1^]:: [SOP-PEO-0.1-Operative_Provisions](SOP-PEO-0.1-Operative_Provisions.md)
+[2^]:: [Notes related to operative provisions](Notes%20related%20to%20operative%20provisions.md)

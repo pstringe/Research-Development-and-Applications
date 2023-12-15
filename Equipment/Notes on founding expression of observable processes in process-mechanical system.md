@@ -11,4 +11,4 @@ PROP : REOP : 0.1 : One may express from the observation of an observable proces
 PROP : REOP : 0.2 : One may express from the observation of an observable process,
 
 ---
-[1^]:: [[Founding expression of observable processes in process-mechanical system]]
+[1^]:: [Founding expression of observable processes in process-mechanical system](Founding%20expression%20of%20observable%20processes%20in%20process-mechanical%20system.md)

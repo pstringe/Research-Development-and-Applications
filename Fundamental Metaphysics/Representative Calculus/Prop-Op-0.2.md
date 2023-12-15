@@ -8,7 +8,7 @@ index: 0.2
 name: 
 tags: 
 ---
-Prop : Op : 0.2 : `(!= (F F) F)` [[Axiom-TC-0.2-EP]], `F` representation of `F` is not `F`.
+Prop : Op : 0.2 : `(!= (F F) F)` [Axiom-TC-0.2-EP](Axiom-TC-0.2-EP.md), `F` representation of `F` is not `F`.
 ```
 (!= (F F) F)
 ```

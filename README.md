@@ -32,7 +32,7 @@ tags:
 		- [ ] Describe the proposed mechanics of non-deterministic computation as it relates to cognition.
 		- [ ] Describe the memory model
 	
-- [ ] Develop [[Propositional Analysis Platform]] to analyze patterns in how an observable process' output changes in response to human feedback.
+- [ ] Develop [Propositional Analysis Platform](Propositional%20Analysis%20Platform.md) to analyze patterns in how an observable process' output changes in response to human feedback.
 	- [x] Develop Technical Specification ✅ 2023-05-30
 	- [x] Implement the frontend 📅 2023-05-31 ✅ 2023-06-12
 		- [x] Implement Dialectic and Propositions Skeletons ✅ 2023-06-01

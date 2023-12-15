@@ -6,4 +6,4 @@ tags:
 ---
 
 ---
-[1^]:: [[Tasks related to DSL for Representative Logic]]
+[1^]:: [Tasks related to DSL for Representative Logic](Tasks%20related%20to%20DSL%20for%20Representative%20Logic.md)

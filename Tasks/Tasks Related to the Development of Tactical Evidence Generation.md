@@ -10,4 +10,4 @@ tags:
 - [x] Formalize reticulation/ingration logic #metaphysics #tactical #strategic #evgen ⏫ 📅 2023-07-27 ✅ 2023-08-15
 
 ---
-[1^]:: [[OBJ-TM-0.0_Tactical_Applications]]
+[1^]:: [OBJ-TM-0.0_Tactical_Applications](OBJ-TM-0.0_Tactical_Applications.md)

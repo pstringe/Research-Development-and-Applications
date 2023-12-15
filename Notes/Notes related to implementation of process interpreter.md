@@ -9,7 +9,7 @@ tags:
 Implement a process interpreter using C, the language we will be implementing is described in the paper
 
 ## Purpose
-We will use our process interpreter to implement a simulation of [[Process Mechanics and Interactions]]
+We will use our process interpreter to implement a simulation of [Process Mechanics and Interactions](Process%20Mechanics%20and%20Interactions.md)
 
 ## High Level Steps
 - [x] Set-up repo ✅ 2023-06-15

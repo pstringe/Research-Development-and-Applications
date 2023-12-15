@@ -5,4 +5,4 @@ title: 				Notes related to magic
 tags:
 ---
 ---
-[^1]:: [[Magic]]
+[^1]:: [Magic](Magic.md)

@@ -9,5 +9,5 @@ OBJ-DI-0.0
 OBJ : DI : 0.0 : Intuition
 
 ---
-[1^]:: [[Notes related to intuition]]
-[2^]:: [[Tasks related to intuition]]
+[1^]:: [Notes related to intuition](Notes%20related%20to%20intuition)
+[2^]:: [Tasks related to intuition](Tasks%20related%20to%20intuition.md)

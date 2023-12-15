@@ -4,4 +4,4 @@ modification date:	2023-08-22 01:37
 title: 				Untitled
 tags:
 ---
-![[Research and Development/Magic/Metaphysical Engineering/Applications/Interfaces/Untitled Diagram.svg]]
+![Untitled Diagram](Research%20and%20Development/Magic/Metaphysical%20Engineering/Applications/Interfaces/Untitled%20Diagram.svg)

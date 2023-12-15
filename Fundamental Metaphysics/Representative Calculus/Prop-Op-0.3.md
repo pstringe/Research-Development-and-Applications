@@ -8,7 +8,7 @@ index: 0.3.1
 name:
 tags: metaphysics
 ---
-Prop : Op : 0.3.1 : [[Prop-Op-0.1]] and [[Prop-Op-0.2]] are true
+Prop : Op : 0.3.1 : [Prop-Op-0.1](Prop-Op-0.1.md) and [Prop-Op-0.2](Prop-Op-0.2.md) are true
 ```
 (^ (== 0.0.1 T) (== 0.0.2 T))
 ```

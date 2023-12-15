@@ -11,4 +11,4 @@ tags:
 OBJ : DI : 3.3 : Strategic Intelligence
 
 ---
-[1^]:: [[Notes on Strategic Methods]]
+[1^]:: [Notes on Strategic Methods](Notes%20on%20Strategic%20Methods.md)

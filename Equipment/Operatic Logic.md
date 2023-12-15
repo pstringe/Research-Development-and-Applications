@@ -4,13 +4,13 @@ modification date:	2023-08-20 11:57
 title: 				Untitled
 tags:
 ---
-[[Notes on process composition and self-reference to demonstrate stimulus-response]]
+[Notes on process composition and self-reference to demonstrate stimulus-response](Notes%20on%20process%20composition%20and%20self-reference%20to%20demonstrate%20stimulus-response.md)
 
 AXIOM : OL : 0.0 : REQM : $(StimM((f, o, g)) := ((Stim(f,\ g,\ o)))$
 AXIOM : OL : 0.1 : RESM : $(RespM((f,o,g)) := ((Resp(f,\ g,\ o)))$
 AXIOM : OL : 0.2 : REQM : $(StimL((f, o, g)) := ((Stim(f,\ Ma(g),\ o)))$
 AXIOM : OL : 0.3 : RESM : $(RespL(f,g,o)) := ((Resp(f,\ Ma(g),\ o)))$  
-The following logic encodes the axioms of of CNB:11.0.3-11.0.5 using [[Representative Number Theory]].
+The following logic encodes the axioms of of CNB:11.0.3-11.0.5 using [Representative Number Theory](Representative%20Number%20Theory.md).
 
 **Bound Abstractions of the Prima-Representation**
 CODE : OL : 0.4 : $f$ : variable to be encoded
@@ -28,7 +28,7 @@ CODE : OL : 0.11 : 05 : $ResM((f,g, c))$ : $m(m(m(m(m(p))))((f, g, c))$
 CODE : OL : 0.12 : 06 : $ResL((f,g,c))$ : $m(m(m(m(m(m(p)))))((f, g, c))$
 CODE : OL : 0.13 : 07 : $ReqL((f,g,c))$ : $m(m(m(m(m(m(m(p))))))((f, g, c))$
 
-![[Technical Isomorphisms of Operatic Logic]]
+![Technical Isomorphisms of Operatic Logic](Technical%20Isomorphisms%20of%20Operatic%20Logic.md)
 
 **High Level spatial dependency between government abstractions**
 PROP : 0.0 : $(:=\ f\ (f\ g\ ...))$
@@ -46,5 +46,5 @@ DEF : 0L : 0.9 : $:=$ : $(m(m(m(mp))))$
 DEF : OL : 1.0 : $\Rightarrow$ : $(m(m(m(mp))))$
 
 ---
-[1^]:: [[Tasks related to the development of operatic logic]]
-[2^]:: [[Notes related to the development of operatic calculus]]
+[1^]:: [Tasks related to the development of operatic logic](Tasks%20related%20to%20the%20development%20of%20operatic%20logic.md)
+[2^]:: [Notes related to the development of operatic calculus](Notes%20related%20to%20the%20development%20of%20operatic%20calculus.md)

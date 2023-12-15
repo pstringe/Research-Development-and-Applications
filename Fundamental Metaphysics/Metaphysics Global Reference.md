@@ -19,7 +19,7 @@ tags:
 7. [Just] : Justification
 
 **Topics**
-*TPC*: [[Process Calculus]]
-PI: [[Process Interactions]]
+*TPC*: [Process Calculus](Process%20Calculus.md)
+PI: [Process Interactions](Process%20Interactions.md)
 
-![[Data View, Global Reference]]
+![Data View, Global Reference](Data%20View,%20Global%20Reference.md)

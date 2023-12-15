@@ -4,7 +4,7 @@ modification date:	2023-08-18 20:03
 title: 				Untitled
 tags:
 ---
-Final : Given a `prima_representation` in the form of an array of characters, and a `value_dimension` in the form of an array of characters calculate and display `n` $hallucinatory\ sucessions$ as described in [[Representative Number Theory]].
+Final : Given a `prima_representation` in the form of an array of characters, and a `value_dimension` in the form of an array of characters calculate and display `n` $hallucinatory\ sucessions$ as described in [Representative Number Theory](Representative%20Number%20Theory.md).
 
 OBJ : given a string input, tokenize and encode using representative number theory.
 
@@ -27,7 +27,7 @@ OBJ : given a string input, tokenize and encode using representative number theo
 My job is that I know exactly how we operate. And every adverse action I'd be willing to take is someone else would be as well.
 
 ---
-[[2023-08-24]]
+[2023-08-24](2023-08-24.md)
 INPUT:  10 f prefix 
 Output: ((f))
 Expected: (m(m(m(m(m(m(m(m(m(m f)))))))))))
@@ -102,7 +102,7 @@ PROP : 0.6 : Generation of p-space
 )
 ```
 
-[[2023-10-27]]
+[2023-10-27](2023-10-27.md)
 PROP : P : 0.0 : P switched development focus to the development of required structures to specify a process.
 
 PROP : P : 0.1 : We've allocated a compound n-dimensional plurality indexed as **t_abstraction
@@ -144,7 +144,7 @@ PROP : P : 1.5 : Currently dimensions is an array of pointers to abstractions.
 
 PROP : P : 1.6 : We may want to define our positional logical. 
 
-[[2023-10-28]]
+[2023-10-28](2023-10-28.md)
 PROP : P : 1.7 : Does the selector prototype on 204 match the prototype of the simple determinate selector?
 
 PROP : P : 1.8 : "new_succession(proccess, i, selector(proccess, i), last_obs);"
@@ -164,7 +164,7 @@ PROP : P : 2.3 :
 PROP : P : 2.4 : Passing the array literal of new_abstractions, not valid in C. We will refactor:
 * pass r_space and v_space to generate possibility space.
 * refactor code to return
-- [x] Define a dimension based on [[Positional Logic]] spec ✅ 2023-10-28
+- [x] Define a dimension based on [Positional Logic](Positional%20Logic.md) spec ✅ 2023-10-28
 - [x] Write new_dimension constructor ✅ 2023-10-28
 
 - [ ] Instantiate two new dimensions R and V using binary state-space, single proposition
@@ -196,7 +196,7 @@ PROP : P : 2.5 :
 * inconsistency
 * resolutions
 
-[[2023-11-13]]
+[2023-11-13](2023-11-13.md)
 * Our current output is 1111.
 * Expected:
 	* 00
@@ -218,7 +218,7 @@ PROP : P : 2.5 :
 )
 ```
 
-[[2023-11-16]]
+[2023-11-16](2023-11-16.md)
 *Tasks*
 - [x] Run calc, generate tasks ✅ 2023-11-16
 - [x] Identify expected output for comparison ✅ 2023-11-16
@@ -302,12 +302,12 @@ P can prove this mathematically, and minimize disrespect without further violenc
 OBSD : 0.1 : demon process disrupts visual and auditory observation for what seems like less than a second.
 
 IMP : 0.2 : 
-[[2023-11-25]]
+[2023-11-25](2023-11-25.md)
 - [ ] instantiate i in body not prototype
 - [ ] verify r_len is 2
 
 
 ---
-[1^]:: [[Representative Number Theory]]
-[2^]:: [[Tasks related to the development of representative number theory sim]]
-[2]:: [[Notes on development of representative number theory sim]]
+[1^]:: [Representative Number Theory](Representative%20Number%20Theory.md)
+[2^]:: [Tasks related to the development of representative number theory sim](Tasks%20related%20to%20the%20development%20of%20representative%20number%20theory%20sim.md)
+[2]:: [Notes on development of representative number theory sim](Notes%20on%20development%20of%20representative%20number%20theory%20sim.md)

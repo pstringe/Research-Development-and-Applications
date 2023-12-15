@@ -10,7 +10,7 @@ tags:
 * Propositions may bee evinced via manipulation or adaptation.
 
 The liminal abstraction can be expressed infinitely such such that the observation of an
-![[generation simulator.svg]]
+![generation simulator](generation%20simulator.svg)
 
 ---
-[1^]:: [[Tasks related to the development of generation simulation]]
+[1^]:: [Tasks related to the development of generation simulation](Tasks%20related%20to%20the%20development%20of%20generation%20simulation.md)

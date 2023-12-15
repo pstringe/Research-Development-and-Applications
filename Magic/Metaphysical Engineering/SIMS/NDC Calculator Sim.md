@@ -9,4 +9,4 @@ FINAL : Implement a calculator that can perform arithmetic operations on the NDC
 
  
 ---
-[1^]:: [[Tasks related to NDC Calculator]]
+[1^]:: [Tasks related to NDC Calculator](Tasks%20related%20to%20NDC%20Calculator.md)

@@ -6,7 +6,7 @@ tags:
   - magic
   - mathematics
 ---
-![[Scanned Documents.pdf]]
+![Scanned Documents](Scanned%20Documents.pdf)
 
 PROP : 0.0 : `(arc A B)`
 PROP : 0.1 :

@@ -12,5 +12,5 @@ tags:
 
 
 ---
-[1^]:: [[Notes on Practical Evidence Generation]]
-[2^]:: [[Notes related to processing notes on magic]]
+[1^]:: [Notes on Practical Evidence Generation](Notes%20on%20Practical%20Evidence%20Generation.md)
+[2^]:: [Notes related to processing notes on magic](Notes%20related%20to%20processing%20notes%20on%20magic)

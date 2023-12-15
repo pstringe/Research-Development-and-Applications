@@ -5,7 +5,7 @@ title: 				Notes on Proccess Representation
 tags:
 ---
 ---
-[[2023-06-15]]
+[2023-06-15](2023-06-15.md)
 PROP : NPR : 0.0 : We can represent the state using a string of values
 PROP : NPR : 0.0 : We can represent a s
 
@@ -17,7 +17,7 @@ The thing's representation is not isomorphic to the thing
 The thing cannot be observed only evinced by observation
 
 ---
-[[2023-07-04]]
+[2023-07-04](2023-07-04.md)
 0. With regard to liminal spaces, the spaces upon which the generation of the observation are dependent, are always beyond observation. 
 1. That which is beyond observation is metaphysical
 2. The metaphysical can be represented and the abstractions of the representation, manipulated, for effect in the physical (that which is observable).
@@ -28,8 +28,8 @@ PROP : P : BOE : 130 : 931 : Generative foreground observations are often classi
 PROP : P : BOE : 130 : 932 : Discriminatory foreground observations are often classified as real.
 
 ---
-[[2023-07-07]]
-![[Notes on Magical Operation of Liminal Spaces]]
+[2023-07-07](2023-07-07.md)
+![Notes on Magical Operation of Liminal Spaces](Notes%20on%20Magical%20Operation%20of%20Liminal%20Spaces.md)
 
 ---
 PROP : NPR : 1.0 :  Given a process, $x_0\  ) f )\  y_0$, $x$ and $y$ are abstractions information.
@@ -42,7 +42,7 @@ NOTE : We should clarify the nature of the non-deterministic computation of f as
 
 Currently or evidence generation mechanics only express the operation of menial space. But we know there is at least one liminal space we tend to refer to as mental or imaginary. The space of thought, which is able to directly influence menial space, via the body, or via other means with skill. 
 
-Our composable hype-point abstractions is, currently, little better than a visual analogue for [[Axiom-TC-0.1-GD]]. We should clarify the nature of the none deterministic computation in the thought calculus before we extrapolate to the process calculus.
+Our composable hype-point abstractions is, currently, little better than a visual analogue for [Axiom-TC-0.1-GD](Axiom-TC-0.1-GD.md). We should clarify the nature of the none deterministic computation in the thought calculus before we extrapolate to the process calculus.
 
 Liminal spaces not only justify our observations, but also present a solution to scarcity
 
@@ -63,9 +63,9 @@ PROP : NPR : 6.1 : The observations of any particular space ingratiate its limin
 PROP : NPR : 6.2 : reticulation/ingratiation may be directional (EV)
 
 ---
-[0^]:: [[Process Representation]]
-[1^]:: [[Tasks Related to Process Representation]]
-[2^]:: [[Tasks Related to the Mechanics of Evidence Generation]]
+[0^]:: [Process Representation](Process%20Representation.md)
+[1^]:: [Tasks Related to Process Representation](Tasks%20Related%20to%20Process%20Representation.md)
+[2^]:: [Tasks Related to the Mechanics of Evidence Generation](Tasks%20Related%20to%20the%20Mechanics%20of%20Evidence%20Generation.md)
 
 
 [^1]: Representation here implies information, we use representation here to avoid any premature conflations with terminology used in information theory

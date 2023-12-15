@@ -69,8 +69,8 @@ B --> C
 
 
 11. Recursive representation of directed succession graph
-![[Recursive representation of a prototypical succession of individual process representation.svg]] 
+![Recursive representation of a prototypical succession of individual process representation](Recursive%20representation%20of%20a%20prototypical%20succession%20of%20individual%20process%20representation.svg) 
 
 ---
-[1^]: : [[OBJ-ODS-0.1.1_implement_host succession]]
-[2^]: : [[Tasks related them implementation of host succession]]
+[1^]: : [OBJ-ODS-0.1.1_implement_host succession](OBJ-ODS-0.1.1_implement_host%20succession.md)
+[2^]: : [Tasks related them implementation of host succession](Tasks%20related%20them%20implementation%20of%20host%20succession.md)

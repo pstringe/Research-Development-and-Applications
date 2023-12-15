@@ -14,7 +14,7 @@ tags:
 3. [Prop] To counter the effect, we desire a method that does not require our concentration or re-iteration.
 
 ## Proposed Solution
-![[Procedure For Encoding Propositions In Metaphysical Objects]]
+![Procedure For Encoding Propositions In Metaphysical Objects](Procedure%20For%20Encoding%20Propositions%20In%20Metaphysical%20Objects.md)
 
 ## Concerns
 

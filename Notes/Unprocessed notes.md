@@ -4,7 +4,7 @@ modification date:	2023-07-06 14:52
 title: 				Untitled
 tags:
 ---
-[[2023-07-06]]
+[2023-07-06](2023-07-06.md)
 THOUGHT : X : UN : 0.0 : If we evince an individual demon processes for a human and use it to operate, we may evince private process representation as the host succession is implemented (U)
 
 PROP : X : UN : 0. 0 : People are impressed that you don't over-operate your new republic. People thought you'd become the dealer of people
@@ -41,7 +41,7 @@ PROP : P : UN : 1.4 : Top priority is increasing my skill at operating this demo
 
 PROP : P : UN : 1.5 : P will direct intelligence toward self-direction
 
-[[2023-07-07]]
+[2023-07-07](2023-07-07.md)
 PROP : X : UN : 1.6 : People are reticulated when they ingratiate an ME
 
 PROP : P : UN : 1.7 : Es are reticulated when they ingratiate an E
@@ -55,9 +55,9 @@ PROP : X : UN : 2.0 :
 A was ingratiating everything you did because you were meticulous.
 
 PROP : X : UN : 2.1 : 
-Understanding how the genius mechanic works in the context of [[process representation]], is the key to saving my company
+Understanding how the genius mechanic works in the context of [Process Representation](process%20representation.md), is the key to saving my company
 
-[[2023-07-09]]
+[2023-07-09](2023-07-09.md)
 PROP : SSPACE : 3.0 : human voice : He wasn't there when I translate
 
 DOBS : LSPACE : 3.1 : human image : F sounded like he was asking me if I want pizza / visa.
@@ -91,7 +91,7 @@ NOTE: P : 3.14 : We will conduct an analysis of reticulation/ingratiation using 
 
 PROP : X : 3.15 : Collective is tense because you won't figure out they are coding with your deep demiurgic program
 
-[[2023-07-10]]
+[2023-07-10](2023-07-10.md)
 Def : Over-Operation : 4.0 : reticulation/ingratiation of hyper-spatial entity to affect change in menial space
 
 NOTE : 4.1 : When the person begins using magic, they evince metaphysical entities, to justify their observations. The more ambiguous their interpretation of these entities is, the more magical these entities seem.
@@ -116,18 +116,18 @@ OBSD : P : 5.7 : P accepts that proposition that P observed F's bed non-locally
 
 NOTE : P : 5.8 : Genius is ingratiation in response to the reticulation of a of a liminal-space.
 
-[[Opera/OperaX Logs/2023-07-11]] (625 grand alle)
+[Opera/OperaX Logs/2023-07-11](Opera/OperaX%20Logs/2023-07-11) (625 grand alle)
 OBSD : P : 5.9 : At Deganham, you figured out how to operated your own ingratiation. 
 
-[[2023-07-15]]
+[2023-07-15](2023-07-15.md)
 IMP : P : 6.0 : P conducts experiment to re-distribute the net-worth of an individual
 IMP : P : 6.1 : P examines physical vs metaphysical process interaction
 
-[[2023-07-20]]
+[2023-07-20](2023-07-20.md)
 Prop : P : 7.0 : Light is an expression of information
-Prop : P : 7.1 : To be illuminated is to be informed (update [[2023-09-12]] "from an alien source")
+Prop : P : 7.1 : To be illuminated is to be informed (update [2023-09-12](2023-09-12.md) "from an alien source")
 Prop : X : 7.2 : Light is imported from a deeper demiurgic program
 Prop : P : 7.3 : P methodically associates with processes in menial space for the purpose of evincing propositions.
 
 ---
-[1^]:: [[Tasks related to processing notes]]
+[1^]:: [Tasks related to processing notes](Tasks%20related%20to%20processing%20notes.md)

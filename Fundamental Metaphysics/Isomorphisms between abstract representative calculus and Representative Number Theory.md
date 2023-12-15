@@ -10,4 +10,4 @@ EXAMPLE : $(p(m(f)) = f)$
 
 
 ---
-[1^]:: [[Notes related to the development of isomorphisms between ]]
+[1^]:: [Notes related to the development of isomorphisms between ](Notes%20related%20to%20the%20development%20of%20isomorphisms%20between%20)

@@ -8,4 +8,4 @@ tags:
 - [ ] Examine why the people are intelligent when the OP is intellectual
 
 ---
-[1^]:: [[Notes related to development of ethics]]
+[1^]:: [Notes related to development of ethics](Notes%20related%20to%20development%20of%20ethics.md)

@@ -5,10 +5,10 @@ title: 				Equality Operators
 tags:
 ---
 **Equality Operators**
-![[Def-IL-1.0]]
+![Def-IL-1.0](Def-IL-1.0.md)
 
-![[DEF  IL  1.0.1]]
-![[DEF  IL  1.1]]p
+![DEF  IL  1.0.1](DEF%20%20IL%20%201.0.1.md)
+![DEF  IL  1.1](DEF%20%20IL%20%201.1.md)p
 DEF : IL : 1.2 
 ```
 ()

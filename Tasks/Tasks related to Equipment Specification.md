@@ -7,4 +7,4 @@ tags:
 - [ ] Identify and post links to brilliant courses
 
 ---
-[1^]:: [[Main Equipment Specification]]
+[1^]:: [Main Equipment Specification](Main%20Equipment%20Specification.md)

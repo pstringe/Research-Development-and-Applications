@@ -11,4 +11,4 @@ tags:
 	2. [Uniform / Mixed]
 3. Abstraction
 ---
-[1^]:: [[]]
+[1^]:: [Tasks related to DSL for Representative Logic](.md)

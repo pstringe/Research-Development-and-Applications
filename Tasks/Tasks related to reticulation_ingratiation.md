@@ -5,4 +5,4 @@ title: 				Tasks related to reticulation_ingratiation
 tags:
 ---
 - [ ] review thread abstraction, express using temporal graph
-- [ ] Define intention in terms of [[Def-EM-0.3-Generation (reductive)]]
+- [ ] Define intention in terms of [Def-EM-0.3-Generation (reductive)](Def-EM-0.3-Generation%20(reductive).md)

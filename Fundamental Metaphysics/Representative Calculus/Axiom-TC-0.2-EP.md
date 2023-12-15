@@ -9,4 +9,4 @@ name: EP
 tags: metaphysics
 ---
 Axiom-TC-0.0-EP
-Axiom : TC : 0.2 : EP ([[Generalization of Epimenedes Paradox]]): $f(f) \neq f$ 
+Axiom : TC : 0.2 : EP ([Generalization of Epimenedes Paradox](Generalization%20of%20Epimenedes%20Paradox.md)): $f(f) \neq f$ 

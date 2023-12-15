@@ -29,7 +29,7 @@ PROP : BOE : 0.7 : If it is what it is, it is an illusory entity U
 1. A proposition consists of abstractions
 2. A proposition is a [thing](Def-TC-0.0-representative_abstraction.md).
 3. A thing may be represented by a functional abstraction.
-4. 'A proposition references itself' is isomorphic to 'A function is dependent on itself'. [[2023-06-29]]
+4. 'A proposition references itself' is isomorphic to 'A function is dependent on itself'. [2023-06-29](2023-06-29.md)
 
 ---
-[1^]:: [[The relationship between Logical and functional abstractions]]
+[1^]:: [The relationship between Logical and functional abstractions](The%20relationship%20between%20Logical%20and%20functional%20abstractions.md)

@@ -44,5 +44,5 @@ I ) M ) O == I ) I ) M ) O ) O
 * 
 
 ---
-[[2023-07-08]]
-![[Abstract Representative Calculus|Abstract Representative Calculus]]
+[2023-07-08](2023-07-08.md)
+![Abstract Representative Calculus](Abstract%20Representative%20Calculus.md)

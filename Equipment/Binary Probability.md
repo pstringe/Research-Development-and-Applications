@@ -31,7 +31,7 @@ PROP : BP : 14 : P = (
 						((1 1) 1)
 					)
 
-PROP : BP : 15 : Given the observations in [[PL-fig_7]], each observation constrains the possibility space by removing the proposition representing the observed abstraction. From the possibility space.
+PROP : BP : 15 : Given the observations in [PL-fig_7](PL-fig_7), each observation constrains the possibility space by removing the proposition representing the observed abstraction. From the possibility space.
 
 PROP : BP : 16 : $01\ )\ 00\ )\ P\ )\ 01$, $CS(S) = (\10, 11)\$
 
@@ -50,4 +50,4 @@ PROP : BP : 17 :
 PROP : BP : 18 : 
 
 ---
-[1^]:: [[Tasks related to binary probability]]
+[1^]:: [Tasks related to binary probability](Tasks%20related%20to%20binary%20probability.md)

@@ -8,5 +8,5 @@ index: 0.4
 name: 
 tags: metaphysics evidation
 ---
-Iso : EM : 0.4 : When referring to a the *[[Process Representation]]* of itself, we refer to the abstractions of information represented by it's observation [[Axiom-PC-0.1-Observation]]. Which is both $generated$ and $discriminated$ by itself.
+Iso : EM : 0.4 : When referring to a the *[Process Representation](Process%20Representation.md)* of itself, we refer to the abstractions of information represented by it's observation [Axiom-PC-0.1-Observation](Axiom-PC-0.1-Observation.md). Which is both $generated$ and $discriminated$ by itself.
 

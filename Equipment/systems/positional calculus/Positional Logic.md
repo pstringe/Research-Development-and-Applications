@@ -12,11 +12,11 @@ theorems of the positional logic may be manipulated using the propositional calc
 Def : POSC : 0.0 : (
 Def : POSC : 0.1 : )
 
-![[Def-POSC-0.2-dimension]]
+![Def-POSC-0.2-dimension](Def-POSC-0.2-dimension.md)
 
-![[Def-POSC-0.3-position]] 
+![Def-POSC-0.3-position](Def-POSC-0.3-position.md) 
 
-![[DEF-POSC-0.4-space]]
+![DEF-POSC-0.4-space](DEF-POSC-0.4-space.md)
 
 Prop : POSC : 0.5 : $position$ in $space$ : 0.5 : A $position$ $A$, in $space$ $x$ may be represented as $A_x$. Where $space$ $X$ consists of $n$ dimensions, $A_x$ can also be represented by a $plurality$, $positions$, from each $dimension$ such that, $ex(A_x) \Rightarrow (C_a, D_b ... O_n)$.
 Prop : POSC : 0.6 : $poistion$ in $dimension$ : A position $A$ of dimension $X$ is represented as $A_X$
@@ -45,5 +45,5 @@ Axiom : POSC : 1.3 : $infix(D\ C)$ : $((D:=(A||B)) \land\lnot (f((A||B)\ C) \lor
 2. $(Y |-| X)  \rightarrow (Y < X - 1) \land (X < Y - 1)$
 
 ---
-[1^]:: [[Notes on the Positional Calculus]]
-[2^]:: [[Tasks related to the development of the positional calculus]]
+[1^]:: [Notes on the Positional Calculus](Notes%20on%20the%20Positional%20Calculus.md)
+[2^]:: [Tasks related to the development of the positional calculus](Tasks%20related%20to%20the%20development%20of%20the%20positional%20calculus.md)

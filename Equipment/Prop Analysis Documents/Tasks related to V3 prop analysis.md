@@ -5,7 +5,7 @@ title: 				Tasks related to V3 prop analysis
 tags:
 ---
 - [ ] Read in input 
-	- [ ] finish [[Tasks related to implementation of gnl]]
+	- [ ] finish [Tasks related to implementation of gnl](Tasks%20related%20to%20implementation%20of%20gnl.md)
 	- [ ] Update submodule
 	- [ ] Develop test file
 	- [ ] Read and display test file

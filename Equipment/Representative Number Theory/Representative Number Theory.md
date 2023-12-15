@@ -7,11 +7,11 @@ tags:
 
 DEF : RTN : 0.0 : $Number$ : Unique, elucidated [abstraction](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Calculus%2FDefinitions%2C%20Axioms%2C%20Propositions%2FDef-TC-0.1.2-abstraction).
 
-![[RNT-0-Fundumental_Axioms]]
+![RNT-0-Fundumental_Axioms](RNT-0-Fundumental_Axioms.md)
 
-![[Determinate Successions]]
+![Determinate Successions](Determinate%20Successions.md)
 
-![[Hallucinatory (Indeterminate) Successions]]
+![Hallucinatory (Indeterminate) Successions](Hallucinatory%20(Indeterminate)%20Successions.md)
 
 **Operations**
 PROP : RTN-OPS : 0.0 : $m(p)\ /\ m(p) = p$; $m(m(p)) / m(m(p)) = p$
@@ -113,5 +113,5 @@ PROP : RTN : 2.3
 PROP : RTN : 2.4 : P RETRIV
 **
 ---
-[1^]:: [[Tasks related to the development of representative number theory]]
-[2^]:: [[Abstract mappings for encoding abstractions using RNT]]
+[1^]:: [Tasks related to the development of representative number theory](Tasks%20related%20to%20the%20development%20of%20representative%20number%20theory.md)
+[2^]:: [Abstract mappings for encoding abstractions using RNT](Abstract%20mappings%20for%20encoding%20abstractions%20using%20RNT.md)

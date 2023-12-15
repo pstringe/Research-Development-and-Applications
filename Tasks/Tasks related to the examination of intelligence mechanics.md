@@ -4,4 +4,4 @@ modification date:	2023-06-19 18:51
 title: 				Tasks related to the examination of intelligence mechanics
 tags: [metaphysics]
 ---
-- [ ] [[Examine remediation]] #metaphysics
+- [ ] [Examine remediation](Examine%20remediation) #metaphysics

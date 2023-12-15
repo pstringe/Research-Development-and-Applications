@@ -37,4 +37,4 @@ IMP : P : P : 12 : To build up the usefulness of liminal spaces P practices evin
 
 
 ---
-[1^]:: [[Liminal Space Observation]]
+[1^]:: [Liminal Space Observation](Liminal%20Space%20Observation.md)

@@ -8,7 +8,7 @@ tags: [metaphysics]
 - [ ] Develop formalism for describing indeterminate computation with estimation using classical logic
 - [ ] Develop formalism for isomorphism between recursive hierarchical traversal and liminal space traversal
 - [ ] Develop formal abstraction to describe liminal space
-- [ ] Use the propositions from the [[Mechanics and Elucidation of Evidence]] to justify computational time dilation
+- [ ] Use the propositions from the [Mechanics and Elucidation of Evidence](Mechanics%20and%20Elucidation%20of%20Evidence.md) to justify computational time dilation
 - [ ] Develop formalism to describe computational time dilation
 - [ ] Formally describe reticulation/ingratiation of base space
 - [ ] Formally describe reticulation/ingratiation of liminal space
@@ -16,5 +16,5 @@ tags: [metaphysics]
 - [ ] Describe the operation of processes in hyperspace 
 
 ---
-[1^]:: [[Notes on Process Representation]]
-[2^]:: [[Process Representation]]
+[1^]:: [Notes on Process Representation](Notes%20on%20Process%20Representation.md)
+[2^]:: [Process Representation](Process%20Representation.md)

@@ -10,9 +10,9 @@ tags:
 - [x] Define ingratiation ✅ 2023-08-23
 - [ ] Update definition of $response$, provide examples.
 - [ ] Update definition to enforce first person perspective.
-- [ ] Define representative abstraction in [[Abstract Representative Calculus]] and link
+- [ ] Define representative abstraction in [Abstract Representative Calculus](Abstract%20Representative%20Calculus.md) and link
 
-- [ ] Clarify in [[Abstract Representative Calculus]] that every abstraction in a theorem of abstract representative calculus may be mapped to a theorem in [[Representative Number Theory]]
+- [ ] Clarify in [Abstract Representative Calculus](Abstract%20Representative%20Calculus.md) that every abstraction in a theorem of abstract representative calculus may be mapped to a theorem in [Representative Number Theory](Representative%20Number%20Theory.md)
 
 - [ ] Develop a way to represent the symbol for observer of f in latex or some other medium
 - The following link contains information on how to do this, but we probably need to learn how to actually use latex outside of obsidian.
@@ -29,4 +29,4 @@ tags:
 * We need to understand how we can convert the output to an exportable format 
 * We need 
 ---
-[1^]:: [[Notes on process composition and self-reference to demonstrate stimulus-response]]
+[1^]:: [Notes on process composition and self-reference to demonstrate stimulus-response](Notes%20on%20process%20composition%20and%20self-reference%20to%20demonstrate%20stimulus-response.md)
