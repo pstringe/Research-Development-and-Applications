@@ -8,4 +8,4 @@ index:
 name:
 tags: 
 ---
-AXIOM : RNT : 0.5 : $(p(x) = x)$
+AXIOM : RNT : 0.5 : ``(p(x) = x)``

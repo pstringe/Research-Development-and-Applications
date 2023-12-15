@@ -9,4 +9,4 @@ name:
 tags: 
 ---
 Axiom-RTN-0.6
-AXIOM : RNT : 0.6 : $((m(p))(x) = m(x))$
+AXIOM : RNT : 0.6 : `(:= ((m p)(x)) = (m x))`
