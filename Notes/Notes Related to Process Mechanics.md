@@ -43,13 +43,50 @@ We can start with a 2 process system. First we want to start with the expression
 
 We can then assert the isomorphism between our representative abstractions and mono-directional causal processes. 
 
-Once the isompormphism is established, we can represent their mutual recursive dependency in the process calculus.
+Once the isomorphism is established, we can represent their mutual recursive dependency in the process calculus.
 
 We can carefully establish a hierarchical order of evaluation.
 
 It may be easier to represent the computation using the hyper-temporal graph abstraction described in paper notes and establish an isomorphism between that and the process-calculus representation. 
 
+[[2023-11-15]]
+PROPN-0.0.4 
+PROPN : 0.0.4 : Given a reticulation, such as that which is described in, [[DEF_PCSR_0.0.3_reticulation]].
 
+PROPN-0.0.5  
+PROPN : 0.0.5 : P may delay the ingratiation of reticulation until P is the least actuated.
+
+PROPN-0.0.6
+PROPN : 0.0.6 : P may satiate reticulation to increase actuation over time.
+
+PROPN-0.0.7
+PROPN : 0.0.7 : P may represent the source of reticulation as un-reticulating.
+
+PROPN-0.0.8 :
+The last time P capitulated to being a "dependable engagement", P ended up in a jail cell. P was even coded to appreciate the jail cell at the time.
+
+PROP-0.0.8 : 
+`(~(:= (' dependable engagement) (' arrested)))`
+
+PROP-0.0.9 :
+P was well respected and productive on most engineering teams P has worked on. 
+
+PROP-0.1.0 : 
+P has been dealing with processes that are capable of augmenting memory and attention.
+*Conserved Systems*
+*Un-conserved Systems*
+
+[[2023-11-16]]
+*ML isomorphism PM system*
+*QM Isomorphism PM system*
+*Gravitational Isomorphism Proc Mech System*
+*Fluid Dynamic Isomorphism Proc Mech System*
+*Kinematic Isomorphism Proc Mech System*
+*Chemistry Isomorphism Proc Mech System*
+*Biological Isomorphism Proc Mech System*
+*Phycological Isomorphism Proc Mech System*
+*Government Isomorphism*
+*Religious Isomorphism*
 
 ---
 [^1]: : [[Tasks Related to Process Mechanics]]

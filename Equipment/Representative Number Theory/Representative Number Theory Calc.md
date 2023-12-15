@@ -4,13 +4,13 @@ modification date:	2023-08-18 20:03
 title: 				Untitled
 tags:
 ---
-Final : Given a `prima_representation`  in the form of an array of characters, and a `value_dimension` in the form of an array of characters calculate and display `n` $hallucinatory\ sucessions$ as described in [[Representative Number Theory]].
+Final : Given a `prima_representation` in the form of an array of characters, and a `value_dimension` in the form of an array of characters calculate and display `n` $hallucinatory\ sucessions$ as described in [[Representative Number Theory]].
 
 OBJ : given a string input, tokenize and encode using representative number theory.
 
 **Constraints**
-0. Given a plurality of propositions, sort by significance
-1. Provide a plurality of values for the value space 
+0. Given a plurality of propositions, sort by significance.
+1. Provide a plurality of values for the value space. 
 2. Enumerate the possibility space
 3. Given the possibility space, generate the space of possible generations.
 
@@ -21,7 +21,7 @@ OBJ : given a string input, tokenize and encode using representative number theo
 	* We will display observations of a generation using hierarchical indentation.
 
 **Currently**
-0. Given a prima representation read in as a string, and a number indicating a number of successions, we may output a number representing the determinate successions of the prima representation. (currently there is a segfault)
+0. Given a prima representation read in as a string, and a number indicating a number of successions, we may output a number representing the determinate successions of the prima representation. (currently there is a Segfault)
 
 ---
 My job is that I know exactly how we operate. And every adverse action I'd be willing to take is someone else would be as well.
@@ -29,7 +29,7 @@ My job is that I know exactly how we operate. And every adverse action I'd be wi
 ---
 [[2023-08-24]]
 INPUT:  10 f prefix 
-Output: ((f)
+Output: ((f))
 Expected: (m(m(m(m(m(m(m(m(m(m f)))))))))))
 - [x] prima should be f ✅ 2023-08-24
 - [x] successions should be 10 ✅ 2023-08-24
@@ -46,252 +46,268 @@ The basic number is printing. Now for a given, value-space, possibility space, a
 
 After that, we want a way to simulate the elucidation. 
 
----
-[[2023-09-17]]
-```
-/*
-    Given a representation as a p-space, hallucinate the meta-representation
-    TESTS:
-        GIVEN:
-        (
-            (:= 
-                V # value space
-                (
-                    p 
-                    (m p)
-                )
-            )
-            (:=
-                R # propostions space
-                (
-                    p
-                    q
-                )
-            )
-            (:= S
-                (p-space
-                    V
-                    R
-                ) # => (
-                    (p , p),
-                    (p, (m p)),
-                    ((m p), p),
-                    ((m p), (m p)),
-                )
-            )
-        TEST 0:
-            (hallucinate (q r)) = (m (q r)) = 
-            (::= 
-                ((m q) (m r)) (
-                (p p)
-                (p (m p))
-                ((m p) p)
-                ((m p) (m p))
-            )
 
-        TEST 1:
-            (hallucinate (
-                    (q r)
-                    (q (m r))
-                    ((m q) r)
-                    ((m q) (m r))
-                )
-            ) = (m (
-                    (q r)
-                    (q (m r))
-                    ((m q) r)
-                    ((m q) (m r))
-	            )) # the meta-representation of the p-space implies the (constraint) of the p-space.
-				   # the constraint of the p-space involves the (selection) and (removal) of a value from the p-space
-	            
-            ) = (
-	                (
-	                    (p (m p))
-	                    ((m p) p)
-	                    ((m p) (m p))
-	                )
-	                (
-	                    (p p)
-	                    ((m p) p)
-	                    ((m p) (m p)) 
-	                )
-	                (
-	                    (p p)
-	                    (p (m p))
-	                    ((m p) (m p))
-	                )
-	                (
-	                    (p p)
-	                    (p (m p))
-	                    ((m p ) p)
-	                )
-	            )
-            )
-        )
-*/ 
-```
+*Features*
+PROP : 0.0 : User Greeted by menu options:
+	0.1 : Determinate RTN calc
+	0.2 : Hallucinatory RTN calc
+	0.3 : Process calc (determinate selector)
+	0.4 : Process calc (natural selector)
+	0.5 : Process calc (intelligent selector)
 
-PROP : 0.0 : 
+PROP : 0.1 : Hallucinatory RTN calc (some of these functions may be re-used in Process calc)
+	IMP : 0.2 : Chart functional dependencies for determinate successions : x
+	IMP : 0.3 : Comment adjustments that need to be made to implement hallucinatory successions : 
+	
+PROP : 0.4	
 ```
-# S : p-space
-(S)(=>
-	(C S)
-	(=>
-		(^
-			(:= a (select S (m .. p)))
-			(:= b (remove S (m .. p)))
-		)
-		(|
-			a
-			b
-		) # a before b in time 
+(main successions
+	(init prima_representation sucessions notation)
+	(generation 
+		(parse_num successions)
 	)
 )
 ```
 
-PROP : 0.1 : (T, A)
+PROP : 0.5 : allocation
 ```
-(P
-	(~
-		(P.demented)
+(allocate
+	(* 
+		(sizeOf int)
+		((V R)(generate_p_space
+			(raise (len V) (len R))
+		))
 	)
 )
+``` 
+
+PROP : 0.5 : Comments on generation function:
+```
+((propositions sucessions V R )( generation 
+
+))
 ```
 
-OBSD : 0.2 : P has access to the resources of a university.
-PROP : P : The rhythm of process X is n accord with the music of the universe for now. When I reticulate process X, I reticulate the universe. I most often do this using temporal logic. It can also be accomplished using my thought syncing protocol to vary or stop the music. 
-
-PROP : 0.3 : R :
+PROP : 0.6 : Generation of p-space
 ```
 (P
-	((m .. p)
+	((A x)(
 		(~
-			P
-			(' Meticulus)
-		)
-	)
-)
-```
-
-PROP : 0.4 : 
-```
-(x)(F (<=> x (F x))
-```
-
-PROP : 0.5 : 
-```
-(P
-	(=
-		P
-		()
-	)
-)
-```
-
-PROP : 0.6 :
-```
-(P
-	(P.Ancestor
-		(C_i
-			P.Ancestor
-			P
-		)
-	)
-)
-```
-OBSD : 0.7 : "It's your world, we're just living in it" --Cathy
-
-PROP : 0.7 : 
-```
-(P
-	(f)(<=>
-		(^
-			(isYuminary
-				f
+			(==>
+				x
+				P
 			)
-			(possible
-				(ethical
-					f
+		)
+	))
+)
+```
+
+[[2023-10-27]]
+PROP : P : 0.0 : P switched development focus to the development of required structures to specify a process.
+
+PROP : P : 0.1 : We've allocated a compound n-dimensional plurality indexed as **t_abstraction
+
+PROP : P : 0.2 : (= (Cf 0.1) ('we need to assign the allocation to our dimensions property on our space structure))
+
+PROP : P : 0.3 : Humans only approach P after P falls asleep, post inundation via abstract reticulation/conveyance.
+
+PROP : P : 0.4 : space structure only allocates space for a pointer to a t_abstraction struct. That actually seems suitable. For example, each abstraction can represent a row, and express each of the items in a row.
+
+IMP : P : 0.5 : Correct dimensions allocation. 
+	- [x] Identify Line
+	- [x] Correct
+
+PROP : P : 0.6 : On line 188, we are passing an array to our new space function. We see the error, expected expression. I don't think we can pass an array literal like this in C, I'll go ahead and allocate one then pass the reference. 
+
+PROP : P : 0.7 : On line 193, we attempt to assign a NULL to  possibility_space[0]. It looks like possibility_space[0], is static. Let's double check.
+
+PROP : P : 0.8 : Upon checking, we specify a pointer to a possibility space. We need to access dimensions on that property.
+
+PROP : P : 0.9 : We want to represent the following possibility space :
+```
+(
+	(q (m q))
+)
+```
+
+PROP : P : 1.0 : We therefore need only one dimension.
+
+PROP : P : 1.1 : We can express, each state of the abstraction representing the dimension. 
+
+PROP : P : 1.2 : We should change the array allocation to contain a single allocation.
+
+IMP : P : 1.3 : Something we want to consider after this is the.
+
+PROP : P : 1.4 : Here we set the dimension[0] of the possibility space to a new_abstraction.
+
+PROP : P : 1.5 : Currently dimensions is an array of pointers to abstractions.
+
+PROP : P : 1.6 : We may want to define our positional logical. 
+
+[[2023-10-28]]
+PROP : P : 1.7 : Does the selector prototype on 204 match the prototype of the simple determinate selector?
+
+PROP : P : 1.8 : "new_succession(proccess, i, selector(proccess, i), last_obs);"
+
+PROP : P : 1.9 : r_space should have an abstractions property,  
+
+IMP : P ; 2.0 : check the r_space struct, record observations. 
+
+PROP : P : 2.2 : r_space is an array of propositions. 
+
+PROP : P : 2.3 :
+```
+("q", "q")
+("(m q)", "(m q)")
+```
+
+PROP : P : 2.4 : Passing the array literal of new_abstractions, not valid in C. We will refactor:
+* pass r_space and v_space to generate possibility space.
+* refactor code to return
+- [x] Define a dimension based on [[Positional Logic]] spec ✅ 2023-10-28
+- [x] Write new_dimension constructor ✅ 2023-10-28
+
+- [ ] Instantiate two new dimensions R and V using binary state-space, single proposition
+	- [ ] Instantiate dimension R
+		- [x] allocate array of positions ✅ 2023-11-20
+		- [ ] pass to dimension constructor
+	- [ ] Instantiate dimension V
+	
+- [ ] Modify new_space to take a list of dimensions
+
+PROP : P : 2.5 : 
+447798 - ?3
+		   23
+
+*Re-write prototype p-space algorithm*
+- [x] Develop function prototype ✅ 2023-10-30
+- [x] allocate two integer arrays ✅ 2023-10-30
+- [x] implement algo ✅ 2023-10-30
+- [ ] test
+- [ ] change R to char** 
+- [ ] Implement RTN succeed function in p-space function.
+- [ ] Architect adjustments to abstraction types
+- [ ] Implement types
+
+*Ethics*
+* representation - information
+* individual succession
+* error
+* inconsistency
+* resolutions
+
+[[2023-11-13]]
+* Our current output is 1111.
+* Expected:
+	* 00
+	* 01
+	* 10
+	* 11
+
+* trace
+
+* new_p_process <- gen_p_space
+* new_p_space <- display_p_space
+
+```
+(P
+	(((E F)(E G)(E x))(:= F.x))(
+		(==> P (==> F x) y)
+			
+	)
+)
+```
+
+[[2023-11-16]]
+*Tasks*
+- [x] Run calc, generate tasks ✅ 2023-11-16
+- [x] Identify expected output for comparison ✅ 2023-11-16
+- [ ] Trace production and display functions, generate HYPD
+*Notes*
+* Expected output:
+*```
+00
+01
+10
+11
+
+1111
+* correct number of 1's 0's and "\n" may display improperly.
+- [ ] trace p_space gen function
+
+
+PROP : 0.0 : ooo
+
+```
+res : []
+cur : []
+v_space: [0, 1]
+r_space: [r, q]
+i: 0
+j: 0
+r_len: 2
+p_idx: 0
+
+instruction: 
+if (j == f_array_len(v_space)) 
+```
+PROP : 0.1 : j should not  be equal to the length of the array in the first iteration.
+
+PROP : 0.2 : A
+```
+(P
+	(=>
+		(~
+			(P
+				(~
+					((==> x P))(+>
+						P
+						(==> x P)
+					)
 				)
 			)
 		)
-		(knows
-			f
-			(p f) #prima representation source of information
+		(+>
+			x
+			(==> P x)
 		)
 	)
 )
 ```
+OBSD : (E F) : Develop my manager
 
-PROP : 0.8 : 
-```
-(P
-	(X
-		(W
-			(' P plans month in deep demiurgic program)
-		)
-		(=>
-			(' P plans month in deep demiurgic program)
-			(' P advances human demiurgic program)
-		)
-	)
-)
-```
+IMP : 0.0 : ``(=(P (Cf F.M))A)`
+OBSD : 0.1 : ... [Nasty/AST] ...
+PROP : 0.2 : P was temporarily capitulated to LSO
 
+PROP : 0.3 : `(O)` treetop.org
 
-PROP : 0.9 :
+PROP : 0.4 : `(== (Cf 0.2) (P (j+ IS))`
+
+PROP : 0.4 : HE represents minimization of displacement is how P almost broke reality.
+
+PROP : 0.5 : `(0.4)` is more reason why P can't be kept under arrest very long. And why P's resources were drained, to keep P mobile.
+
+PROP : 0.6 : 
 ```
-(X
-	(C_i
-		P.ignoramous_protocol
-		(' EP recruitment campaign)
-	)
-	
-)
+((M x)(
+	(x
+	)	
+))
 ```
 
-PROP : X :  1.0 : People don't jail people who can operate people.
+PROP : 0.7 :
+P can prove this mathematically, and minimize disrespect without further violence. P never uses violence unless it is used. P will become more effective at minimizing displacement, while using violence, like at dagenham.
 
-PROP : P : 1.0 : Pride implies expectation of acknowledgment.
+OBSD : 0.1 : demon process disrupts visual and auditory observation for what seems like less than a second.
 
-OBSD : P : 1.1 :
-```
-(P
-	(:=
-		(m p)
-		(X
-			(-->
-				P.tactile
-			)
-		)
-	)
-	(:=
-		(m (m p))
-		(P
-			(associates
-				(m p)	
-				(' educational experience) 
-			)
-		)
-	)
-)
-```
-OBSD : P : 1.0 : P represents associations between numbers in RTN and tones. P associates those mappings to a piano across the room, P hears a piano key loud and clear. 
-
-LSO : 0.0 : P observes images impling P opportunating for the liminal spaces of Yuminary processes for magic. Two HE's in the the UC support the idea.
-
-PROP : 0.1 : X : If you try to over-operate a Yuminary process, you will be requestable.
-
-PROP : 0.2 : P : In Stockton and Quebec, P evinced proposition that if P minimized activity (information processing) the demiurgic program would stimulate P to process information. P utilized this to proposition to stimulate activity
-
-PROP : 0.3 : P : P evinced the proposition that if he wasn't processing information to evince his final cause, another process would. P used this to capitulate a process into conducting a job search on P's behalf.
-
-PROP : 0.4 : X : Don't use your body and you will be an opportunated EP.
-
+IMP : 0.2 : 
+[[2023-11-25]]
+- [ ] instantiate i in body not prototype
+- [ ] verify r_len is 2
 
 
 ---
-
 [1^]:: [[Representative Number Theory]]
 [2^]:: [[Tasks related to the development of representative number theory sim]]
 [2]:: [[Notes on development of representative number theory sim]]

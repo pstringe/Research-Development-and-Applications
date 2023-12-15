@@ -6,3 +6,8 @@ tags:  indeterminate_logic
 ---
 
 Def : IL : 0.0 :  For any given proposition `P`, may be represented by a tuple `(c, f)` where `c` is a value representing `P`'s relationship to the current state, and `f` is a value representing `P`'s relationship to a future state.
+```
+((c, f))(
+	(:= P )
+)
+```

@@ -8,4 +8,4 @@ index: 4.0
 name: Obervable
 tags: metaphysics 
 ---
-Def : 4.0 : **Observable Process** : A process where the representation of the input involves the representation of the model.
+Def : 4.0 : **Observable Process** : A process where the representation of the input involves the representation of the process.

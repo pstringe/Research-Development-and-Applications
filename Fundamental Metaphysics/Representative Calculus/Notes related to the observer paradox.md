@@ -15,3 +15,8 @@ Analysis and justification of [[Prop-0p-0.4]].
 4. We can assume certain propositions are given. We know the logic describing how the acceptance of propositions augments process representation will be described in the mechanics of evidence generation. And once the reader has accepted those propositions, the justification will no longer be necessary.  
 5. The representative calculus is a formal representation, not a logic. If we perform reductive manipulations of examples in the rep calculus, classify the manipulations, and formalize, it will function as a logic. 
 
+---
+[[2023-11-28]]
+0. Looking back at this work some months later. We were using functions when we started, but have since moved on to representative abstractions. which have similar syntax but share neither the definition of a function nor the syntax.
+1. Instead of evaluation, we express and abstract in rep logic, which in some cases, is isomorphic to function evaluation.
+2. We will re-write the definitions in rep logic, then in the future, if called for, we may define and implement a function. 

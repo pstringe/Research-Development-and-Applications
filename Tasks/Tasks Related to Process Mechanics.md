@@ -27,7 +27,7 @@ tags: [metaphysics]
 - [ ] Develop logic to abstract reductive demonstration of indeterminate abstract propositions #formal #equipment #tactical #evgen
 - [ ] Develop [[Mechanics and Elucidation of Evidence]] #metaphysics 🔁 every day
 - [ ] Examine the 2 step paradox #metaphysics 📅 2023-09-20
-- [ ] [[Remediation Mechanics]] #metaphysics 📅 2023-07-22
+- [ ] [[Remediation Mechanics]] #metaphysics
 - [ ] Examine a 3 process system #metaphysics 
 	- [ ] Update the compound edge and binding definitions to use a hyper-graph #metaphysics 
 - [ ] Establish a 2 process system

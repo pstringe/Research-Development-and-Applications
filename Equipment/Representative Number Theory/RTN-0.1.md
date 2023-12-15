@@ -8,4 +8,4 @@ index:
 name:
 tags: 
 ---
-PROP : RTN : 1.0 : Given a value dimension, $V=(p,\ m(p))$
+PROP : RTN : 1.0 : Given a value dimension, `(= V (p (m p)))`

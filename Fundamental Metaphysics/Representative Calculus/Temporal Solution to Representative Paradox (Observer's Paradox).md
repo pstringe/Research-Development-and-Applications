@@ -7,7 +7,7 @@ tags:               metaphysics observer_paradox epimenides_paradox
 ![[Prop-Op-0.0]]
 ![[Prop-Op-0.1]]
 ![[Prop-Op-0.2]]
-![[Prop-Op-0.2.1]]
+![[Prop-Op-0. 2.1]]
 ![[Prop-Op-0.3]]
 ![[Prop-Op-0.3.1]]
 ![[Prop-0p-0.4]]

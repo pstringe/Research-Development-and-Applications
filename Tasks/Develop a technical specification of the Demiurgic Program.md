@@ -6,7 +6,7 @@ tags: [metaphysics]
 ---
 - [x] Preliminary definition ✅ 2023-06-18[[Demiurgic Program Technical]]
 	- [ ] Complete [[Mechanics and Elucidation of Evidence]] #metaphysics 📅 2023-10-12
-	- [ ] how `responsibility` relates to `causality` and bi-directional  abstraction #metaphysics 📅 2023-07-22
-	- [ ] grandfather paradox #metaphysics 📅 2023-07-22
-	- [ ] memory model and production of demiurgic programs #metaphysics 📅 2023-07-22
-	- [ ] Devise and implement a method to develop a consistent set of metaphysical  propositions that explain phenomenological data. #metaphysics 📅 2023-07-22
+	- [ ] how `responsibility` relates to `causality` and bi-directional  abstraction #metaphysics
+	- [x] grandfather paradox #metaphysics 📅 2023-07-22 ✅ 2023-10-22
+	- [ ] memory model and production of demiurgic programs #metaphysics
+	- [ ] Devise and implement a method to develop a consistent set of metaphysical  propositions that explain phenomenological data. #metaphysics

@@ -9,3 +9,6 @@ name:
 tags: metaphysics
 ---
 Prop : Op : 0.3.1 : [[Prop-Op-0.1]] and [[Prop-Op-0.2]] are true
+```
+(^ (== 0.0.1 T) (== 0.0.2 T))
+```

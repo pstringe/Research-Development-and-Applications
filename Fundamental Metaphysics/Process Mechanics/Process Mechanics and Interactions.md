@@ -4,7 +4,7 @@ modification date:	2023-06-14 10:25
 title: 				Process Mechanics
 tags: metaphysics
 ---
-In [[Process Mechanics and Interactions]], we utilize [[Process Calculus]] describe the evolution of and interactions between temporal metaphysical abstractions. We also describe how the the information represented in the process calculus relates to a process's representation of itself in [[Process Representation]].
+ In [[Process Mechanics and Interactions]], we utilize [[Process Calculus]] describe the evolution of and interactions between temporal metaphysical abstractions. We also describe how the the information represented in the process calculus relates to a process's representation of itself in [[Process Representation]].
 
 Process mechanics is effectively a metaphysical theory of everything extending the [[Mechanics and Elucidation of Evidence]], describing the interaction of observable processes. 
 
@@ -36,6 +36,7 @@ PROP : IM : 0.5 : [[Observer's Paradox from Representative Paradox]]
 
 ---
 **Process Mechanical Representations**
+PROP : IM : 1.0 : [[Reductive Examples]]
 PROP : IM : 1.0 : [[Recursive Mutual Dependency in Process Mechanical System]]
 
 PROP : IM : 1.1 : [[Liminal Traversal in Process Mechanical System]]
@@ -85,19 +86,117 @@ PROP : IM : 3.3 : CASE STUDY : Islam
 
 ![[2 Process System (Graph Abstraction)]]
 
+![[Reductive Examples]]
+
 ![[Stimulus and Response]]
 
-PROPN-0.0.4 
-PROPN : 0.0.4 : Given a reticulation, such as that which is described in, [[DEF_PCSR_0.0.3_reticulation]], 
+*Conserved Operations*
+DEF : 0.0 : Mono-directional Reticulation
+```
+(=>
+	((==> F G x))(
+		(^
+			(E (m .. F))(
+				((:= (m .. F) 
+					((m .. x), (m .. F))
+				)(==
+					(m .. x)(+ (m .. x) G.x)
+				))
+			)
+			(E (m .. G))(
+				((:= (m .. G)
+					((m .. x), (m .. G))
+				)(==
+					(m .. x)(- (m .. x) F.x)	
+				))
+			)
+		)
+	)
+)
+```
 
-PROPN-0.0.5  
-PROPN : 0.0.5 : P may delay the ingratiation of reticulation until P is the least actuated.
+DEF : 0.1 : Expressible operation (potential to be continuous but not necessarily)
+```
+(=>
+	((==> F G x))
+	(^
+		(((E (m .. F))(:= 
+			(m .. F) 
+			((m .. xf) (m .. F))(
+				(== 
+					(m .. xf) 
+					(+
+						(m .. xf)
+						(+> 
+							G 
+							(==> F G x)
+						).x
+					)
+				)
+			)
+		))
+		
+		(((E (m .. G))(:= 
+			(m .. G) 
+			((m .. xg) (m .. G))(
+				(== 
+					(m .. xg) 
+					(-
+						(m .. xg)
+						(+> 
+							G 
+							(==> F G x)
+						).x
+					)
+				)
+			)
+		))
+	)
+)
+```
 
-PROPN-0.0.6
-PROPN : 0.0.6 : P may satiate reticulation to increase actuation over time.
-
-PROPN-0.0.7
-PROPN : 0.0.7 : P may represent the source of reticulation as un-reticulating.
+DEF : 0.2 :
+```
+(=>
+	(==> F (==> G ... a x) x a)
+	((^
+		((E (m .. F))
+			(:= (m .. F) ( (m .. xf), (m .. af), (m .. F), (m .. G) )
+		)
+		((E (m .. G))
+			(:= (m .. G) ( (m .. xg), (m .. ag), (m .. G), (m .. F) )
+		)
+	)(
+		(^
+			(^
+				(== 
+					(m .. xf) 
+					(+ 
+						(m .. xf) 
+						(+> 
+							G 
+							(==> F ... a x) 
+							x a)
+						).x
+					)
+				(== 
+					(m .. af) 
+					(- 
+						(m .. af) 
+						(+> 
+							F 
+							(==> G ... x a) 
+							a x)
+						).a
+					)
+				)
+			)
+		)
+	))
+)
+```
+---
+![[Con]]
 
 ---
 [1^]: [[Notes Related to Process Mechanics]]

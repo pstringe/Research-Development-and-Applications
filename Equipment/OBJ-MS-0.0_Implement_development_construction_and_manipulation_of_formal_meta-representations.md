@@ -4,7 +4,7 @@ modification date:	2023-08-16 10:33
 title: 				OBJ-MS-0.0_Implement_construction_and_manipulation_of_formal_metarepresentations
 tags:
 ---
-[[Representative Number Theory]]
+![[Representative Number Theory]]
 
 ![[Observations of Proccesses]]
 [Processing Method](obsidian://open?vault=Master&file=OBSD_P_3.0_Method_of_processing_propositions)
@@ -21,11 +21,7 @@ DEF : 0.5 : $prima-representation$ : That representation represented by a meta r
 
 DEF : 0.6 : $Logic$ : system for manipulating abstractions, isomorphic to a meta-representation, such that isomorphisms are preserved.
 
-
-
-
-
 ---
 
-[1^]::[[Tasks related to the production of CAMFM]]
-[2^]::[[OBJ-MS-0.0_Implement_development_construction_and_manipulation_of_formal_representations]]
+[1^]:: [[Tasks related to the production of CAMFM]]
+[2^]:: [[OBJ-MS-0.0_Implement_development_construction_and_manipulation_of_formal_representations]]

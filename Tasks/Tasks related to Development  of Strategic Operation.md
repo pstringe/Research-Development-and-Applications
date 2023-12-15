@@ -27,5 +27,5 @@ tags:
 - [ ] classify any policies that have nothing to do with politics.
 
 ---
-[1^]:: [[Main Strategic Specification]]
+[1^]:: [[Main Strategic Specification (Wartime)]]
 [2^]:: [[Notes related to the development of Main Specification]]

@@ -8,7 +8,7 @@ index: 0.1
 name: Observation
 tags: metaphysics process_calculus
 ---
-Axiom : PC : 0.1.0 : $Observation$ : Given a theorem of the form $F \ )\ F\ )\ (m\ F)$,  $(m F)|\ F\ |\ F\ |\ (m\ F)$ is $F$'s $observation$ of the evaluated term. We refer to $(m\ F)$ term $observed\ term$ when $i = l$.
+Axiom : PC : 0.1.0 : $Observation$ : Given a theorem of the form $F \ )\ F\ )\ (m\ F)$,  $(m F)|\ F\ |\ F\ |\ (m\ F)$ is $F$'s $observation$ of the evaluated term. We refer to $(m\ F)$ $observed\ term$ when $i = l$.
 
 Axiom : PC : 0.1.1 : $Observation$ : Given a theorem of the form $o_n^p\ )\ F\ )\ o_{(m\ n)}^p$,  $o_{(m\ n)}^p)\ o_n^p\ )\ F^p\ )\ o_{(m\ n)}^p$ is $F$'s $observation$ of the evaluated term. We refer to the first $o$ term, $o$, and the last $o$ term $o_l$ as the $observed\ term$ when $i = l$.
 

@@ -5,14 +5,16 @@ title: 				Process Calculus Axioms
 tags: #metaphysics
 ---
 
-The process calculus is a tool for representing the evolution of a [representative abstraction](Def-TC-0.0-representative_abstraction).
+The process calculus is a tool for representing the evolution of a self-representing [representative abstraction](Def-TC-0.0-representative_abstraction).
 
-In time, we refer to this as a process. The process abstraction is used to demonstrate the [temporal solution to representative paradox](Temporal Solution to Representative Paradox (Observer's Paradox), an observer's paradox.
+In time, we refer to this as a process. The process abstraction is used to demonstrate a [temporal solution to representative paradox](Temporal Solution to Representative Paradox (Observer's Paradox), an observer's paradox.
+
+Simple examples can be found in: [[Reductive Examples]]
 
 [[Equality Operators]]
 ![[Def-TC-0.1.2-abstraction]]
 ![[Def-PC-0.1.3-compound_abstraction]]![[Prop-PC-0.1.4]]![[Def-PC-0.0-Process]]
-*Demonstrate the expression of abstractions in a simple process using RTN*
+*Demonstrate the expression of abstractions in a simple process using [[Representative Number Theory]]*
 ```
 # We use (proc x) to denote a theorem of process calculus
 # (:= a b) : a may be expressed as b
@@ -28,9 +30,9 @@ In time, we refer to this as a process. The process abstraction is used to demon
 
 # Isomporphic data-structure for describing state of a simple process
 (
-	F.    # input
-	F.    # p-space
-	(mf). # output
+	F     # input
+	F     # p-space
+	(mf)  # output
 )
 ```
 

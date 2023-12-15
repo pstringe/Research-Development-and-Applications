@@ -66,6 +66,17 @@ $$
 
 PROP : RDIAP : 26 : When abstracting the propositions, we concern ourselves, with only the most significant propositions in the original space of possibilities.
 
+PROP : RDIAP : 27 : Given the abstract proposition, $a$, with p-space :
+$$
+\begin{matrix}  
+q & \\  
+(m\ q)\\
+\end{matrix}
+$$
+PROP : RDIAP : 27.1 :
+$$
+
+$$
 PROP : RDIAP : 27 : Any of the possibilities of PROP-25, may be considered the [final cause](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FDef-EM-0.2-Final_Cause) of a [generation](obsidian://open?vault=Master&file=Research%20and%20Development%2FFundamental%20Metaphysics%2FProcess%20Mechanics%2FDef-EM-0.3-Generation%20(reductive)) where $a$ is the [initial cause](Def-EM-0.1-Initial_Cause)
 
 COMMENT : This PROP-RDIAP-27 is related to strength of evidence.

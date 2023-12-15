@@ -5,7 +5,6 @@ title: 				Untitled
 tags:
 
 ---
-
 ![[Formal Command Syntax]]
 ![[Command Logic]]
 

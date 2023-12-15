@@ -1,6 +1,6 @@
 ---
 creation date: 2023-07-06 23:23
-modification date: 2023-07-06 23:23
+modification date: 2023-08-15 09:36
 title: Notes on galleteia
 tags:
 ---

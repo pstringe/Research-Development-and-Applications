@@ -17,7 +17,11 @@ The result is a fundamental metaphysic that may serve as a foundation for every 
 I will also describe how scientific consensus may be by-passed to elucidate alternative representations of reality as well as ==how to differentiate between "delusional" and "illusory" representations of reality using a novel number theory.==
 
 We also introduce a model of generalized non-deterministic computing as an elucidation of causal justification. The abstraction of which, we refer to as magic.
-[[Process Calculus]]
+
+[[Necessity of representation]]
+![[What is Evidence]]
+
+![[Process Calculus]]
 
 ![[Prop-EM-0.2]]
 ![[Def-EM-0.0-Succession]]
@@ -25,6 +29,9 @@ We also introduce a model of generalized non-deterministic computing as an eluci
 ![[Def-EM-0.3.1-Generation (abstract)]]![[Def-EM-0.1-Initial_Cause]]![[Def-EM-0.2-Final_Cause]]![[Def-EM-0.4-Evidence_Generation]]![[Prop-EM-0.3]]![[Prop-EM-0.1-Person]]![[Iso-EM-0.4]]![[Prop-EM-0.5]]
 ![[Prop-EM-0.6]]
 
+![[Reductive demonstration of indeterminacy of abstract propositions]]
+![[Representative Number Theory]]
+![[What is Evidence]]
 ---
 [1^]:: [[Notes related to the mechanics of evidence generation]]
 [2^]:: [[Tasks Related to the Mechanics of Evidence Generation]]

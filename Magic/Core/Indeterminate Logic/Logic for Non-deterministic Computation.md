@@ -22,19 +22,14 @@ Indeterminate
 ![[Def-IL-0.5]]
 ![[Def-IL-0.6]]
 
-**Stimulation/Response Operators**
-PROP : STMR : An expressed abstraction of an observations is stimulating if the value of its represented proposition changes. 
-PROP : STMR : The significance of the changing proposition affects the level of stimulation
-ISO : stimulation : f stimulates x : `f -> x`
-ISO : response : x responds to f : `f <- x`
-ISO : stimulation : x ingratiates : `f ->- x`
+![[StimulationResponse Operators (original)]]
 
 ![[Temporal]]
 
 **Equality Operators**
 ![[Def-IL-1.0]]
 
-Def : IL : 1.1 : `(E x y)`  : `x == y`, the evaluation of x is isomorphic to the evaluation of y in form and content
+Def : IL : 1.1 : `(E x y)`  : `x == y`, the evaluation of x is isomorphic to the evaluation of y in form and content.
 
 Def : IL : 1.2 : `(S x y)` :  `x ) S ) y` : `x := y`, x is an abstraction of y. (y may replace x)
 
@@ -44,6 +39,7 @@ Prop : 1.4 : For a given `x` and `y` more than one of these operators may apply.
 
 **Abstract Operators**
 Def : IL : 1.0 : `mE(x, A)` : `x::=A`  Where `A:={a, b, c ... n}`, assign to x, one of the values of `A`, to produce `y` 
+
 Stimulation and response operators.
 ![[Def-IL-2.1-eX]]
 

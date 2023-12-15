@@ -5,7 +5,7 @@ title: 				Demiurgic Program Technical
 tags:
 ---
 
-![[Def-DPT-0.0-demiurgic_system]]
+[[Def-DPT-0.0-demiurgic_system]]
 ![[Def-DPT-0.1]]
 
 ---

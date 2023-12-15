@@ -8,6 +8,9 @@ index: 0.2
 name: 
 tags: 
 ---
-Prop : Op : 0.2 : $f(f)\neq f$ [[Axiom-TC-0.2-EP]], $f$'s representation of $f$ is not $f$.
+Prop : Op : 0.2 : `(!= (F F) F)` [[Axiom-TC-0.2-EP]], `F` representation of `F` is not `F`.
+```
+(!= (F F) F)
+```
 
 ---

@@ -8,4 +8,7 @@ index: 0.1
 name: 
 tags: 
 ---
-Prop : Op : 0.1 : $f$ is $f$'s representation of itself. $f = f(f)$ [[Axiom-TC-0.1-GD]]
+Prop : Op : 0.1 : `f` is `f`'s representation of itself.  [[Axiom-TC-0.1-GD]]
+```
+(= f (f f))
+```

@@ -36,11 +36,11 @@ PROP : RTN : 1.8 : We may start with one deluded process.
 (m (m (m (m p))))
 ```
 
-The prima representation may be a plurality consisting of a possibility schema
+PROP : RTN : 1.9 : The prima representation may be a plurality consisting of a possibility schema
 
-Each meta-representation of the prima representation may be expressed as a hallucination of the possible observation given the possibility space at that succession.
+PROP : RTN : 2.0 : Each meta-representation of the prima representation may be expressed as a hallucination of the possible observation given the possibility space at that succession.
 
-Substitute a simple possibility schema:
+PROP : RTN : 2.1 : Substitute a simple possibility schema:
 ```
 (m 
 	(m 
@@ -58,7 +58,7 @@ Substitute a simple possibility schema:
 )
 ```
 
-Express `(m p)` as a delusion of p:
+PROP : RTN : 2.2 : Express `(m p)` as a delusion of p:
 ```
 (m 
 	(m 
@@ -98,6 +98,20 @@ Express `(m p)` as a delusion of p:
 )
 ```
 
+PROP : RTN : 2.3
+```
+			P
+		   / \
+		(p P)(m P)
+		 / \ / \ 
+ (p (p P))  P  (m (m P))
+	   / \ / \  / \
+		   ...  
+		   
+```
+
+PROP : RTN : 2.4 : P RETRIV
+**
 ---
 [1^]:: [[Tasks related to the development of representative number theory]]
 [2^]:: [[Abstract mappings for encoding abstractions using RNT]]

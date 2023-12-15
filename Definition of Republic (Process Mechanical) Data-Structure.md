@@ -5,8 +5,9 @@ title: 				Definition of Republic Data-Structure
 tags:
 ---
 
-The data structure we define here may be utilized to simulate a process mechanical system to simulate government structures and intelligence mechanics. The first draft of the definition is not an exhaustive proof. The definition is reliant on isomorphisms between three formal systems [[Abstract Representative Calculus]], [[Process Calculus]], [[Representative Calculus]]
+The data structure we define here may be utilized to simulate a process mechanical system to simulate government structures and intelligence mechanics. The first draft of the definition is not an exhaustive proof. The definition is reliant on isomorphisms between three formal systems [[Representative Logic]], [[Abstract Representative Calculus]], [[Process Calculus]], [[Representative Calculus]].
 
+![[Representative Logic]]
 TYPE : INDEX : ORIGIN : REP : M-REP
 
 **PT 1: Demonstration of the observer's paradox in representative and process calculus**
@@ -258,7 +259,8 @@ PROP : 2.2.0 :
 
 PROP : 2.2 : `(:= F (G H))`
 
-
+---
+[1^] :: [[Tasks related to processing republic data-structure]]
 
 
 

@@ -7,7 +7,7 @@ tags:
 *Iterate Meta-Abstraction*
 DEF : 0.0 : Methods of developing algorithm
 1. Articulate the constraints of the problem.
-2. Represent proportions isomorphic to the described abstractions.
+2. Represent propositions isomorphic to the described abstractions.
 3. Develop an example input and its corresponding output.
 4. Develop a spatial meta-representation of the example input in relation to the desired output.
 5. Describe the spatial meta-representation using a sequential abstraction
